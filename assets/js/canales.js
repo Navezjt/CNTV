@@ -904,7 +904,7 @@ const listaCanales = {
 // BRASIL
     'cnn-brasil': {
         'nombre': 'CNN Brasil',
-        'yt_id': 'UCvdwhh_fDyWccR42-rReZLw',
+        'yt_id': 'v=ZSS1nxv-iRM',
         'pais': 'br'
     },
 // CANADÁ
