@@ -1,4 +1,4 @@
-# Características
+# Características 
 
 - [X] Diseño
   - [X] Responsivo
