@@ -1,5 +1,5 @@
 /* 
-Guía rápida:
+Guía rápida: 
 
     'nombre': {                   (Nombre objeto/canal, no repetir entre señales debe ser único (sin espacios))
         'nombre': 'nombre'        (Nombre del canal a mostrar en botón y barra que dirige a su origen cuando esta activo)
