@@ -1175,22 +1175,22 @@ const listaCanales = {
     },
     'RT-america': {
         'nombre': 'RT America',
-        'yt_id': 'UCczrL-2b-gYK3l4yDld4XlQ',
+        'iframe_url': 'https://actualidad.rt.com/live-embed',
         'pais': 'ru'
     },
     'RT-arabic': {
         'nombre': 'RT Arabic',
-        'yt_id': 'UCsP3Clx2qtH2mNZ6KolVoZQ',
+        'iframe_url': 'https://rutube.ru/play/embed/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2',
         'pais': 'ru'
     },
     'RT-español': {
         'nombre': 'RT en Español',
-        'yt_id': 'UC2mtXUpAYLYJIZ2deSPhlqw',
+        'iframe_url': 'https://actualidad.rt.com/live-embed',
         'pais': 'ru'
     },
     'RT-vivo': {
         'nombre': 'RT en vivo',
-        'yt_id': 'UCEIhICHOQOonjE6V0SLdrHQ',
+        'iframe_url': 'UCEIhICHOQOonjE6V0SLdrHQ',
         'pais': 'ru'
     },
     'RT-france': {
