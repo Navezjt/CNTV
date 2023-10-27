@@ -1,4 +1,4 @@
-// BLOQUEAN VISORES EXTERNOS 
+// BLOQUEAN VISORES EXTERNOS
 // RUSIA
 	'Россия-24': {
         'nombre': 'Россия 24',
