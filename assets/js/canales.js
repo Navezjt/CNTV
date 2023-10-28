@@ -236,6 +236,24 @@ const listaCanales = {
         'fuente': 'https://www.lared.cl/senal-online',
         'pais': 'cl'
     },
+    'hatun-tv': {
+        'nombre': 'HATUN TV',
+        'iframe_url': 'https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv',
+        'fuente': 'https://bestcableperu.com.pe/tv99.html',
+        'pais': 'pe'
+    },
+    'cantina-tv': {
+        'nombre': 'CANTINA TV',
+        'm3u8_url': 'https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8',
+        'fuente': 'http://www.cantinatv.com/',
+        'pais': 'vn'
+    },
+    'navez-mixs': {
+        'nombre': '📻 NAVEZ MIXS',
+        'iframe_url': 'http://stream.zeno.fm/vq4s9m2sg48uv',
+        'fuente': 'https://sites.google.com/view/radio-navez-mixs/home?authuser=0',
+        'pais': 'pe'
+    },
     'cooperativa': {
         'nombre': '📻 Cooperativa',
         'iframe_url': 'https://rudo.video/live/coopetv?volume=0&mute=1',
