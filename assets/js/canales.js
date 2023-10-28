@@ -248,12 +248,6 @@ const listaCanales = {
         'fuente': 'https://bestcableperu.com.pe/tv99.html',
         'pais': 'pe'
     },
-    'cantina-tv': {
-        'nombre': 'CANTINA TV',
-        'm3u8_url': 'https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8',
-        'fuente': 'http://www.cantinatv.com/',
-        'pais': 've'
-    },
     'navez-mixs': {
         'nombre': '📻 NAVEZ MIXS',
         'iframe_url': 'http://stream.zeno.fm/vq4s9m2sg48uv',
@@ -890,6 +884,12 @@ const listaCanales = {
     'globovision': {
         'nombre': 'Globovisión En Vivo',
         'yt_id': 'UCfJtBtmhnIyfUB6RqXeImMw',
+        'pais': 've'
+    },
+    'cantina-tv': {
+        'nombre': 'CANTINA TV',
+        'm3u8_url': 'https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8',
+        'fuente': 'http://www.cantinatv.com/',
         'pais': 've'
     },
     'telesur-tv': {
