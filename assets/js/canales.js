@@ -236,6 +236,12 @@ const listaCanales = {
         'fuente': 'https://www.lared.cl/senal-online',
         'pais': 'cl'
     },
+    'mas-cumbia': {
+        'nombre': 'MAS CUMBIA',
+        'iframe_url': 'https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline',
+        'fuente': 'https://bestcableperu.com.pe/tv99.html',
+        'pais': 'pe'
+    },
     'hatun-tv': {
         'nombre': 'HATUN TV',
         'iframe_url': 'https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv',
@@ -246,7 +252,7 @@ const listaCanales = {
         'nombre': 'CANTINA TV',
         'm3u8_url': 'https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8',
         'fuente': 'http://www.cantinatv.com/',
-        'pais': 'vn'
+        'pais': 'vz'
     },
     'navez-mixs': {
         'nombre': '📻 NAVEZ MIXS',
