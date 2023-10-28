@@ -1152,7 +1152,7 @@ const listaCanales = {
 // ALEMANIA
     'dw-español': {
         'nombre': 'DW Español',
-        'yt_id': 'UCT4Jg8h03dD0iN3Pb5L0PMA',
+        'yt_id': 'UCT4Jg8h03dD0iN3Pb5L0PMA/live',
         'pais': 'de'
     },
     'dw-deutsch': {
