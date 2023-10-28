@@ -236,24 +236,6 @@ const listaCanales = {
         'fuente': 'https://www.lared.cl/senal-online',
         'pais': 'cl'
     },
-    'mas-cumbia': {
-        'nombre': 'MAS CUMBIA',
-        'iframe_url': 'https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline',
-        'fuente': 'https://bestcableperu.com.pe/tv99.html',
-        'pais': 'pe'
-    },
-    'hatun-tv': {
-        'nombre': 'HATUN TV',
-        'iframe_url': 'https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv',
-        'fuente': 'https://bestcableperu.com.pe/tv99.html',
-        'pais': 'pe'
-    },
-    'navez-mixs': {
-        'nombre': '📻 NAVEZ MIXS',
-        'iframe_url': 'http://stream.zeno.fm/vq4s9m2sg48uv',
-        'fuente': 'https://sites.google.com/view/radio-navez-mixs/home?authuser=0',
-        'pais': 'pe'
-    },
     'cooperativa': {
         'nombre': '📻 Cooperativa',
         'iframe_url': 'https://rudo.video/live/coopetv?volume=0&mute=1',
@@ -839,6 +821,24 @@ const listaCanales = {
     'latina-noticias': {
         'nombre': 'Latina Noticias',
         'yt_id': 'UCpSJ5fGhmAME9Kx2D3ZvN3Q',
+        'pais': 'pe'
+    },
+    'mas-cumbia': {
+        'nombre': 'MAS CUMBIA',
+        'iframe_url': 'https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline',
+        'fuente': 'https://bestcableperu.com.pe/tv99.html',
+        'pais': 'pe'
+    },
+    'hatun-tv': {
+        'nombre': 'HATUN TV',
+        'iframe_url': 'https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv',
+        'fuente': 'https://bestcableperu.com.pe/tv99.html',
+        'pais': 'pe'
+    },
+    'navez-mixs': {
+        'nombre': '📻 NAVEZ MIXS',
+        'iframe_url': 'http://stream.zeno.fm/vq4s9m2sg48uv',
+        'fuente': 'https://sites.google.com/view/radio-navez-mixs/home?authuser=0',
         'pais': 'pe'
     },
     'ovacion-tv': {
