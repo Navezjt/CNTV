@@ -252,7 +252,7 @@ const listaCanales = {
         'nombre': 'CANTINA TV',
         'm3u8_url': 'https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8',
         'fuente': 'http://www.cantinatv.com/',
-        'pais': 'vz'
+        'pais': 've'
     },
     'navez-mixs': {
         'nombre': '📻 NAVEZ MIXS',
