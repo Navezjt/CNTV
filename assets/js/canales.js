@@ -1152,7 +1152,7 @@ const listaCanales = {
 // ALEMANIA
     'dw-español': {
         'nombre': 'DW Español',
-        'iframe_url': 'https://www.youtube.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA/live',
+        'm3u8_url': 'https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8',
         'pais': 'de'
     },
     'dw-deutsch': {
