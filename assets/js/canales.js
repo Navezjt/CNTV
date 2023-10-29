@@ -186,7 +186,7 @@ const listaCanales = {
     },
     'cnn-cl': {
         'nombre': 'CNN Chile',
-        'yt_id': 'UCpOAcjJNAp0Y0fhznRrXIJQ',
+        'iframe_url': 'http://209.91.213.10:8088/play/a014',
         'pais': 'cl'
     },
     'chv-noticias': {
