@@ -1,11 +1,11 @@
 ## PWA Código Abierto para ver/comparar preseleccionadas transmisiones de noticias provenientes de Chile (y el mundo)
-# Enlace: https://alplox.github.io/teles/
+# Enlace: https://Navezjt.github.io/teles/
 
 Obviamente puede ser adaptado para otro tipo de contenido, eso ya es cosa suya.
 
 Toda contribución es bienvenida 😊
 
-[[Repositorio original (RIP)]](https://github.com/Alplox/tele)
+[[Repositorio original (RIP)]](https://github.com/Navezjt/tele)
 
 # Tabla de contenido
 - [Canales disponibles junto a su origen 📺](#canales-disponibles-junto-a-su-origen-)
