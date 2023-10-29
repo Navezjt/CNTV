@@ -179,8 +179,8 @@ const listaCanales = {
         'fuente': 'https://www.13.cl/en-vivo',
         'pais': 'cl'
     },
-    'cnn-cl-0': {
-        'nombre': 'CNN Chile 0',
+    'cnn-cl0': {
+        'nombre': 'CNN Chile0',
         'src_url': 'https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8',
         'pais': 'cl'
     },
