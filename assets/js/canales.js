@@ -1090,7 +1090,7 @@ const listaCanales = {
         'yt_id': 'UCoMdktPbSTixAyNGwb-UYkQ',
         'pais': 'us'
     },
-    'telemundo': {
+    'telemundo-0': {
         'nombre': 'Noticias Telemundo',
         'm3u8_url': 'http://45.166.92.22:58001/play/a00r/index.m3u8',
         'pais': 'us'
