@@ -181,7 +181,7 @@ const listaCanales = {
     },
     'cnn-cl0': {
         'nombre': 'CNN Chile0',
-        'iframe_m3u8': 'https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8',
+        'm3u8_url': 'https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8',
         'pais': 'cl'
     },
     'cnn-cl': {
