@@ -917,7 +917,7 @@ const listaCanales = {
 // ESPAÑA
     'cnn-español': {
         'nombre': 'CNN en Español',
-        'yt_id': 'UC_lEiu6917IJz03TnntWUaQ',
+        'm3u8_url': 'http://45.166.92.22:58001/play/a036/index.m3u8',
         'pais': 'es'
     },
     'rtve': {
@@ -1152,7 +1152,7 @@ const listaCanales = {
 // ALEMANIA
     'dw-español': {
         'nombre': 'DW Español',
-        'yt_id': 'UCT4Jg8h03dD0iN3Pb5L0PMA/live',
+        'iframe_url': 'https://www.youtube.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA/live',
         'pais': 'de'
     },
     'dw-deutsch': {
