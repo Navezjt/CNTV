@@ -1304,18 +1304,23 @@ const listaCanales = {
         'yt_id': 'UC5l1Yto5oOIgRXlI4p4VKbw',
         'pais': 'cn'
     },
-    'thvl': {
+    'live-chino-7': {
+        'nombre': '寰宇新聞 頻道',
+        'yt_id': 'UC2TuODJhC03pLgd6MpWP0iw',
+        'pais': 'cn'
+    },
+    'thvl-8': {
         'nombre': 'THVL',
         'm3u8_url': 'http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8',
         'fuente': 'https://www.thvli.vn/live/thvl1-hd',
         'pais': 'cn'
     },
-    'cgtn-europe': {
+    'cgtn-europe-9': {
         'nombre': 'CGTN Europe',
         'yt_id': 'UCj0TppyxzQWm9JbMg3CP8Rg',
         'pais': 'cn'
     },
-    'cgtn': {
+    'cgtn-10': {
         'nombre': 'CGTN',
         'm3u8_url': 'https://live.cgtn.com/1000/prog_index.m3u8',
         'fuente': 'https://www.cgtn.com/',
