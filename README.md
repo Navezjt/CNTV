@@ -1,11 +1,11 @@
 ## PWA Código Abierto para ver/comparar preseleccionadas transmisiones de noticias provenientes de Chile (y el mundo)
-# Enlace: https://Navezjt.github.io/teles/
+# Enlace: https://Navezjt.github.io/CNTV/
 
 Obviamente puede ser adaptado para otro tipo de contenido, eso ya es cosa suya.
 
 Toda contribución es bienvenida 😊
 
-[[Repositorio original (RIP)]](https://github.com/Navezjt/tele)
+[[Repositorio original (RIP)]](https://github.com/Navezjt/CNTV)
 
 # Tabla de contenido
 - [Canales disponibles junto a su origen 📺](#canales-disponibles-junto-a-su-origen-)
