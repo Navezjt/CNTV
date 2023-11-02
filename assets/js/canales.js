@@ -1268,6 +1268,16 @@ const listaCanales = {
         'yt_id': 'UC0lnIB2qcArjFJPtq79WGZA',
         'pais': 'ua'
     },
+    'FREEДОМ': {
+        'nombre': 'UA:FREEДОМ',
+        'yt_id': 'UCVEaAWKfv7fE1c-ZuBs7TKQ',
+        'pais': 'ua'
+    },
+    'PJ-Masks': {
+        'nombre': 'PJ Masks',
+        'yt_id': 'UCY2jUnU118sVkdj2xafiJ0g',
+        'pais': 'ua'
+    },
     'UA-Перший': {
         'nombre': 'UA:Перший',
         'yt_id': 'UCPY6gj8G7dqwPxg9KwHrj5Q',
@@ -1407,6 +1417,21 @@ const listaCanales = {
     'indiatv': {
         'nombre': 'IndiaTV',
         'yt_id': 'UCttspZesZIDEwwpVIgoZtWQ',
+        'pais': 'in'
+    },
+    'Aaj-Tak': {
+        'nombre': 'Aaj Tak',
+        'yt_id': 'UCt4t-jeY85JegMlZ-E5UWtA',
+        'pais': 'in'
+    },
+    'TIMES-NOW': {
+        'nombre': 'TIMES NOW',
+        'yt_id': 'UCMk9Tdc-d1BIcAFaSppiVkw',
+        'pais': 'in'
+    },
+    'TV9-Bharatvarsh': {
+        'nombre': 'TV9 Bharatvarsh',
+        'yt_id': 'UCOutOIcn_oho8pyVN3Ng-Pg',
         'pais': 'in'
     },
     'republic-world': {
