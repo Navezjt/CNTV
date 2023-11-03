@@ -1939,7 +1939,7 @@ const listaCanales = {
         'yt_id': 'UC33MG3YdoQ16a8a3wODh6lw',
         'pais': 'cl'
     },
-    // Libano
+// Libano
     },
     'alhiwar-tv': {
         'nombre': '📺 alhiwar.tv',
