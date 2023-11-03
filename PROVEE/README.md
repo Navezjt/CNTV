@@ -1,1 +1,2 @@
-https://github.com/Alplox/teles
+- https://github.com/Alplox/teles
+- https://emojiterra.com/es/television/
