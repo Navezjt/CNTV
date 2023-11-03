@@ -47,117 +47,117 @@ const listaCanales = {
     }, */
 // CHILE
     '24-horas': {
-        'nombre': '24 horas',
+        'nombre': '📺 24 horas',
         'yt_id': 'UCTXNz3gjAypWp3EhlIATEJQ',
         'pais': 'cl'
     },     
     '24-horas-2': {
-        'nombre': '24 Horas 2',
+        'nombre': '📺 24 Horas 2',
         'm3u8_url': 'https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
     '24-horas-3': {
-        'nombre': '24 Horas 3',
+        'nombre': '📺 24 Horas 3',
         'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
     '24-horas-4': {
-        'nombre': '24 horas 4',
+        'nombre': '📺 24 horas 4',
         'iframe_url': 'https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io',
         'fuente': 'https://www.twitch.tv/24horas_tvn',
         'pais': 'cl'
     },
     '24-horas-5': {
-        'nombre': '24 horas 5',
+        'nombre': '📺 24 horas 5',
         'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
     '24-horas-6': {
-        'nombre': '24 horas 6',
+        'nombre': '📺 24 horas 6',
         'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
     '24-horas-s2': {
-        'nombre': '24 Horas s2',
+        'nombre': '📺 24 Horas s2',
         'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
     '24-horas-s2-2': {
-        'nombre': '24 Horas s2 2',
+        'nombre': '📺 24 Horas s2 2',
         'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
     'tvn': {
-        'nombre': 'TVN',
+        'nombre': '📺 TVN',
         'yt_id': 'UCaVaCaiG6qRzDiJDuEGKOhQ',
         'pais': 'cl'
     },
     'tvn-2': {
-        'nombre': 'TVN 2',
+        'nombre': '📺 TVN 2',
         'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
     'meganoticias': {
-        'nombre': 'Meganoticias',
+        'nombre': '📺 Meganoticias',
         'yt_id': 'UCkccyEbqhhM3uKOI6Shm-4Q',
         'pais': 'cl'
     },
     'meganoticias-2': {
-        'nombre': 'Meganoticias 2',
+        'nombre': '📺 Meganoticias 2',
         'iframe_url': 'https://player.twitch.tv/?channel=meganoticiascl&parent=alplox.github.io',
         'fuente': 'https://www.twitch.tv/meganoticiascl',
         'pais': 'cl'
     },
     'meganoticias-3': {
-        'nombre': 'Meganoticias 3',
+        'nombre': '📺 Meganoticias 3',
         'iframe_url': 'https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0',
         'fuente': 'https://www.meganoticias.cl/senal-en-vivo/meganoticias/',
         'pais': 'cl'
     },
     'mega': {
-        'nombre': 'Mega',
+        'nombre': '📺 Mega',
         'm3u8_url': 'https://marine2.miplay.cl/mega/index.m3u8',
         'fuente': 'https://www.mega.cl/',
         'pais': 'cl'
     },
     'mega-2': {
-        'nombre': 'Mega 2',
+        'nombre': '📺 Mega 2',
         'm3u8_url': 'https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8',
         'fuente': 'https://www.mega.cl/',
         'pais': 'cl'
     },
     't13': {
-        'nombre': 'T13',
+        'nombre': '📺 T13',
         'yt_id': 'UCsRnhjcUCR78Q3Ud6OXCTNg',
         'pais': 'cl'
     },
     't13-2': {
-        'nombre': 'T13 2',
+        'nombre': '📺 T13 2',
         'iframe_url': 'https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io',
         'fuente': 'https://www.twitch.tv/t13envivo',
         'pais': 'cl'
     },
     't13-3': {
-        'nombre': 'T13 3',
+        'nombre': '📺 T13 3',
         'm3u8_url': 'https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8',
         'fuente': 'https://www.t13.cl/',
         'pais': 'cl'
     },
     't13-4': {
-        'nombre': 'T13 4',
+        'nombre': '📺 T13 4',
         'm3u8_url': 'https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8',
         'fuente': 'https://www.t13.cl/',
         'pais': 'cl'
     },
     't13-5': {
-        'nombre': 'T13 5',
+        'nombre': '📺 T13 5',
         'iframe_url': 'https://rudo.video/live/t13',
         'fuente': 'https://www.t13.cl/',
         'pais': 'cl'
@@ -1390,47 +1390,47 @@ const listaCanales = {
     },
 // SINGAPUR
     'cna': {
-        'nombre': 'CNA',
+        'nombre': '📺 CNA',
         'yt_id': 'UC83jt4dlz1Gjl58fzQrrKZg',
         'pais': 'sg'
     },
 // NIGERIA
     'news-nigeria': {
-        'nombre': 'TVC News Nigeria',
+        'nombre': '📺 TVC News Nigeria',
         'yt_id': 'UCgp4A6I8LCWrhUzn-5SbKvA',
         'pais': 'ng'
     },
 // AUSTRALIA
     'abc-news-au': {
-        'nombre': 'ABC News AU',
+        'nombre': '📺 ABC News AU',
         'm3u8_url': 'https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8',
         'fuente': 'https://www.abc.net.au/news/',
         'pais': 'au'
     },
 // PAKISTAN
     'bol-news': {
-        'nombre': 'BOL News',
+        'nombre': '📺 BOL News',
         'yt_id': 'UCz2yxQJZgiB_5elTzqV7FiQ',
         'pais': 'pk'
     },
 // INDIA
     'indiatv': {
-        'nombre': 'IndiaTV',
+        'nombre': '📺 IndiaTV',
         'yt_id': 'UCttspZesZIDEwwpVIgoZtWQ',
         'pais': 'in'
     },
     'Aaj-Tak': {
-        'nombre': 'Aaj Tak',
+        'nombre': '📺 Aaj Tak',
         'yt_id': 'UCt4t-jeY85JegMlZ-E5UWtA',
         'pais': 'in'
     },
     'TIMES-NOW': {
-        'nombre': 'TIMES NOW',
+        'nombre': '📺 TIMES NOW',
         'yt_id': 'UCMk9Tdc-d1BIcAFaSppiVkw',
         'pais': 'in'
     },
     'TV9-Bharatvarsh': {
-        'nombre': 'TV9 Bharatvarsh',
+        'nombre': '📺 TV9 Bharatvarsh',
         'yt_id': 'UCOutOIcn_oho8pyVN3Ng-Pg',
         'pais': 'in'
     },
@@ -1441,7 +1441,7 @@ const listaCanales = {
     },
 // REINO UNIDO
     'gbnews': {
-        'nombre': 'GBNews',
+        'nombre': '📺 GBNews',
         'yt_id': 'UC0vn8ISa4LKMunLbzaXLnOQ',
         'pais': 'gb'
     },
@@ -1938,6 +1938,28 @@ const listaCanales = {
         'nombre': '🏛️ Cámara Diputados YT 13',
         'yt_id': 'UC33MG3YdoQ16a8a3wODh6lw',
         'pais': 'cl'
+    },
+    // Libano
+    },
+    'alhiwar-tv': {
+        'nombre': '📺 alhiwar.tv',
+        'm3u8_url': 'https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8',
+        'pais': 'lb'
+    },
+    'MTV-Lebanon': {
+        'nombre': '📺 MTV Lebanon',
+        'm3u8_url': 'https://live.3cd.io/v1/broadcast/one/playlist.m3u8?premium=false',
+        'pais': 'lb'
+    },
+    'Al-Manar-Channel': {
+        'nombre': '📺 Al Manar Channel',
+        'm3u8_url': 'https://manar.live/iptv/index.m3u8',
+        'pais': 'lb'
+    },
+    'Almayadeen': {
+        'nombre': '📺 Almayadeen',
+        'iframe_url': 'https://player.octivid.com/v1/live?id=MTE5&channelid=NzE=&countries=QUQ=&w=100%25&h=100%25&autoplay=false&filter=DENY&signature=ae53e73fef194a5511f0504edab8d99b',
+        'pais': 'lb'
     },
 // PERU
     'congreso-peru': {
