@@ -18,7 +18,7 @@ tipos de enlaces posibles [Recordar utilizar solo enlaces https si se aloja en G
 
 by Alplox 
 https://github.com/Alplox/teles
-*/
+*/ 
 
 const listaCanales = {
 //Votaciones
