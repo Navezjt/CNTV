@@ -1939,28 +1939,6 @@ const listaCanales = {
         'yt_id': 'UC33MG3YdoQ16a8a3wODh6lw',
         'pais': 'cl'
     },
-// Libano
-    },
-    'alhiwar-tv': {
-        'nombre': '📺 alhiwar.tv',
-        'm3u8_url': 'https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8',
-        'pais': 'cl'
-    },
-    'MTV-Lebanon': {
-        'nombre': '📺 MTV Lebanon',
-        'm3u8_url': 'https://live.3cd.io/v1/broadcast/one/playlist.m3u8?premium=false',
-        'pais': 'cl'
-    },
-    'Al-Manar-Channel': {
-        'nombre': '📺 Al Manar Channel',
-        'm3u8_url': 'https://manar.live/iptv/index.m3u8',
-        'pais': 'cl'
-    },
-    'Almayadeen': {
-        'nombre': '📺 Almayadeen',
-        'iframe_url': 'https://player.octivid.com/v1/live?id=MTE5&channelid=NzE=&countries=QUQ=&w=100%25&h=100%25&autoplay=false&filter=DENY&signature=ae53e73fef194a5511f0504edab8d99b',
-        'pais': 'cl'
-    },
 // PERU
     'congreso-peru': {
         'nombre': '🏛️ Congreso República del Perú',
