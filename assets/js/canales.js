@@ -135,7 +135,7 @@ const listaCanales = {
     },
     't13': {
         'nombre': 'T13',
-        'yt_id': 'UCsRnhjcUCR78Q3Ud6OXCTNg',
+        'yt_id': 'UCsRnhjcUCR78Q3Ud6OXCTNg/live',
         'pais': 'cl'
     },
     't13-2': {
