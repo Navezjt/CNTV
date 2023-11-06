@@ -167,6 +167,11 @@ const listaCanales = {
         'fuente': 'https://www.t13.cl/',
         'pais': 'cl'
     },
+    'canal-13-N': {
+        'nombre': 'Canal 13 N',
+        'yt_embed': 'Hv5JNFsfUdI',
+        'pais': 'cl'
+    },
     'canal-13': {
         'nombre': 'Canal 13',
         'yt_id': 'UCd4D3LfXC_9MY2zSv_3gMgw',
