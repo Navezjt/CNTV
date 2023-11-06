@@ -169,12 +169,12 @@ const listaCanales = {
     },
     'canal-13-N': {
         'nombre': 'Canal 13 N',
-        'yt_embed': 'Hv5JNFsfUdI',
+        'iframe_url': 'Hv5JNFsfUdI',
         'pais': 'cl'
     },
     'canal-13': {
         'nombre': 'Canal 13',
-        'yt_id': 'UCd4D3LfXC_9MY2zSv_3gMgw',
+        'fuente': 'UCd4D3LfXC_9MY2zSv_3gMgw',
         'pais': 'cl'
     },
     'canal-13-2': {
