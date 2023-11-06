@@ -133,9 +133,14 @@ const listaCanales = {
         'fuente': 'https://www.mega.cl/',
         'pais': 'cl'
     },
+    't13-N': {
+        'nombre': 'T13-N',
+        'yt_embed': 'gtknytOiY34',
+        'pais': 'cl'
+    },
     't13': {
         'nombre': 'T13',
-        'yt_embed': 'UCsRnhjcUCR78Q3Ud6OXCTNg',
+        'yt_id': 'UCsRnhjcUCR78Q3Ud6OXCTNg',
         'pais': 'cl'
     },
     't13-2': {
