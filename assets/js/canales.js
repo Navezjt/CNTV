@@ -838,6 +838,18 @@ const listaCanales = {
         'yt_id': 'UCpSJ5fGhmAME9Kx2D3ZvN3Q',
         'pais': 'pe'
     },
+    'Radio-California': {
+        'nombre': 'Radio California',
+        'iframe_url': 'https://vdo.grupolimalive.com/live-stream-video-widget/californiatv',
+        'fuente': 'https://www.radiocalifornia.pe/',
+        'pais': 'pe'
+    },
+    'Doble-AA': {
+        'nombre': 'Doble AA',
+        'iframe_url': 'https://videoserver.tmcreativos.com:2020/VideoPlayer/yvmgbdpqmp',
+        'fuente': 'https://dobleaamedios.com/tv',
+        'pais': 'pe'
+    },
     'mas-cumbia': {
         'nombre': 'MAS CUMBIA',
         'iframe_url': 'https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline',
