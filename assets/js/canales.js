@@ -989,13 +989,13 @@ const listaCanales = {
     },
     'VOA': {
         'nombre': 'VOA',
-        'm3u8_ur': 'https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8',
+        'm3u8_url': 'https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8',
         'fuente': 'https://www.vozdeamerica.com/',
         'pais': 'us'
     },
     'Ariana-NEWS': {
         'nombre': 'Ariana NEWS',
-        'm3u8_ur': 'https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8',
+        'm3u8_url': 'https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8',
         'fuente': 'https://www.ariananews.af/livetv',
         'pais': 'us'
     },
