@@ -696,7 +696,7 @@ const listaCanales = {
     },
     'america-tv': {
         'nombre': 'América TV',
-        'iframe_url': '//flow2.thegift.mom/cvatt.html?get=QW1lcmljYVRW',
+        'iframe_url': 'https://canales.online/embed/cv.html?get=QW1lcmljYTI0',
         'pais': 'ar'
     },
     'net-tv': {
