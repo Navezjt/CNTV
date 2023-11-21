@@ -696,7 +696,7 @@ const listaCanales = {
     },
     'america-tv': {
         'nombre': 'América TV',
-        'yt_id': 'https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live',
+        'iframe_url': '//flow2.thegift.mom/cvatt.html?get=QW1lcmljYVRW',
         'pais': 'ar'
     },
     'net-tv': {
