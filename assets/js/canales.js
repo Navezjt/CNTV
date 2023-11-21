@@ -696,7 +696,7 @@ const listaCanales = {
     },
     'america-tv': {
         'nombre': 'América TV',
-        'src': 'https://canales.online/embed/cv.html?get=QW1lcmljYTI0',
+        yt_id': 'UC6NVDkuzY2exMOVFw4i9oHw',
         'pais': 'ar'
     },
     'net-tv': {
