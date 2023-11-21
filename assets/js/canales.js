@@ -743,7 +743,7 @@ const listaCanales = {
     },
     'canal-26': {
         'nombre': 'Canal 26',
-        'm3u8_url': 'https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8',
+        'yt_id': 'UCrpMfcQNog595v5gAS-oUsQ',
         'fuente': 'https://www.diario26.com/canal26_en_vivo',
         'pais': 'ar'
     },
