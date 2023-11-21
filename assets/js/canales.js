@@ -696,7 +696,7 @@ const listaCanales = {
     },
     'america-tv': {
         'nombre': 'América TV',
-        'iframe_url': 'https://www.youtube.com/embed/zcWXboTnous?si=Zm62TOJXLhp035rI',
+        'iframe_url': 'https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live',
         'pais': 'ar'
     },
     'net-tv': {
