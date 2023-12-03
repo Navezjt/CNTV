@@ -518,13 +518,14 @@ const listaCanales = {
     },
     'arica-tv': {
         'nombre': 'Arica TV',
-        'm3u8_url': 'https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8',
+        'm3u8_url': 'https://arica.tv/envivo/',
         'fuente': 'https://arica.tv/envivo/',
         'pais': 'cl'
     },
     'atacama-tv': {
         'nombre': 'Atacama TV',
         'm3u8_url': 'https://v2.tustreaming.cl/atacamatv/index.m3u8',
+        //https://v2.tustreaming.cl/atacamatv/embed.html?autoplay=true
         'fuente': 'http://atacamatelevision.com/',
         'pais': 'cl'
     },
