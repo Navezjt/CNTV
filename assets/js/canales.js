@@ -518,7 +518,7 @@ const listaCanales = {
     },
     'arica-tv': {
         'nombre': 'Arica TV',
-        'm3u8_url': 'https://arica.tv/envivo/',
+        'iframe_url': 'https://arica.tv/envivo/',
         'fuente': 'https://arica.tv/envivo/',
         'pais': 'cl'
     },
