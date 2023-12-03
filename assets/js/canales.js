@@ -247,7 +247,8 @@ const listaCanales = {
     },
     'la-red': {
         'nombre': 'La Red',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8',
+        'm3u8_url': 'https://d16pc5095tzygd.cloudfront.net/LaRed/d048098ce842377c101928b648065843.sdp/playlist.m3u8',
+        //https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
         'fuente': 'https://www.lared.cl/senal-online',
         'pais': 'cl'
     },
