@@ -949,6 +949,11 @@ const listaCanales = {
         'm3u8_url': 'http://45.166.92.22:58001/play/a036/index.m3u8',
         'pais': 'es'
     },
+    'rtve-vivo': {
+        'nombre': 'RTVE En Vivo',
+        'yt_id': 'UC7QZIf0dta-XPXsp9Hv4dTw',
+        'pais': 'es'
+    },
     'rtve': {
         'nombre': 'RTVE Noticias',
         'iframe_url': 'https://www.youtube.com/embed/6ciTa4ppoms?si=flc8T9xScgW4tz7h',
