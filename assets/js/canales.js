@@ -1366,6 +1366,11 @@ const listaCanales = {
         'fuente': 'https://www.thvli.vn/live/thvl1-hd',
         'pais': 'cn'
     },
+    'hispantv-Español': {
+        'nombre': 'Hispantv Español',
+        'm3u8_url': 'https://live3.presstv.ir/hispantv/index.m3u8',
+        'pais': 'cn'
+    },
     'cgtn-Español-8': {
         'nombre': 'CGTN Español',
         'yt_id': 'UCd94YCD7yp6d-YZSRYWyeFA',
