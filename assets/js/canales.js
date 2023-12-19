@@ -951,7 +951,7 @@ const listaCanales = {
     },
     'rtve': {
         'nombre': 'RTVE Noticias',
-        'iframe_url': 'https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live',
+        'iframe_url': 'https://www.youtube.com/embed/6ciTa4ppoms?si=flc8T9xScgW4tz7h',
         'pais': 'es'
     },
 // BRASIL
