@@ -1366,6 +1366,11 @@ const listaCanales = {
         'fuente': 'https://www.thvli.vn/live/thvl1-hd',
         'pais': 'cn'
     },
+    'cgtn-Español-8': {
+        'nombre': 'CGTN Español',
+        'yt_id': 'UCd94YCD7yp6d-YZSRYWyeFA',
+        'pais': 'cn'
+    },
     'cgtn-europe-9': {
         'nombre': 'CGTN Europe',
         'yt_id': 'UCj0TppyxzQWm9JbMg3CP8Rg',
