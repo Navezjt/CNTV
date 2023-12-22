@@ -1449,6 +1449,55 @@ const listaCanales = {
     'news-nigeria': {
         'nombre': '📺 TVC News Nigeria',
         'yt_id': 'UCgp4A6I8LCWrhUzn-5SbKvA',
+        'fuente': 'https://www.youtube.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA',
+        'pais': 'ng'
+    },
+    'Silverbird-N24Live': {
+        'nombre': '📺 Silverbird N24 Live',
+        'yt_id': 'UCNuPuew8lLVB3mMAm9_Qt9w',
+        'fuente': 'https://www.youtube.com/@SilverbirdN24Live',
+        'pais': 'ng'
+    },
+    'NTA-News': {
+        'nombre': '📺 NTA News',
+        'yt_id': 'UCLLWAXn5F415g2kNAcE_T1g',
+        'fuente': 'https://www.youtube.com/channel/UCLLWAXn5F415g2kNAcE_T1g',
+        'pais': 'ng'
+    },
+    'Atlantic-Television-(ATN)': {
+        'nombre': '📺 Atlantic Television (ATN)',
+        'm3u8_url': 'https://tv.ifastekpanel.com:3013/live/atntvlive.m3u8',
+        'fuente': 'https://atlanticnetwork.tv/',
+        'pais': 'ng'
+    },
+    'Rave-TV': {
+        'nombre': '📺 Rave TV',
+        'iframe_url': 'https://watch.avo.tv/pages/discover/e/live-tv?channel=6037efb27384c922683c7d9f',
+        'fuente': 'https://atlanticnetwork.tv/',
+        'pais': 'ng'
+    },
+    'TV360-Nigeria': {
+        'nombre': '📺 TV360 Nigeria',
+        'yt_id': 'UCBzu4YqGiBxBD8pq8NiBuKw',
+        'fuente': 'https://www.tv360nigeria.com/',
+        'pais': 'ng'
+    },
+    'Channels-Television': {
+        'nombre': '📺 Channels Television',
+        'yt_id': 'UCEXGDNclvmg6RW0vipJYsTQ',
+        'fuente': 'https://www.youtube.com/@ChannelsTelevision',
+        'pais': 'ng'
+    },
+    'Trust-TV-News': {
+        'nombre': '📺 Trust TV News',
+        'yt_id': 'UCTlqstA2Wrt4fimd_VWKr8g',
+        'fuente': 'https://www.youtube.com/channel/UCTlqstA2Wrt4fimd_VWKr8g',
+        'pais': 'ng'
+    },
+    'News-Central-Africa': {
+        'nombre': '📺 News Central Africa',
+        'yt_id': 'UCPLKy4Ypb4mfblbjJI8Aljw',
+        'fuente': 'https://www.youtube.com/@NewsCentralAfrica/streams',
         'pais': 'ng'
     },
 // AUSTRALIA
@@ -1458,10 +1507,53 @@ const listaCanales = {
         'fuente': 'https://www.abc.net.au/news/',
         'pais': 'au'
     },
+    'ABC-News-(Australia)': {
+        'nombre': '📺 ABC News (Australia)',
+        'yt_id': 'UCVgO39Bk5sMo66-6o6Spn6Q',
+        'fuente': 'https://www.youtube.com/@abcnewsaustralia/streams',
+        'pais': 'au'
+    },
+    'TVSN': {
+        'nombre': '📺 TVSN',
+        'yt_id': 'UCo4sch-fwKIeyzyPIWRXjdw',
+        'fuente': 'https://www.youtube.com/@ItvsnAuTVSNLIVE/streams',
+        'pais': 'au'
+    },
+    'TVSN-NOW': {
+        'nombre': '📺 TVSN NOW',
+        'm3u8_url': 'https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8',
+        'fuente': 'https://www.itvsn.com.au/tvsnnow/',
+        'pais': 'au'
+    },
 // PAKISTAN
     'bol-news': {
         'nombre': '📺 BOL News',
         'yt_id': 'UCz2yxQJZgiB_5elTzqV7FiQ',
+        'fuente': 'https://www.itvsn.com.au/tvsnnow/',
+        'pais': 'pk'
+    },
+    'SAMAA-TV': {
+        'nombre': '📺 SAMAA TV',
+        'yt_id': 'UCJekW1Vj5fCVEGdye_mBN6Q',
+        'fuente': 'https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q',
+        'pais': 'pk'
+    },
+    'BOL-News': {
+        'nombre': '📺 BOL News',
+        'yt_id': 'UCz2yxQJZgiB_5elTzqV7FiQ',
+        'fuente': 'https://www.youtube.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ',
+        'pais': 'pk'
+    },
+    'Geo-News': {
+        'nombre': '📺 Geo News',
+        'yt_id': 'UC_vt34wimdCzdkrzVejwX9g',
+        'fuente': 'https://www.youtube.com/@geonews/streams',
+        'pais': 'pk'
+    },
+    'ARY-News': {
+        'nombre': '📺 ARY News',
+        'yt_id': 'UCMmpLL2ucRHAXbNHiCPyIyg',
+        'fuente': 'https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg',
         'pais': 'pk'
     },
 // INDIA
