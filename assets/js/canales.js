@@ -937,6 +937,115 @@ const listaCanales = {
         'yt_id': 'UCFxHplbcoJK9m70c4VyTIxg',
         'pais': 'mx'
     },
+    'tvp-mexico': {
+        'nombre': 'TVP-Mexico',
+        'm3u8_url': 'https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1799724172_b978000_sleng.m3u8',
+        'fuente': 'https://tvpacifico.mx/tv-en-linea/mochis',
+        'pais': 'mx'
+    },        
+    'Televisa-Guadalajara': {
+        'nombre': 'Televisa Guadalajara',
+        'yt_id': 'UCRujF_YxVVFmTRWURQH-Cww',
+        'fuente': 'https://www.youtube.com/@televisaguadalajara',
+        'pais': 'mx'
+    },        
+    'Canal-10-Durango': {
+        'nombre': 'Canal 10 Durango',
+        'iframe_url': 'https://conceptoweb-studio.com/radio/video/canal10durango/',
+        'fuente': 'https://canal10.com.mx/sitio/',
+        'pais': 'mx'
+    },        
+    'Televisa-Morelos': {
+        'nombre': 'Televisa Morelos',
+        'yt_id': 'UCcC9ykApQrgl4UxbKg2U4zw',
+        'fuente': 'https://www.youtube.com/@televisamorelos',
+        'pais': 'mx'
+    },        
+    'tvmar-puerto-vallarta': {
+        'nombre': 'TvMar puerto vallarta',
+        'iframe_url': 'https://conceptoweb-studio.com/radio/video/tvmarvallarta/',
+        'fuente': 'https://tvmar.tv/puerto-vallarta',
+        'pais': 'mx'
+    },        
+    'Canal-ADN-40': {
+        'nombre': 'Canal ADN 40',
+        'yt_id': 'UC7k--FhnJzhPTrbtldMSoQQ',
+        'fuente': 'https://www.youtube.com/@ADN40MX',
+        'pais': 'mx'
+    },        
+    'Telemar-Campeche': {
+        'nombre': 'Telemar Campeche',
+        'iframe_url': 'https://www.dailymotion.com/embed/video/x80bl3l?autoplay=1',
+        'fuente': 'https://telemarcampeche.com/transmision-en-vivo/',
+        'pais': 'mx'
+    },        
+    'Tvt-Mexico': {
+        'nombre': 'Tvt Mexico',
+        'iframe_url': 'https://conceptoweb-studio.com/radio/video/tabasco/',
+        'fuente': 'https://tvt.mx/',
+        'pais': 'mx'
+    },        
+    'quierotv-Mexico': {
+        'nombre': 'Quierotv Mexico',
+        'iframe_url': 'https://www.dailymotion.com/embed/video/x8lng9k?autoplay=0',
+        'fuente': 'https://quierotv.mx/',
+        'pais': 'mx'
+    },        
+    'canal66-Mexico': {
+        'nombre': 'Canal66 Mexico',
+        'iframe_url': 'https://conceptoweb-studio.com/radio/video/canal66/',
+        'fuente': 'https://canal66.tv/',
+        'pais': 'mx'
+    },        
+    'canal33tijuana-Mexico': {
+        'nombre': 'Canal33tijuana Mexico',
+        'iframe_url': 'https://conceptoweb-studio.com/radio/video/canal33tijuana/',
+        'fuente': 'https://canal66.tv/envivotj/',
+        'pais': 'mx'
+    },        
+    'ryta-Mexico': {
+        'nombre': 'Ryta Mexico',
+        'm3u8_url': 'https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8',
+        'fuente': 'https://ryta.com.mx/',
+        'pais': 'mx'
+    },        
+    'canal44-Mexico': {
+        'nombre': 'Canal44 Mexico',
+        'iframe_url': 'https://conceptoweb-studio.com/radio/video/canal44/',
+        'fuente': 'https://canal44.com/',
+        'pais': 'mx'
+    },        
+    'forotv-Mexico': {
+        'nombre': 'Forotv Mexico',
+        'm3u8_url': 'https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8',
+        'fuente': 'https://www.nmas.com.mx/foro-tv/',
+        'pais': 'mx'
+    },        
+// GUATEMALA
+    'canal3-guatemala': {
+        'nombre': 'Canal3-Guatemala',
+        'm3u8_url': 'https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8?DVR',
+        'fuente': 'https://www.chapintv.com/envivo-canal-23/',
+        'pais': 'gt'
+    },        
+    'canal3-guatemala': {
+        'nombre': 'Canal7-Guatemala',
+        'm3u8_url': 'https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT1/chunks.m3u8?DVR',
+        'fuente': 'https://www.chapintv.com/envivo-canal-23/',
+        'pais': 'gt'
+    },        
+    'tn23-guatemala': {
+        'nombre': 'TN23-Guatemala',
+        'm3u8_url': 'https://dy434h3s52eoj.cloudfront.net/Canal23GT/235557e601489a53ece741671338603f.sdp/Canal23GT/Canal23GT1/chunks.m3u8?DVR',
+        'fuente': 'https://www.chapintv.com/envivo-canal-23/',
+        'pais': 'gt'
+    },        
+    'canal27-guatemala': {
+        'nombre': 'Canal27-Guatemala',
+        'm3u8_url': 'https://live.canal27.tv:3633/live/canal27live.m3u8',
+        'fuente': 'https://www.canal27.org/',
+        'pais': 'gt'
+    },        
 // HONDURAS
     'hch-vivo': {
         'nombre': 'HCH En Vivo',
