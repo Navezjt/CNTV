@@ -941,8 +941,118 @@ const listaCanales = {
     'hch-vivo': {
         'nombre': 'HCH En Vivo',
         'yt_id': 'UCIs6fmAXOI1K2jgkoBdWveg',
+        'fuente': 'https://hch.tv/live/',
         'pais': 'hn'
     },        
+     'televicentro': {
+        'nombre': 'Televicentro',
+        'iframe_url': 'https://mdstrm.com/live-stream/6287fda8ea3b8b397d1ca2ed',
+        'fuente': 'https://www.televicentro.com/',
+        'pais': 'hn'
+    },        
+    'tencanal10': {
+        'nombre': 'tencanal10',
+        'm3u8_url': 'https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w1421547273_b1248000.m3u8',
+        'fuente': 'https://tencanal10.tv/',
+        'pais': 'hn'
+    },        
+    'canal11': {
+        'nombre': 'canal11',
+        'm3u8_url': 'https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_200.m3u8?aid=60356e540f843032743f6852&uid=hM3enSvwRarqiVI8eni3rZaaKqsdsQHq&sid=xgZgfXl2xsSVDUPx6DapICZ3ckQIuORI&pid=6Yoq8FehK3oRwhiOyCf8daAtwOqjsNY9&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1705447408648&ot=NL2DGzXi_IYuXkXHICIybQ&proto=https&pz=us',
+        'fuente': 'https://canal11.hn/en-vivo/',
+        'pais': 'hn'
+    },        
+    'unetv': {
+        'nombre': 'unetv',
+        'm3u8_url': 'https://amixtv.live:3395/live/unetvlive.m3u8',
+        'fuente': 'http://www.unetvhn.com/en-vivo/',
+        'pais': 'hn'
+    },        
+    'chtv': {
+        'nombre': 'CHtv',
+        'iframe_url': 'https://gavamultimedios.com/CHTV/index.php',
+        'fuente': 'https://chtv.hn/',
+        'pais': 'hn'
+    },        
+    'qhubotv': {
+        'nombre': 'qhubotv',
+        'iframe_url': 'https://worldkast.com/newplayer/sitv.html',
+        'fuente': 'https://qhubotv.com/',
+        'pais': 'hn'
+    },        
+    'deportes-televicentro': {
+        'nombre': 'DEPORTES TELEVICENTRO',
+        'iframe_url': 'https://mdstrm.com/live-stream/6287fdc9303e3008289ab711',
+        'fuente': 'https://www.deportestvc.com/',
+        'pais': 'hn'
+    },        
+    'ltv-en-vivo': {
+        'nombre': 'ltv en vivo',
+        'iframe_url': 'https://panel.fiberstreams.com:8080/VideoPlayer/6022',
+        'fuente': 'https://www.ltv.hn/ltv-en-vivo/',
+        'pais': 'hn'
+    },        
+    'teleprogreso': {
+        'nombre': 'teleprogreso',
+        'iframe_url': 'https://tphonduras.net/TPLIVE/',
+        'fuente': 'https://www.teleprogreso.tv/',
+        'pais': 'hn'
+    },        
+    'edntv': {
+        'nombre': 'edntv',
+        'iframe_url': 'https://conceptoweb-studio.com/radio/video/edntv/',
+        'fuente': 'https://www.ltv.hn/ltv-en-vivo/',
+        'pais': 'hn'
+    },        
+    'qhubo': {
+        'nombre': 'qhubo',
+        'iframe_url': 'https://tvinsur.com/embed/tv/hn/qhubotv.html?v=1',
+        'fuente': 'https://qhubotv.com/',
+        'pais': 'hn'
+    },        
+    'justiciatv': {
+        'nombre': 'justiciatv',
+        'iframe_url': 'https://cloud2.streaminglivehd.com:2000/VideoPlayer/justiciatv',
+        'fuente': 'https://justiciatv.hn/',
+        'pais': 'hn'
+    },        
+    'enlace': {
+        'nombre': 'enlace',
+        'iframe_url': 'https://componentes.enlace.org/live#/player?enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false',
+        'fuente': 'https://www.enlace.org/honduras/',
+        'pais': 'hn'
+    },        
+    'ebenezer': {
+        'nombre': 'ebenezer',
+        'iframe_url': 'https://5e85d90130e77.streamlock.net:443/6010/ngrp:6010_all/playlist.m3u8',
+        'fuente': 'https://ebenezer.hn/envivo',
+        'pais': 'hn'
+    },        
+// ECUADOR     
+    'ecuavisa': {
+        'nombre': 'Ecuavisa',
+        'iframe_url': 'https://rudo.video/live/ecuavisa',
+        'fuente': 'https://www.ecuavisa.com/envivo',
+        'pais': 'ec'
+    },  
+     'zaracaytv': {
+        'nombre': 'Zaracaytv',
+        'iframe_url': 'https://makrodigital.com/makrostreaming/zaracaytv/',
+        'fuente': 'http://zaracaytv.com/',
+        'pais': 'ec'
+    },
+     'canalunoecuador': {
+        'nombre': 'Canalunoecuador',
+        'iframe_url': 'https://www.eltelegrafo.com.ec/medios/stream.php',
+        'fuente': 'https://canalunoecuador.com/',
+        'pais': 'ec'
+    }, 
+    'ecuadortv7': {
+        'nombre': 'Ecuadortv7',
+        'iframe_url': 'https://cp.panelchs.com:2020/VideoPlayer/8122?autoplay=1',
+        'fuente': 'https://www.ecuadortv.ec/',
+        'pais': 'ec'
+    }, 
 // ESPAÑA
     'cnn-español': {
         'nombre': 'CNN en Español',
