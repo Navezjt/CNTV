@@ -1162,6 +1162,163 @@ const listaCanales = {
         'fuente': 'https://www.ecuadortv.ec/',
         'pais': 'ec'
     }, 
+// ITALIA
+    'la7': {
+        'nombre': 'La7',
+        'iframe_url': 'https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd',
+        'fuente': 'https://www.la7.it/dirette-tv',
+        'pais': 'it'
+    }, 
+    'Lombardia': {
+        'nombre': 'Lombardia',
+        'm3u8_url': 'https://5db313b643fd8.streamlock.net:443/LOMBARDIATV/LOMBARDIATV/playlist.m3u8',
+        'fuente': 'https://www.lombardiatv.com/',
+        'pais': 'it'
+    }, 
+    'televenezia': {
+        'nombre': 'televenezia',
+        'm3u8_url': 'https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8',
+        'fuente': 'https://www.veneziaradiotv.it/streaming-televenezia/',
+        'pais': 'it'
+    }, 
+    'Rtv38': {
+        'nombre': 'Rtv38',
+        'm3u8_url': 'https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8',
+        'fuente': 'https://www.tg38.it/rtv38/',
+        'pais': 'it'
+    }, 
+    'Milano-Pavia-TV ': {
+        'nombre': 'Milano Pavia TV ',
+        'iframe_url': 'https://player.streamshow.it/hosted/telepavia.php?autoplay=true&muted=true&posterimage=',
+        'fuente': 'https://www.milanopavia.tv/diretta-tv-milanopaviatv',
+        'pais': 'it'
+    }, 
+    'tvmoda': {
+        'nombre': 'TvModa',
+        'm3u8_url': 'https://585b1526dec74509b4bacb3edfffa885.msvdn.net/live/S34780352/RcBUa84Fth0C/playlist.m3u8',
+        'fuente': 'https://video.milanofinanza.it/tvmoda/',
+        'pais': 'it'
+    }, 
+    'tvl': {
+        'nombre': 'TvL',
+        'm3u8_url': 'https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8',
+        'fuente': 'https://www.tvl.it/it/diretta-tvl',
+        'pais': 'it'
+    }, 
+    'sportvl': {
+        'nombre': 'Sportvl',
+       'm3u8_url': 'https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8',
+        'fuente': 'https://www.tvl.it/it/diretta-sportvl',
+        'pais': 'it'
+    }, 
+    'canale3': {
+        'nombre': 'canale3',
+        'iframe_url': 'https://play.xdevel.com/13096/video0s976737-1453',
+        'fuente': 'https://canale3.tv/',
+        'pais': 'it'
+    }, 
+    'canale10': {
+        'nombre': 'canale10',
+        'iframe_url': 'https://wz4.newradio.it:8080/VideoPlayer/dyrqkgmjqq?autoplay=1',
+        'fuente': 'https://canaledieci.it/diretta/',
+        'pais': 'it'
+    }, 
+    'Super': {
+        'nombre': 'Super',
+        'm3u8_url': 'https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8',
+        'fuente': 'https://www.bresciasat.it/',
+        'pais': 'it'
+    }, 
+    'canaleotto': {
+        'nombre': 'canaleotto',
+        'iframe_url': 'https://player.streamshow.it/hosted/canale8.php?autoplay=false&muted=false&posterimage=https://',
+        'fuente': 'http://www.canaleotto.it/',
+        'pais': 'it'
+    }, 
+    'Canale-2': {
+        'nombre': 'Canale 2',
+        'm3u8_url': 'https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8',
+        'fuente': 'http://www.canale2tv.it/',
+        'pais': 'it'
+    }, 
+    'qvc': {
+        'nombre': 'QVC',
+        'm3u8_url': 'https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/480p1000/480p1000.m3u8',
+        'fuente': 'https://www.qvc.it/tv/live.html',
+        'pais': 'it'
+    }, 
+    'videolina': {
+        'nombre': 'Videolina',
+        'm3u8_url': 'https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8',
+        'fuente': 'https://www.videolina.it/',
+        'pais': 'it'
+    }, 
+    'telemolise': {
+        'nombre': 'Telemolise',
+        'm3u8_url': 'http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8',
+        'fuente': 'http://www.telemolise.com/stream.php',
+        'pais': 'it'
+    }, 
+    'reitv': {
+        'nombre': 'reitv',
+        'm3u8_url': 'https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8',
+        'fuente': 'https://www.reitv.it/index2.html',
+        'pais': 'it'
+    }, 
+    'telenord': {
+        'nombre': 'Telenord',
+        'm3u8_url': 'https://64b16f23efbee.streamlock.net:443/telenord/telenord/playlist.m3u8',
+        'fuente': 'https://telenord.it/diretta-streaming/',
+        'pais': 'it'
+    }, 
+    'TG-Norba-24': {
+        'nombre': 'TG Norba 24',
+        'iframe_url': 'https://play.xdevel.com/13074',
+        'fuente': 'https://norbaonline.it/live.php?diretta=tgnorba',
+        'pais': 'it'
+    }, 
+    'umbriatv': {
+        'nombre': 'Umbriatv',
+        'm3u8_url': 'https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8',
+        'fuente': 'https://www.umbriatv.com/diretta-tv/',
+        'pais': 'it'
+    }, 
+    'telelaser': {
+        'nombre': 'Telelaser',
+        'm3u8_url': 'https://585b674743bbb.streamlock.net:443/9022/9022/playlist.m3u8',
+        'fuente': 'http://telelaser.tv/',
+        'pais': 'it'
+    }, 
+    'tvoggisalerno': {
+        'nombre': 'Tvoggisalerno',
+        'iframe_url': 'https://platform.wim.tv/embed/?live=cfb54b0e-b5fb-4ed5-9ae0-bec1dc02e596',
+        'fuente': 'https://www.tvoggisalerno.it/',
+        'pais': 'it'
+    }, 
+    'rete8': {
+        'nombre': 'Rete8',
+        'iframe_url': 'https://zerounocaststreaming.it:2020/VideoPlayer/rete8?autoplay=1',
+        'fuente': 'https://www.rete8.it/canali-tv/rete8/',
+        'pais': 'it'
+    }, 
+    'telebelluno': {
+        'nombre': 'Telebelluno',
+        'm3u8_url': 'https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8',
+        'fuente': 'https://www.telebelluno.it/streaming/',
+        'pais': 'it'
+    }, 
+    'GRP': {
+        'nombre': 'GRP',
+        'iframe_url': 'https://players.cdn.enetres.net/live/79CE6A0C6AF94F7EB0F93BD0DE2949EF02204',
+        'fuente': 'https://grp.it/index.php/diretta-tv/',
+        'pais': 'it'
+    }, 
+    'Rai-SüdTirol': {
+        'nombre': 'Rai SüdTirol',
+        'm3u8_url': 'https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8',
+        'fuente': 'https://www.raibz.rai.it/de/index.php',
+        'pais': 'it'
+    }, 
 // ESPAÑA
     'cnn-español': {
         'nombre': 'CNN en Español',
