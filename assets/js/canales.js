@@ -1341,6 +1341,13 @@ const listaCanales = {
         'yt_id': 'UCvdwhh_fDyWccR42-rReZLw',
         'pais': 'br'
     },
+// TAILANDIA
+    'workpointtv': {
+        'nombre': 'Workpointtv',
+        'm3u8_url': 'https://geo.dailymotion.com/player/x8wpe.html?video=k28IxkHn9OkzvvqoVob',
+        'fuente': 'https://www.workpointtv.com/live-stream-page/',
+        'pais': 'th'
+    },
 // CANADÁ
     'global-news': {
         'nombre': 'Global News',
