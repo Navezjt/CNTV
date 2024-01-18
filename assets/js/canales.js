@@ -1162,6 +1162,36 @@ const listaCanales = {
         'fuente': 'https://www.ecuadortv.ec/',
         'pais': 'ec'
     }, 
+    'manavision': {
+        'nombre': 'Manavision',
+        'm3u8_url': 'https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/m3u8',
+        'fuente': 'https://www.eldiario.ec/videos-manavision/',
+        'pais': 'ec'
+    }, 
+    'multicanalcatamayo': {
+        'nombre': 'Multicanalcatamayo',
+         'iframe_url': 'https://playerhd.eu/tv/multicanal/',
+        'fuente': 'https://www.multicanalcatamayo.com/',
+        'pais': 'ec'
+    }, 
+    'rts': {
+        'nombre': 'RTS',
+         'm3u8_url': 'https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8',
+        'fuente': 'https://www.rts.com.ec/envivo/',
+        'pais': 'ec'
+    }, 
+    'ecotel': {
+        'nombre': 'Ecotel',
+         'iframe_url': 'https://playerhd.eu/tv/ecotel/',
+        'fuente': 'https://www.ecotel.tv/',
+        'pais': 'ec'
+    }, 
+    'telesucesos': {
+        'nombre': 'Telesucesos',
+         'iframe_url': 'https://ticsbalancer.ticsecuador.com.ec/TeleSucesos/play.html?name=UIO-HD',
+        'fuente': 'https://www.telesucesos.net/',
+        'pais': 'ec'
+    }, 
 // ITALIA
     'la7': {
         'nombre': 'La7',
