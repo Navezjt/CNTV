@@ -712,6 +712,18 @@ const listaCanales = {
         'yt_id': 'UCs231K71Bnu5295_x0MB5Pg',
         'pais': 'ar'
     },
+    'tv-publica-1': {
+        'nombre': 'Televisión Pública 1',
+        'm3u8_url': 'https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8',
+        'fuente': 'https://www.tvpublica.com.ar/',
+        'pais': 'ar'
+    },
+    'tv-publica-2': {
+        'nombre': 'Televisión Pública 2',
+        'iframe_url': 'https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&autoplay=true',
+        'fuente': 'https://www.tvpublica.com.ar/',
+        'pais': 'ar'
+    },
     'cronica-tv': {
         'nombre': 'Crónica TV',
         'yt_id': 'UCT7KFGv6s2a-rh2Jq8ZdM1g',
@@ -722,9 +734,27 @@ const listaCanales = {
         'yt_id': 'UC64ZNqX0FQHabP8iIkmnR3A',
         'pais': 'ar'
     },
+    'el-siete-tv-1': {
+        'nombre': 'El Siete TV 1',
+        'iframe_url': 'https://www.youtube.com/embed/Vh8xmLBJtR8?autoplay=1&controls=0&disablekb=1&playsinline=1&cc_load_policy=0&cc_lang_pref=auto&widget_referrer=https%3A%2F%2Fwww.elsietetv.com.ar%2F&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&customControls=true&noCookie=false&enablejsapi=1&origin=https%3A%2F%2Fwww.elsietetv.com.ar&widgetid=1',
+        'fuente': 'https://www.elsietetv.com.ar/',
+        'pais': 'ar'
+    },
+    'el-siete-tv-2': {
+        'nombre': 'El Siete TV 2',
+        'iframe_url': 'https://www.youtube.com/watch?v=Vh8xmLBJtR8',
+        'fuente': 'https://www.elsietetv.com.ar/',
+        'pais': 'ar'
+    },
     'a24': {
         'nombre': 'A24',
         'yt_id': 'UCR9120YBAqMfntqgRTKmkjQ',
+        'pais': 'ar'
+    },
+    'a24-2': {
+        'nombre': 'a24 2',
+        'iframe_url': 'https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false',
+        'fuente': 'https://www.a24.com/vivo',
         'pais': 'ar'
     },
     'la-nacion': {
