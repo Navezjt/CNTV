@@ -764,7 +764,7 @@ const listaCanales = {
     },
     'ip-digital': {
         'nombre': 'Información Periodistica',
-        'm3u8_url': 'https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8',
+        'iframe_url': 'https://cdn.iframe.ly/api/iframe?amp=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlrIa3ImYrhU&key=284d6b492934666274563e3e1a67cadd',
         'fuente': 'https://ip.digital/vivo',
         'pais': 'ar'
     },
