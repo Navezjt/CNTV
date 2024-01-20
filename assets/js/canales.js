@@ -699,6 +699,13 @@ const listaCanales = {
     'america-tv': {
         'nombre': 'América TV',
         'yt_id': 'UC6NVDkuzY2exMOVFw4i9oHw',
+        'fuente': 'https://www.americatv.com.ar/vivo',
+        'pais': 'ar'
+    },
+    'america-tv-1': {
+        'nombre': 'América TV 1',
+        'iframe_url': 'https://flow3.nebunexa.co/cvattgb.html?get=QW1lcmljYVRW&lang=1',
+        'fuente': 'https://television-libre.online/en-vivo/america-tv/',
         'pais': 'ar'
     },
     'net-tv': {
@@ -710,6 +717,7 @@ const listaCanales = {
     'tv-publica-arg': {
         'nombre': 'Televisión Pública',
         'yt_id': 'UCs231K71Bnu5295_x0MB5Pg',
+        'fuente': 'https://www.tvpublica.com.ar/',
         'pais': 'ar'
     },
     'tv-publica-1': {
@@ -720,8 +728,8 @@ const listaCanales = {
     },
     'tv-publica-2': {
         'nombre': 'Televisión Pública 2',
-        'iframe_url': 'https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&autoplay=true',
-        'fuente': 'https://www.tvpublica.com.ar/',
+        'iframe_url': 'https://television-libre.online/html/fl2/?get=Q2FuYWw3',
+        'fuente': 'https://television-libre.online/en-vivo/tv-publica/',
         'pais': 'ar'
     },
     'cronica-tv': {
@@ -732,12 +740,13 @@ const listaCanales = {
     'el-siete-tv': {
         'nombre': 'El Siete TV',
         'yt_id': 'UC64ZNqX0FQHabP8iIkmnR3A',
+        'fuente': 'https://www.elsietetv.com.ar/',
         'pais': 'ar'
     },
     'el-siete-tv-1': {
         'nombre': 'El Siete TV 1',
-        'iframe_url': 'https://www.youtube.com/embed/Vh8xmLBJtR8?autoplay=1&controls=0&disablekb=1&playsinline=1&cc_load_policy=0&cc_lang_pref=auto&widget_referrer=https%3A%2F%2Fwww.elsietetv.com.ar%2F&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&customControls=true&noCookie=false&enablejsapi=1&origin=https%3A%2F%2Fwww.elsietetv.com.ar&widgetid=1',
-        'fuente': 'https://www.elsietetv.com.ar/',
+        'iframe_url': 'https://www.youtube.com/embed/Vh8xmLBJtR8',
+        'fuente': 'https://vercanalesonline.com/en-vivo/el-siete-mendoza/',
         'pais': 'ar'
     },
     'el-siete-tv-2': {
@@ -749,12 +758,19 @@ const listaCanales = {
     'a24': {
         'nombre': 'A24',
         'yt_id': 'UCR9120YBAqMfntqgRTKmkjQ',
+        'fuente': 'https://www.a24.com/vivo',
+        'pais': 'ar'
+    },
+    'a24-1': {
+        'nombre': 'a24 1',
+        'iframe_url': 'https://flow.fullbed.rest/cvatt.html?get=QW1lcmljYTI0',
+        'fuente': 'https://vercanalesonline.com/en-vivo/america24/',
         'pais': 'ar'
     },
     'a24-2': {
         'nombre': 'a24 2',
-        'iframe_url': 'https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false',
-        'fuente': 'https://www.a24.com/vivo',
+        'iframe_url': 'https://s3.blackdot.world/cvatt.html?get=QW1lcmljYTI0&lang=1',
+        'fuente': 'https://television-libre.online/en-vivo/a24/',
         'pais': 'ar'
     },
     'la-nacion': {
