@@ -957,7 +957,7 @@ const listaCanales = {
     },
     'NOVELAS-tv': {
         'nombre': 'NOVELAS TV',
-        'iframe_url': 'https://deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMy5jbGFyb3ZpZGVvLmNvbS9icGstdHYvVEJTL2Rhc2hfZmsvaW5kZXgubXBk&k1=NDVmODU2OGNmNTE4NGM3NDE2MmQ5N2Q5OTM1NmZhMzg=&k2=NWJjMzY0YjI3MTk2M2Q3N2UxMzdjNzQ3ZTg3YmNiNmQ=&aut=true&lang=0',
+        'iframe_url': 'https://latele-envivo.com/Embed/tbs/op3.php',
         'fuente': 'https://tvhd.pe/tnt-novelas-en-vivo/',
         'pais': 'pe'
     },
