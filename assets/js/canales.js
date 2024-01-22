@@ -962,7 +962,7 @@ const listaCanales = {
         'pais': 'pe'
     },
     'NT-tv': {
-        'nombre': 'NOVELAS TV',
+        'nombre': 'NT TV',
         'iframe_url': 'https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvVE5USEQvZGFzaF9may9pbmRleC5tcGQ=&k1=Y2MxZGJlNDM1NjRhYzUxYTYwNjQyMTgyOGI5OWQzYWQ=&k2=Mjg3OTc1YTY1ZWIzZjMzN2ExYmRmOWE4ZWVhYmY2MTM=&aut=true&lang=0',
         'fuente': 'https://tvhd.pe/tnt-hd-en-vivo/',
         'pais': 'pe'
