@@ -955,6 +955,18 @@ const listaCanales = {
         'yt_id': 'UCK0lpuL9PQb3I5CDcu7Y7bA',
         'pais': 'pe'
     },
+    'NOVELAS-tv': {
+        'nombre': 'NOVELAS TV',
+        'iframe_url': 'https://deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMy5jbGFyb3ZpZGVvLmNvbS9icGstdHYvVEJTL2Rhc2hfZmsvaW5kZXgubXBk&k1=NDVmODU2OGNmNTE4NGM3NDE2MmQ5N2Q5OTM1NmZhMzg=&k2=NWJjMzY0YjI3MTk2M2Q3N2UxMzdjNzQ3ZTg3YmNiNmQ=&aut=true&lang=0',
+        'fuente': 'https://tvhd.pe/tnt-novelas-en-vivo/',
+        'pais': 'pe'
+    },
+    'NT-tv': {
+        'nombre': 'NOVELAS TV',
+        'iframe_url': 'https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvVE5USEQvZGFzaF9may9pbmRleC5tcGQ=&k1=Y2MxZGJlNDM1NjRhYzUxYTYwNjQyMTgyOGI5OWQzYWQ=&k2=Mjg3OTc1YTY1ZWIzZjMzN2ExYmRmOWE4ZWVhYmY2MTM=&aut=true&lang=0',
+        'fuente': 'https://tvhd.pe/tnt-hd-en-vivo/',
+        'pais': 'pe'
+    },
 // VENEZUELA
     'globovision': {
         'nombre': 'Globovisión En Vivo',
