@@ -789,6 +789,12 @@ const listaCanales = {
         'yt_id': 'UC1bBjOZieJWHbsFA0LwjjJA',
         'pais': 'ar'
     },
+    'extra-tv': {
+        'nombre': 'EXTRA TV',
+        'yt_id': 'UCe22LRtJ6sAx3nn2b0SzuRQ',
+        'fuente': 'https://www.canalextra.com.ar/',
+        'pais': 'ar'
+    },
     'canal-26': {
         'nombre': 'Canal 26',
         'yt_id': 'UCrpMfcQNog595v5gAS-oUsQ',
