@@ -795,6 +795,12 @@ const listaCanales = {
         'fuente': 'https://www.canalextra.com.ar/',
         'pais': 'ar'
     },
+    'cn5-tv': {
+        'nombre': 'CN5 TV',
+        'yt_id': 'UCFgk2Q2mVO1BklRQhSv6p0w',
+        'fuente': 'https://www.c5n.com/',
+        'pais': 'ar'
+    },
     'canal-26': {
         'nombre': 'Canal 26',
         'yt_id': 'UCrpMfcQNog595v5gAS-oUsQ',
