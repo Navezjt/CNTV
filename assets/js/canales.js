@@ -807,6 +807,30 @@ const listaCanales = {
         'fuente': 'https://www.canal22web.com/',
         'pais': 'ar'
     },
+    'elnueve-tv': {
+        'nombre': 'ElNueve TV',
+        'iframe_url': 'https://player.twitch.tv/js/embed/v1.js',
+        'fuente': 'https://www.canal22web.com/',
+        'pais': 'ar'
+    },
+    'Cadena3-tv': {
+        'nombre': 'Cadena3 TV',
+        'yt_id': 'UCNxohbqfDp8YxW_Mji2XMHA',
+        'fuente': 'https://www.cadena3.com/',
+        'pais': 'ar'
+    },
+    'ElDestape-tv': {
+        'nombre': 'ElDestape TV',
+        'iframe_url': 'https://www.youtube.com/embed/3Kr2MivBrlk?autoplay=1&mute=1',
+        'fuente': 'https://www.eldestapeweb.com/',
+        'pais': 'ar'
+    },
+    'Radiomitre-tv': {
+        'nombre': 'Radiomitre TV',
+        'yt_id': 'UCYvINPByAdCcpA0sWrF3I_w',
+        'fuente': 'https://www.youtube.com/@Radiomitre',
+        'pais': 'ar'
+    },
     'canal-26': {
         'nombre': 'Canal 26',
         'yt_id': 'UCrpMfcQNog595v5gAS-oUsQ',
