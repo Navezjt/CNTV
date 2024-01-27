@@ -801,6 +801,12 @@ const listaCanales = {
         'fuente': 'https://www.c5n.com/',
         'pais': 'ar'
     },
+    'canal22-tv': {
+        'nombre': 'Canal22 TV',
+        'iframe_url': 'https://videocloud.instream.audio:2000/VideoPlayer/canal22?autoplay=1',
+        'fuente': 'https://www.canal22web.com/',
+        'pais': 'ar'
+    },
     'canal-26': {
         'nombre': 'Canal 26',
         'yt_id': 'UCrpMfcQNog595v5gAS-oUsQ',
