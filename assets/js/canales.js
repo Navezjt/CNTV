@@ -189,6 +189,12 @@ const listaCanales = {
         'fuente': 'https://www.13.cl/en-vivo',
         'pais': 'cl'
     },
+    'sctv': {
+        'nombre': 'SCTV',
+        'iframe_url': 'https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/204-sctv?schedule_id=3249308',
+        'pais': 'cl'
+    },
     'cnn-cl00': {
         'nombre': 'CNN Chile00',
         'iframe_url': 'https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false',
