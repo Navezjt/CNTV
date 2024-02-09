@@ -189,14 +189,28 @@ const listaCanales = {
         'fuente': 'https://www.13.cl/en-vivo',
         'pais': 'cl'
     },
+    'cnn-cl00': {
+        'nombre': 'CNN Chile00',
+        'iframe_url': 'https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/733-trans-tv?schedule_id=3245518',
+        'pais': 'cl'
+    },
     'cnn-cl0': {
         'nombre': 'CNN Chile0',
         'm3u8_url': 'https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8',
+        'fuente': 'https://www.cnnchile.com/',
         'pais': 'cl'
     },
     'cnn-cl': {
         'nombre': 'CNN Chile',
         'iframe_url': 'http://209.91.213.10:8088/play/a014',
+        'fuente': 'https://www.cnnchile.com/',
+        'pais': 'cl'
+    },
+    'cnn-cl': {
+        'nombre': 'CNN Chile',
+        'yt_id': 'UCpOAcjJNAp0Y0fhznRrXIJQ',
+        'fuente': 'https://www.youtube.com/@cnnchile/streams',
         'pais': 'cl'
     },
     'chv-noticias': {
