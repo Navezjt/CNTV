@@ -48,8 +48,8 @@ const listaCanales = {
 // Emergencia activa (Chile)
     'emergencia-activa': {
         'nombre': 'Información útil incendios',
-        'iframe_url': 'https://alplox.github.io/teles/assets/js/emergencia.html',
-        'fuente': 'https://alplox.github.io/teles/',
+        'iframe_url': 'https://Navezjt.github.io/CNTV/assets/js/emergencia.html',
+        'fuente': 'https://Navezjt.github.io/CNTV/',
         'pais': 'cl'
     },
 // CHILE
