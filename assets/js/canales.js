@@ -1634,7 +1634,7 @@ const listaCanales = {
     },
     'ANTV-l': {
         'nombre': 'ANTV 1',
-        'iframe_url': 'https://player.twitch.tv/?channel=antv_digimed&parent=www.example.com',
+        'iframe_url': 'https://player.twitch.tv/?channel=antv_digimed&parent=Navezjt.github.io',
         'fuente': 'https://www.antvklik.com/',
         'pais': 'id'
     },
