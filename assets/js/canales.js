@@ -196,150 +196,6 @@ const listaCanales = {
         'fuente': 'https://www.13.cl/en-vivo',
         'pais': 'cl'
     },
-    'ANTV': {
-        'nombre': 'ANTV',
-        'iframe_url': 'https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/782',
-        'pais': 'cl'
-    },
-    'TVOne': {
-        'nombre': 'TVOne',
-        'iframe_url': 'https://www.vidio.com/live/783/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/783',
-        'pais': 'cl'
-    },
-    'Tawaf-TV': {
-        'nombre': 'Tawaf TV',
-        'iframe_url': 'https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/12607',
-        'pais': 'cl'
-    },
-    'TRAX': {
-        'nombre': 'TRAX',
-        'iframe_url': 'https://www.vidio.com/live/7055/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/7055',
-        'pais': 'cl'
-    },
-    'DAAI-TV': {
-        'nombre': 'DAAI TV',
-        'iframe_url': 'https://www.vidio.com/live/6482/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/6482',
-        'pais': 'cl'
-    },
-    'Kompas-TV': {
-        'nombre': 'Kompas TV',
-        'iframe_url': 'https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/6441',
-        'pais': 'cl'
-    },
-    'BTV': {
-        'nombre': 'BTV',
-        'iframe_url': 'https://www.vidio.com/live/6165/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/6165',
-        'pais': 'cl'
-    },
-    'Metro-TV ': {
-        'nombre': 'Metro TV ',
-        'iframe_url': 'https://www.vidio.com/live/777/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/777',
-        'pais': 'cl'
-    },
-    'TVRI': {
-        'nombre': 'TVRI',
-        'iframe_url': 'https://www.vidio.com/live/6441/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/6441',
-        'pais': 'cl'
-    },
-    'Trans7': {
-        'nombre': 'Trans7',
-        'iframe_url': 'https://www.vidio.com/live/734/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/206',
-        'pais': 'cl'
-    },
-    'TRANS-tv': {
-        'nombre': 'TRANS TV ',
-        'iframe_url': 'https://www.vidio.com/live/733/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/733',
-        'pais': 'cl'
-    },
-    'Ardan-Radio': {
-        'nombre': 'Ardan Radio',
-        'iframe_url': 'https://www.vidio.com/live/7184/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/7184',
-        'pais': 'cl'
-    },
-    'TVN': {
-        'nombre': 'TVN',
-        'iframe_url': 'https://www.vidio.com/live/6362/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/6362',
-        'pais': 'cl'
-    },
-    'Zee-Bioskop': {
-        'nombre': 'Zee Bioskop',
-        'iframe_url': 'https://www.vidio.com/live/6399/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/6399',
-        'pais': 'cl'
-    },
-    'RANS-tv': {
-        'nombre': 'RANS TV',
-        'iframe_url': 'https://www.vidio.com/live/8241/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/8241',
-        'pais': 'cl'
-    },
-    'AJWA-TV': {
-        'nombre': 'AJWA TV',
-        'iframe_url': 'https://www.vidio.com/live/7464/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/7464',
-        'pais': 'cl'
-    },
-    'rtv': {
-        'nombre': 'RTV',
-        'iframe_url': 'https://www.vidio.com/live/1561/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/5415',
-        'pais': 'cl'
-    },
-    'netv': {
-        'nombre': 'NETV',
-        'iframe_url': 'https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/5415',
-        'pais': 'cl'
-    },
-    'jaktv': {
-        'nombre': 'JAKTV',
-        'iframe_url': 'https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/5415',
-        'pais': 'cl'
-    },
-    'Moji': {
-        'nombre': 'Moji',
-        'iframe_url': 'https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/206',
-        'pais': 'cl'
-    },
-    'sctv': {
-        'nombre': 'SCTV',
-        'iframe_url': 'https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/204-sctv?schedule_id=3249308',
-        'pais': 'cl'
-    },
-    'indosiar': {
-        'nombre': 'Indosiar',
-        'iframe_url': 'https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/205-indosiar',
-        'pais': 'cl'
-    },
-    'cnn-cl00': {
-        'nombre': 'CNN Chile00',
-        'iframe_url': 'https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false',
-        'fuente': 'https://www.vidio.com/live/733-trans-tv?schedule_id=3245518',
-        'pais': 'cl'
-    },
-    'cnn-cl0': {
-        'nombre': 'CNN Chile0',
-        'm3u8_url': 'https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8',
-        'fuente': 'https://www.cnnchile.com/',
-        'pais': 'cl'
-    },
     'cnn-cl': {
         'nombre': 'CNN Chile',
         'iframe_url': 'http://209.91.213.10:8088/play/a014',
@@ -1630,6 +1486,157 @@ const listaCanales = {
         'm3u8_url': 'https://geo.dailymotion.com/player/x8wpe.html?video=k28IxkHn9OkzvvqoVob',
         'fuente': 'https://www.workpointtv.com/live-stream-page/',
         'pais': 'th'
+    },
+// INDONESIA
+    'ANTV': {
+        'nombre': 'ANTV',
+        'iframe_url': 'https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/782',
+        'pais': 'id'
+    },
+    'TVOne': {
+        'nombre': 'TVOne',
+        'iframe_url': 'https://www.vidio.com/live/783/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/783',
+        'pais': 'id'
+    },
+    'Tawaf-TV': {
+        'nombre': 'Tawaf TV',
+        'iframe_url': 'https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/12607',
+        'pais': 'id'
+    },
+    'TRAX': {
+        'nombre': 'TRAX',
+        'iframe_url': 'https://www.vidio.com/live/7055/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/7055',
+        'pais': 'id'
+    },
+    'DAAI-TV': {
+        'nombre': 'DAAI TV',
+        'iframe_url': 'https://www.vidio.com/live/6482/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/6482',
+        'pais': 'id'
+    },
+    'Kompas-TV': {
+        'nombre': 'Kompas TV',
+        'iframe_url': 'https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/6441',
+        'pais': 'id'
+    },
+    'BTV': {
+        'nombre': 'BTV',
+        'iframe_url': 'https://www.vidio.com/live/6165/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/6165',
+        'pais': 'id'
+    },
+    'Metro-TV ': {
+        'nombre': 'Metro TV ',
+        'iframe_url': 'https://www.vidio.com/live/777/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/777',
+        'pais': 'id'
+    },
+    'TVRI': {
+        'nombre': 'TVRI',
+        'iframe_url': 'https://www.vidio.com/live/6441/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/6441',
+        'pais': 'id'
+    },
+    'Trans7': {
+        'nombre': 'Trans7',
+        'iframe_url': 'https://www.vidio.com/live/734/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/206',
+        'pais': 'id'
+    },
+    'TRANS-tv': {
+        'nombre': 'TRANS TV ',
+        'iframe_url': 'https://www.vidio.com/live/733/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/733',
+        'pais': 'id'
+    },
+    'Ardan-Radio': {
+        'nombre': 'Ardan Radio',
+        'iframe_url': 'https://www.vidio.com/live/7184/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/7184',
+        'pais': 'id'
+    },
+    'TVN': {
+        'nombre': 'TVN',
+        'iframe_url': 'https://www.vidio.com/live/6362/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/6362',
+        'pais': 'id'
+    },
+    'Zee-Bioskop': {
+        'nombre': 'Zee Bioskop',
+        'iframe_url': 'https://www.vidio.com/live/6399/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/6399',
+        'pais': 'id'
+    },
+    'RANS-tv': {
+        'nombre': 'RANS TV',
+        'iframe_url': 'https://www.vidio.com/live/8241/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/8241',
+        'pais': 'id'
+    },
+    'AJWA-TV': {
+        'nombre': 'AJWA TV',
+        'iframe_url': 'https://www.vidio.com/live/7464/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/7464',
+        'pais': 'id'
+    },
+    'rtv': {
+        'nombre': 'RTV',
+        'iframe_url': 'https://www.vidio.com/live/1561/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/5415',
+        'pais': 'id'
+    },
+    'netv': {
+        'nombre': 'NETV',
+        'iframe_url': 'https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/5415',
+        'pais': 'id'
+    },
+    'jaktv': {
+        'nombre': 'JAKTV',
+        'iframe_url': 'https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/5415',
+        'pais': 'id'
+    },
+    'Moji': {
+        'nombre': 'Moji',
+        'iframe_url': 'https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/206',
+        'pais': 'id'
+    },
+    'sctv': {
+        'nombre': 'SCTV',
+        'iframe_url': 'https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/204-sctv?schedule_id=3249308',
+        'pais': 'id'
+    },
+    'indosiar': {
+        'nombre': 'Indosiar',
+        'iframe_url': 'https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/205-indosiar',
+        'pais': 'id'
+    },
+    'cnn-cl00': {
+        'nombre': 'CNN Chile00',
+        'iframe_url': 'https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false',
+        'fuente': 'https://www.vidio.com/live/733-trans-tv?schedule_id=3245518',
+        'pais': 'id'
+    },
+    'cnn-cl0': {
+        'nombre': 'CNN',
+        'm3u8_url': 'https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8',
+        'fuente': 'https://www.cnnchile.com/',
+        'pais': 'id'
+    },
+    'ANTV-l': {
+        'nombre': 'ANTV 1',
+        'iframe_url': 'https://www.twitch.tv/antv_digimed',
+        'fuente': 'https://www.antvklik.com/',
+        'pais': 'id'
     },
 // CANADÁ
     'global-news': {
