@@ -2108,8 +2108,8 @@ const listaCanales = {
         'fuente': 'https://www.trthaber.com/',
         'pais': 'tr'
     },
-    'trt-Haber': {
-        'nombre': 'TRT Haber',
+    'CNNTURK': {
+        'nombre': 'CNNTURK',
         'm3u8_url': 'https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8',
         'fuente': 'https://www.cnnturk.com/canli-yayin',
         'pais': 'tr'
@@ -2122,7 +2122,7 @@ const listaCanales = {
     },
     'HaberTURK': {
         'nombre': 'HaberTURK',
-        'm3u8_url': 'https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8',
+        'm3u8_url': 'https://haberturk.ercdn.net/channel01/channel01.m3u8',
         'fuente': 'https://www.haberturk.com/',
         'pais': 'tr'
     },
