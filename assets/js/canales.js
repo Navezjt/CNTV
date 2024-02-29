@@ -2093,6 +2093,55 @@ const listaCanales = {
     'trt-world': {
         'nombre': 'TRT World',
         'yt_id': 'UC7fWeaHhqgM4Ry-RMpM2YYw',
+        'fuente': 'https://www.trtworld.com/',
+        'pais': 'tr'
+    },
+    'BFZ-TURK': {
+        'nombre': 'BFZ TURK',
+        'iframe_url': 'https://www.nimo.tv/embed/5160697995',
+        'fuente': 'https://bfzturk.com/',
+        'pais': 'tr'
+    },
+    'trt-Haber': {
+        'nombre': 'TRT Haber',
+        'm3u8_url': 'https://tv-trthaber.medya.trt.com.tr/master.m3u8',
+        'fuente': 'https://www.trthaber.com/',
+        'pais': 'tr'
+    },
+    'trt-Haber': {
+        'nombre': 'TRT Haber',
+        'm3u8_url': 'https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8',
+        'fuente': 'https://www.cnnturk.com/canli-yayin',
+        'pais': 'tr'
+    },
+    'NTV': {
+        'nombre': 'NTV',
+        'yt_id': 'UC9TDTjbOjFB9jADmPhSAPsw',
+        'fuente': 'https://www.ntv.com.tr/',
+        'pais': 'tr'
+    },
+    'HaberTURK': {
+        'nombre': 'HaberTURK',
+        'm3u8_url': 'https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8',
+        'fuente': 'https://www.haberturk.com/',
+        'pais': 'tr'
+    },
+    'ATV': {
+        'nombre': 'ATV',
+        'yt_id': 'UCUVZ7T_kwkxDOGFcDlFI-hg',
+        'fuente': 'https://www.atv.com.tr/canli-yayin',
+        'pais': 'tr'
+    },
+    'KTR': {
+        'nombre': 'KTR',
+        'yt_id': 'UCVKWwHoLwUMMa80cu_1uapA',
+        'fuente': 'https://www.krttv.com.tr/',
+        'pais': 'tr'
+    },
+    'NOW': {
+        'nombre': 'NOW',
+        'yt_id': 'UCJe13zu6MyE6Oueac41KAqg',
+        'fuente': 'https://www.nowtv.com.tr/',
         'pais': 'tr'
     },
 // CATAR
