@@ -2180,8 +2180,8 @@ const listaCanales = {
         'fuente': 'https://www.krttv.com.tr/',
         'pais': 'tr'
     },
-    'NOW': {
-        'nombre': 'NOW',
+    'NOW-TURK': {
+        'nombre': 'NOW TURK',
         'm3u8_url': 'https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=d0k8DqkgRoO342EjNU3w3A&e=1709252808',
         'fuente': 'https://www.nowtv.com.tr/',
         'pais': 'tr'
