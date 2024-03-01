@@ -1,7 +1,7 @@
 /* 
   main v0.14
-  by Alplox 
-  https://github.com/Alplox/teles
+  by Navezjt
+  https://github.com/Navezjt/CNTV
 */
 
 /* 
