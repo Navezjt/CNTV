@@ -16,8 +16,8 @@ tipos de enlaces posibles [Recordar utilizar solo enlaces https si se aloja en G
         'pais': 'nombre país'     (nombre país es en base a ISO 3166, https://flagcdn.com/en/codes.json (Recomendable en minúsculas))
     }
 
-by Alplox 
-https://github.com/Alplox/teles
+by Navezjt 
+https://github.com/Navezjt/CNTV
 */
 
 const listaCanales = {
