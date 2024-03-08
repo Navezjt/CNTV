@@ -1464,14 +1464,58 @@ const listaCanales = {
         'm3u8_url': 'http://45.166.92.22:58001/play/a036/index.m3u8',
         'pais': 'es'
     },
+    'rtve-radioficial': {
+        'nombre': 'RTVE RADIOFICIAL',
+        'iframe_url': 'https://www.rtve.es/play/videos/directo/ojo-critico-rne-arco-madrid-2024/',
+        'fuente': 'https://www.rtve.es/play/videos/directo/',
+        'pais': 'es'
+    },
+    'rtve-LA1-oficial': {
+        'nombre': 'RTVE LA1 OFICIAL',
+        'iframe_url': 'https://www.rtve.es/play/videos/directo/la-1/',
+        'fuente': 'https://www.rtve.es/play/videos/directo/',
+        'pais': 'es'
+    },
+    'rtve-LA2-oficial': {
+        'nombre': 'RTVE LA2 OFICIAL',
+        'iframe_url': 'https://www.rtve.es/play/videos/directo/la-2/',
+        'fuente': 'https://www.rtve.es/play/videos/directo/',
+        'pais': 'es'
+    },
+    'rtve-oficial': {
+        'nombre': 'RTVE OFICIAL',
+        'iframe_url': 'https://www.rtve.es/play/videos/directo/24h/',
+        'fuente': 'https://www.rtve.es/play/videos/directo/',
+        'pais': 'es'
+    },
     'rtve-vivo': {
         'nombre': 'RTVE En Vivo',
         'yt_id': 'UC7QZIf0dta-XPXsp9Hv4dTw',
+        'fuente': 'https://www.rtve.es/play/videos/directo/',
         'pais': 'es'
     },
     'rtve': {
         'nombre': 'RTVE Noticias',
         'iframe_url': 'https://www.youtube.com/embed/mzdfGCdNSHQ?si=flc8T9xScgW4tz7h',
+        'fuente': 'https://www.rtve.es/play/videos/directo/',
+        'pais': 'es'
+    },
+    'galicia': {
+        'nombre': 'GALICIA',
+        'm3u8_url': 'https://crtvg-europa.flumotion.cloud/playlist.m3u8',
+        'fuente': 'https://www.crtvg.es/portada',
+        'pais': 'es'
+    },
+    'canalsur': {
+        'nombre': 'Canalsur',
+        'iframe_url': 'https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&rel=0&modestbranding&enablejsapi=1&origin=https%3A%2F%2Fwww.canalsur.es',
+        'fuente': 'https://www.canalsur.es/tv_directo-1193.html',
+        'pais': 'es'
+    },
+    'señalespaña': {
+        'nombre': 'señalespaña',
+        'iframe_url': 'https://playerssl.radioonlinehd.com/tv91/xhunestv/',
+        'fuente': 'https://senalespana.unes.edu.mx/',
         'pais': 'es'
     },
 // BRASIL
