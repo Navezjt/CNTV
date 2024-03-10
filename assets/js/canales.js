@@ -937,9 +937,15 @@ const listaCanales = {
         'yt_id': 'UCba3hpU7EFBSk817y9qZkiA',
         'pais': 'ar'
     },
+    'ip-digital0': {
+        'nombre': 'Información Periodistica0',
+        'iframe_url': 'https://cdn.iframe.ly/api/iframe?amp=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlrIa3ImYrhU&key=284d6b492934666274563e3e1a67cadd',
+        'fuente': 'https://ip.digital/vivo',
+        'pais': 'ar'
+    },
     'ip-digital': {
         'nombre': 'Información Periodistica',
-        'iframe_url': 'https://cdn.iframe.ly/api/iframe?amp=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlrIa3ImYrhU&key=284d6b492934666274563e3e1a67cadd',
+        'iframe_url': 'https://player.twitch.tv/?channel=ip_noticias&parent=ipnoticias.ar',
         'fuente': 'https://ip.digital/vivo',
         'pais': 'ar'
     },
