@@ -778,6 +778,72 @@ const listaCanales = {
         'fuente': 'https://www.tvn.cl/tvn3',
         'pais': 'cl'
     },
+    'tv-calderavision': {
+        'nombre': 'TV calderavision',
+        'iframe_url': 'https://streaming10.zglobalhost.com:2020/VideoPlayer/frknrusdct?autoplay=1',
+        'fuente': 'https://calderavision.cl/',
+        'pais': 'cl'
+    },
+    'tv-lachilena': {
+        'nombre': 'TV lachilena',
+        'iframe_url': 'https://vdochile.com/hybrid-stream-video-widget/jeubuffn',
+        'fuente': 'https://lachilena.tutv.cl/',
+        'pais': 'cl'
+    },
+    'tv-terror': {
+        'nombre': 'TV terror',
+        'm3u8_url': 'https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8',
+        'fuente': 'https://latinartv.com/emisoras/terror-tv',
+        'pais': 'cl'
+    },
+    'tv-cine': {
+        'nombre': 'TV CINE+',
+        'm3u8_url': 'https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8',
+        'fuente': 'https://latinartv.com/emisoras/cine',
+        'pais': 'cl'
+    },
+    'tv-moni': {
+        'nombre': 'TV moni',
+        'm3u8_url': 'https://stream.skarnetchile.com:3817/live/monitvlive.m3u8',
+        'fuente': 'https://monitv.net/',
+        'pais': 'cl'
+    },
+    'tv-lachilena': {
+        'nombre': 'TV lachilena',
+        'iframe_url': 'https://vdochile.com/hybrid-stream-video-widget/jeubuffn',
+        'fuente': 'https://lachilena.tutv.cl/',
+        'pais': 'cl'
+    },
+    'tv-portalfoxmix': {
+        'nombre': 'TV portalfoxmix',
+        'm3u8_url': 'https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8',
+        'fuente': 'https://www.portalfoxmix.cl/web/',
+        'pais': 'cl'
+    },
+    'tv-portalfoxmix': {
+        'nombre': 'TV portalfoxmix',
+        'iframe_url': 'https://playerv.logicahost.com.br/video/retroplustv/3/false/false/ZG1sa1pXOHdOaTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/',
+        'fuente': 'https://retroplustv.com/',
+        'pais': 'cl'
+    },
+    'tv-portalfoxmix': {
+        'nombre': 'TV portalfoxmix',
+        'iframe_url': 'https://playerv.logicahost.com.br/video/retroplussenal2/3/false/false/ZG1sa1pXOHdOaTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/',
+        'fuente': 'https://retroplustv.com/',
+        'pais': 'cl'
+    },
+    'tv-portalfoxmix': {
+        'nombre': 'TV portalfoxmix',
+        'iframe_url': 'https://playerv.logicahost.com.br/video/retroplussenal3/3/false/false/Wkcxc2ExcFhPSGRPYVRWellqSmtjRmt5Um05aU0wNHdURzFPZG1KVE5XbGpaejA5KzM=/16:9//nao/',
+        'fuente': 'https://retroplustv.com/',
+        'pais': 'cl'
+    },
+    'tv-benfertv': {
+        'nombre': 'TV benfertv',
+        'iframe_url': 'https://playerv.voxtvhd.com.br/video/benfertv/3/true/true/VjFod1QxVXlVa2hWYmtaWVYwWmFjbGxzVW5KTlJuQkdZVWRHYVUxWVFrVlViR1IzWVZVeGNWRnFSbGhXZWxaTFZVWkZPVkJUYzNvPSta/16:9/nocover/nao',
+        'fuente': 'https://benfertv.cl/',
+        'pais': 'cl'
+    },
 // ARGENTINA
     'tn': {
         'nombre': 'Todonoticias',
