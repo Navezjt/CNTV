@@ -694,6 +694,90 @@ const listaCanales = {
         'fuente': 'https://tvsalud.cl/',
         'pais': 'cl'
     },
+    'tv-telenorte': {
+        'nombre': 'TV Telenorte',
+        'm3u8_url': 'https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8',
+        'fuente': 'https://www.telenorte.cl/',
+        'pais': 'cl'
+    },
+    'tv-rtctelevision': {
+        'nombre': 'TV Rtctelevision',
+        'iframe_url': 'https://stream.skarnetchile.com/live-stream-video-widget/rtciquique',
+        'fuente': 'https://www.rtctelevision.cl/',
+        'pais': 'cl'
+    },
+    'tv-canaltv8': {
+        'nombre': 'TV canaltv8',
+        'm3u8_url': 'https://panel.tvstream.cl:1936/8032/8032/playlist.m3u8',
+        'fuente': 'https://www.canaltv8.cl/',
+        'pais': 'cl'
+    },
+    'tv-temuco': {
+        'nombre': 'TV Temuco',
+        'm3u8_url': 'https://vdo.streaming-chile.com/p/3994/live/temucotelevisionlive.m3u8',
+        'fuente': 'https://temucotelevision.cl/web/',
+        'pais': 'cl'
+    },
+    'tv-canal5': {
+        'nombre': 'TV canal5',
+        'm3u8_url': 'https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8',
+        'fuente': 'https://canal5.cl/wp/',
+        'pais': 'cl'
+    },
+    'tv-vision': {
+        'nombre': 'TV vision',
+        'm3u8_url': 'https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8',
+        'fuente': 'https://visiontv.cl/',
+        'pais': 'cl'
+    },
+    'tv-canal11aysen': {
+        'nombre': 'TV canal11aysen',
+        'iframe_url': 'https://cdn.jwplayer.com/players/2R4TGXTm-InE6g9DY.html',
+        'fuente': 'https://canal11aysen.cl/',
+        'pais': 'cl'
+    },
+    'tv-sur': {
+        'nombre': 'TV SUR',
+        'iframe_url': 'https://rudo.video/live/surtv',
+        'fuente': 'https://www.surtv.cl/',
+        'pais': 'cl'
+    },
+    'tv-canalsurpatagonia': {
+        'nombre': 'TV canalsurpatagonia',
+        'iframe_url': 'https://cdn.jwplayer.com/players/CvGZdlJl-InE6g9DY.html',
+        'fuente': 'https://www.canalsurpatagonia.cl/',
+        'pais': 'cl'
+    },
+    'tv-sensacioncosta': {
+        'nombre': 'TV canasensacioncosta',
+        'iframe_url': 'https://tv.clientetvstudio.net/hybrid-stream-video-widget/tvcosta2',
+        'fuente': 'https://sensacioncosta.cl/',
+        'pais': 'cl'
+    },
+    'tv-milodoncomunicaciones': {
+        'nombre': 'TV milodoncomunicaciones',
+        'iframe_url': 'https://videosenlared.fullstreaming.ar/live-stream-video-widget/ynhpdikj?autoplay=1',
+        'fuente': 'https://milodoncomunicaciones.com/',
+        'pais': 'cl'
+    },
+    'tv-tne': {
+        'nombre': 'TV tne',
+        'iframe_url': 'https://cdn.jwplayer.com/players/HBcpA9gx-xpHT0aWt.html',
+        'fuente': 'https://www.tnetv.cl/',
+        'pais': 'cl'
+    },
+    'tv-sabrosonafm': {
+        'nombre': 'TV sabrosonafm',
+        'iframe_url': 'https://samson.streamerr.co/VideoPlayer/sabrosonavideo?autoplay=1',
+        'fuente': 'https://sabrosonafm.cl/',
+        'pais': 'cl'
+    },
+    'tv-tvn3': {
+        'nombre': 'TV tvn3',
+        'iframe_url': 'https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?jsapi=true&autoplay=false&player=57f40bb4dc5b9f3075c49cfe&custom.ui=%2F317342475%2Ftvn&custom.tvn_demo=&custom.tvn_tipo=EnVivo&custom.tvn_seccion=senal-en-vivo&custom.tvn_articulo=5653641561b4eba30a7e4929&custom.tvn_tags=',
+        'fuente': 'https://www.tvn.cl/tvn3',
+        'pais': 'cl'
+    },
 // ARGENTINA
     'tn': {
         'nombre': 'Todonoticias',
