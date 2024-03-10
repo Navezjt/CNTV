@@ -898,6 +898,12 @@ const listaCanales = {
         'fuente': 'https://uci.pe/envivo',
         'pais': 'pe'
     },
+    'nativa-tv0': {
+        'nombre': 'Nativa TV0',
+        'm3u8_url': 'https://ntv.pe/salida/nativa.m3u8',
+        'fuente': 'https://ntv.pe/',
+        'pais': 'pe'
+    },
     'nativa-tv': {
         'nombre': 'Nativa TV',
         'iframe_url': 'https://ntv.pe/vivo.html',
