@@ -928,8 +928,8 @@ const listaCanales = {
     },
     'a24-2': {
         'nombre': 'a24 2',
-        'iframe_url': 'https://s3.blackdot.world/cvatt.html?get=QW1lcmljYTI0&lang=1',
-        'fuente': 'https://television-libre.online/en-vivo/a24/',
+        'iframe_url': 'https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false',
+        'fuente': 'https://www.a24.com/vivo',
         'pais': 'ar'
     },
     'la-nacion': {
