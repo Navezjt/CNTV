@@ -2184,6 +2184,90 @@ const listaCanales = {
         'yt_id': 'UCMp5Buw-6LpbbV9r9Sl_5yg',
         'pais': 'ru'
     },
+    '1tv': {
+        'nombre': '1TV',
+        'iframe_url': 'https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=..%2Fembeds%2F1tv_live.html&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=aca9762ad9b2e1633c4047c8',
+        'fuente': 'https://www.1tv.ru/live',
+        'pais': 'ru'
+    },
+    '24tv': {
+        'nombre': '24TV',
+        'iframe_url': 'https://rutube.ru/play/embed/261339ca4f1396ea0271d07364bd99dd',
+        'fuente': 'https://crimea24.tv/broadcasting/',
+        'pais': 'ru'
+    },
+    'Current-Time-TV': {
+        'nombre': 'Current Time TV',
+        'iframe_url': 'https://www.currenttime.tv/embed/player/1/92.html?type=video',
+        'fuente': 'https://www.currenttime.tv/live/video/92',
+        'pais': 'ru'
+    },
+    'm24': {
+        'nombre': 'M24',
+        'iframe_url': 'https://www.m24.ru/tv',
+        'fuente': 'https://www.m24.ru/live',
+        'pais': 'ru'
+    },
+    'ntv': {
+        'nombre': 'NTV',
+        'm3u8_url': 'https://cdn2.ntv.ru/ntv0_hd/tracks-v5a1/rewind-7150.m3u8',
+        'fuente': 'https://www.ntv.ru/air/ntv/',
+        'pais': 'ru'
+    },
+    'rbc': {
+        'nombre': 'RBC',
+        'm3u8_url': 'https://online-video.rbc.ru/online/rbctvhd.m3u8',
+        'fuente': 'https://tv.rbc.ru/streams/',
+        'pais': 'ru'
+    },
+    'ren': {
+        'nombre': 'REN',
+        'iframe_url': 'https://player.mediavitrina.ru/rentv/rentv_web/player.html',
+        'fuente': 'https://ren.tv/live',
+        'pais': 'ru'
+    },
+    'rtv': {
+        'nombre': 'RTV',
+        'm3u8_url': 'https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8',
+        'fuente': 'https://rumble.com/v35waq4-rt-news-livestream-247.html',
+        'pais': 'ru'
+    },
+    'rtrplaneta': {
+        'nombre': 'RTRPlaneta',
+        'iframe_url': 'https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/',
+        'fuente': 'https://vgtrk.ru/rtrplaneta',
+        'pais': 'ru'
+    },
+    'POCCNЯ1': {
+        'nombre': 'POCCNЯ1',
+        'iframe_url': 'https://player.smotrim.ru/iframe/live/id/63254/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/',
+        'fuente': 'https://smotrim.ru/live/63254',
+        'pais': 'ru'
+    },
+    'MIR': {
+        'nombre': 'MIR',
+        'iframe_url': 'https://player.mediavitrina.ru/mir_v2/mir/smotrim_web/player.html',
+        'fuente': 'https://smotrim.ru/channel/253',
+        'pais': 'ru'
+    },
+    'TBU': {
+        'nombre': 'TBU',
+        'iframe_url': 'https://www.tvc.ru/channel/onairiframe/',
+        'fuente': 'https://www.tvc.ru/channel/onair',
+        'pais': 'ru'
+    },
+    'tvrain': {
+        'nombre': 'TVRain',
+        'm3u8_url': 'https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8',
+        'fuente': 'https://tvrain.tv/live/',
+        'pais': 'ru'
+    },
+    'soyuz': {
+        'nombre': 'Soyuz',
+        'iframe_url': 'https://playercdn.cdnvideo.ru/aloha/players/tvsoyuz_player.html',
+        'fuente': 'https://tv-soyuz.ru/tvprogramma',
+        'pais': 'ru'
+    },
 // UCRANIA
     '24-Канал-онлайн': {
         'nombre': '24 Канал онлайн',
