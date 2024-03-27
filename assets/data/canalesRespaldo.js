@@ -17,7 +17,7 @@ tipos de enlaces posibles [Recordar utilizar solo enlaces https si se aloja en G
         'alt_icon': 'icono bootstrap'  (este concepto de icono alternativo se usa mayoritariamente para señales que no pertenece a un país en específico tanto como para quizás segmentar por tipo de señal, si es un canal o una radio. No es obligatorio)
     }
 
-by Alplox 
+by Navezjt
 https://github.com/Navezjt/CNTV
 */
 
