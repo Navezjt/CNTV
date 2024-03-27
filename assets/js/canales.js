@@ -2268,6 +2268,24 @@ const listaCanales = {
         'fuente': 'https://tv-soyuz.ru/tvprogramma',
         'pais': 'ru'
     },
+    'channel-8': {
+        'nombre': 'channel 8',
+        'm3u8_url': 'https://v4.proofix.ru/8tv-europe/index.m3u8',
+        'fuente': 'https://vipotv.com/channel-8/',
+        'pais': 'ru'
+    },
+    'Zvezda': {
+        'nombre': 'Zvezda',
+        'iframe_url': 'https://rutube.ru/play/embed/5ab908fccfac5bb43ef2b1e4182256b0',
+        'fuente': 'https://www.livehdtv.net/zvezda-zvezda-live-stream/',
+        'pais': 'ru'
+    },
+    'iz-ru': {
+        'nombre': 'Iz Ru',
+        'iframe_url': 'https://www.livehdtv.net/yayin/?kanal=512&yayin=&guvenlik=$2y$10$fDXytyU.EQfeckWFQQwIfeqf2FyUkYCzCslMPDQQIAtGcTE.pUjLG',
+        'fuente': 'https://www.livehdtv.net/iz-ru-live-stream-russia/',
+        'pais': 'ru'
+    },
 // UCRANIA
     '24-Канал-онлайн': {
         'nombre': '24 Канал онлайн',
