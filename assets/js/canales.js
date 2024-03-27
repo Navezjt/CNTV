@@ -1079,19 +1079,19 @@ const listaCanales = {
     },
     'atv': {
         'nombre': 'ATV',
-        'm3u8_url': 'https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8',
+        'm3u8_url': 'https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8',
         'fuente': 'https://www.atv.pe/envivo-atv',
         'pais': 'pe'
     },
     'atv-mas': {
         'nombre': 'ATV Más',
-        'm3u8_url': 'https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8',
+        'm3u8_url': 'https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8',
         'fuente': 'https://www.atv.pe/envivo-atvmas',
         'pais': 'pe'
     },
     'atv-sur': {
         'nombre': 'ATV Sur',
-        'm3u8_url': 'https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8',
+        'm3u8_url': 'https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8',
         'fuente': 'https://www.atv.pe/envivo-atvmas',
         'pais': 'pe'
     },
