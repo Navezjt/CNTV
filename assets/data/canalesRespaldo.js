@@ -1105,6 +1105,12 @@ const listaCanalesViejo = {
         'yt_id': 'UCpSJ5fGhmAME9Kx2D3ZvN3Q',
         'pais': 'pe'
     },
+    'latina-tv': {
+        'nombre': 'Latina TV',
+        'yt_id': 'https://rudo.video/live/latina',
+        'fuente': 'https://www.latina.pe/tvenvivo',
+        'pais': 'pe'
+    },
     'Radio-California': {
         'nombre': 'Radio California',
         'iframe_url': 'https://vdo.grupolimalive.com/live-stream-video-widget/californiatv',
@@ -1186,11 +1192,198 @@ const listaCanalesViejo = {
         'fuente': 'https://tvhd.pe/tnt-hd-en-vivo/',
         'pais': 'pe'
     },
+//VIETNAM
+    "thtv": {
+        "nombre": "THTV",
+        "m3u8_url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thtv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HÀ-NỘI-1": {
+        "nombre": "HÀ NỘI 1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hanoi1.php",
+        "fuente": "https://hanoionline.vn/",
+        "pais": "vn"
+    },
+    "atv1": {
+        "nombre": "ATV1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/atv1.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-atv1-an-giang-tv-1-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "btv": {
+        "nombre": "BTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/bltv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-bltv-bac-lieu-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "btv1": {
+        "nombre": "BTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/binhthuan.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-btv-binh-thuan-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "bptv2": {
+        "nombre": "BPTV2",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/bptv2.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-bptv2-binh-phuoc-tv-2-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "crtv": {
+        "nombre": "CRTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/caobang.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-crtv-cao-bang-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "drtv": {
+        "nombre": "DRTV",
+        "m3u8_url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-drt-dak-lak-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "ptd": {
+        "nombre": "PTD",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/ptd.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-ptd-dak-nong-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "ltv": {
+        "nombre": "LTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/lamdong.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-ltv-lam-dong-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "drt1": {
+        "nombre": "DRT1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dn1.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-drt1-da-nang-tv-1-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "drt2": {
+        "nombre": "DRT2",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dn2.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-drt2-da-nang-tv-2-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "dn1": {
+        "nombre": "DN1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dongnai1.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-dn1-dong-nai-tv-1-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "dn2": {
+        "nombre": "DN2",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dongnai2.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-dn2-dong-nai-tv-2-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "dn3": {
+        "nombre": "DN3",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dongnai3.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-dn3-dong-nai-tv-3-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "dtv": {
+        "nombre": "DTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dtv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-dtv-dien-bien-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "thgl": {
+        "nombre": "THGL",
+        "m3u8_url": "https://tv.gialaitv.vn:8134/hls/gialaitv/gialaitv.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thgl-gia-lai-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "ha-nam-THHN": {
+        "nombre": "HA NAM THHN",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hanam.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thhn-ha-nam-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "hgtv": {
+        "nombre": "HGTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hagiang.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-hgtv-ha-giang-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "httv": {
+        "nombre": "HTTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/httv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-httv-ha-tinh-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "thdtv1": {
+        "nombre": "THDTV1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/thdt.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thdt1-dong-thap-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "thdt2": {
+        "nombre": "THDTV2",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/thdt2.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thdt2-mientay-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "hdtv": {
+        "nombre": "HDTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hdtv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-hdtv-hai-duong-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "stv": {
+        "nombre": "STV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/sonla.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-stv-sonla-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "hgtv": {
+        "nombre": "HGTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hgtv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-hgtv-hau-giang-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+     "ktv1": {
+        "nombre": "KTV1",
+        "m3u8_url": "https://tv.ktv.org.vn/hls/ktv1.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-ktv-khanh-hoa-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "krt": {
+        "nombre": "KRT",
+        "m3u8_url": "https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-krt-kontum-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "hbtvhoa": {
+        "nombre": "HBTVhoa",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hbtv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-hbtv-hoa-binh-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "trt1": {
+        "nombre": "TRT1",
+        "m3u8_url": "https://live.trt.com.vn/TRT-Online/chunklist.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-trt-thua-thien-hue-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "hytv": {
+        "nombre": "HYTV",
+        "m3u8_url": "https://1253218859.e.cdneverest.net/aTZsLPt6DacIdU6mMkCF-Q/1711598005/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8",
+        "fuente": "https://hungyentv.vn/truc-tuyen",
+        "pais": "vn"
+    },
+    "kgtv": {
+        "nombre": "kgtv",
+        "m3u8_url": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-kgtv-kiengiang-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
 // VENEZUELA
-    'globovision': {
-        'nombre': 'Globovisión En Vivo',
-        'yt_id': 'UCfJtBtmhnIyfUB6RqXeImMw',
-        'pais': 've'
+    "globovision": {
+        "nombre": "Globovisión En Vivo",
+        "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
+        "pais": "ve"
     },
     'cantina-tv': {
         'nombre': 'CANTINA TV',
