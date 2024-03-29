@@ -1018,6 +1018,24 @@ const listaCanalesViejo = {
         'yt_id': 'UCkZCoc42IipR1ucqJmIehsA',
         'pais': 'pe'
     },  
+    "tv-peru": {
+        "nombre": "TV Perú",
+        "iframe_url": "https://iblups.com/e_tvperuHD",
+        "fuente": "https://www.tvperu.gob.pe/play",
+        "pais": "pe"
+    },
+    "tv-peru1": {
+        "nombre": "TVPerú 1",
+        "iframe_url": "https://iblups.com/e_tvperu73",
+        "fuente": "https://ntvperu.pe/senal-en-vivo/",
+        "pais": "pe"
+    },
+    "tv-peru": {
+        "nombre": "TVPerú 2",
+        "iframe_url": "https://iblups.com/e_tvperu72",
+        "fuente": "https://ntvperu.pe/senal-en-vivo/",
+        "pais": "pe"
+    },
     'nacional-tv': {
         'nombre': 'Nacional TV',
         'm3u8_url': 'https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8',
@@ -1107,7 +1125,7 @@ const listaCanalesViejo = {
     },
     'latina-tv': {
         'nombre': 'Latina TV',
-        'yt_id': 'https://rudo.video/live/latina',
+        'iframe_url': 'https://rudo.video/live/latina',
         'fuente': 'https://www.latina.pe/tvenvivo',
         'pais': 'pe'
     },
@@ -1191,6 +1209,24 @@ const listaCanalesViejo = {
         'iframe_url': 'https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvVE5USEQvZGFzaF9may9pbmRleC5tcGQ=&k1=Y2MxZGJlNDM1NjRhYzUxYTYwNjQyMTgyOGI5OWQzYWQ=&k2=Mjg3OTc1YTY1ZWIzZjMzN2ExYmRmOWE4ZWVhYmY2MTM=&aut=true&lang=0',
         'fuente': 'https://tvhd.pe/tnt-hd-en-vivo/',
         'pais': 'pe'
+    },
+    'señal-peru': {
+        'nombre': '📻 SEÑAL PERU',
+        'm3u8_url': 'https:\/\/livestream.perucast.com\/low\/stream.m3u8',
+        'fuente': 'https://xn--sealperutv-u9a.pe/',
+        'pais': 'pe'
+    },
+    "sol-tv": {
+        "nombre": "SOL TV",
+        "iframe_url": "https://playerv.logicahost.com.br/video/soltv/1/true/false/ZG1sa1pXOHdNeTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9///",
+        "fuente": "https://soltvperu.com/en-vivo/",
+        "pais": "pe"
+    },
+    "cnc": {
+        "nombre": "CNC",
+        "iframe_url": "https://innovatestream.com/tv/v2/player.php?live=cnctv",
+        "fuente": "https://www.cnccajamarca.com/",
+        "pais": "pe"
     },
 //VIETNAM
     "thtv": {
