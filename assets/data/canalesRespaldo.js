@@ -2657,6 +2657,12 @@ const listaCanalesViejo = {
         'fuente': 'https://www.cnnturk.com/canli-yayin',
         'pais': 'tr'
     },
+    'CNNTURK2': {
+        'nombre': 'CNNTURK2',
+        'm3u8_url': 'https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8',
+        'fuente': 'https://www.cnnturk.com/canli-yayin',
+        'pais': 'tr'
+    },
     'NTV': {
         'nombre': 'NTV',
         'iframe_url': 'https://canlitv.center/yayin/ntv-izle-3',
