@@ -1054,6 +1054,12 @@ const listaCanalesViejo = {
         'fuente': 'https://panamericana.pe/tvenvivo',
         'pais': 'pe'
     },
+    'Chincha-Tv': {
+        'nombre': 'Chincha Tv',
+        'iframe_url': 'https://ok.ru/videoembed/5439500131845?nochat=1&autoplay=1',
+        'fuente': 'https://www.chincha.tv/p/live.html',
+        'pais': 'pe'
+    },
     'onda-digital-tv': {
         'nombre': 'Onda Digital TV',
         'm3u8_url': 'https://v4.tustreaming.cl:443/odtvgo/index.m3u8',
