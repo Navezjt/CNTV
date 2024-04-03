@@ -1042,6 +1042,12 @@ const listaCanalesViejo = {
         'fuente': 'https://ntvperu.pe/senal-en-vivo/',
         'pais': 'pe'
     },
+    'BNBdigital-tv': {
+        'nombre': 'BNB Digital TV',
+        'm3u8_url': 'https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8',
+        'fuente': 'https://www.bnbdigitaltv.com/',
+        'pais': 'pe'
+    },
     'panamericana-tv': {
         'nombre': 'Panamericana TV',
         'iframe_url': 'https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0',
