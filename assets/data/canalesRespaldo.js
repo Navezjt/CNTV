@@ -1656,6 +1656,12 @@ const listaCanalesViejo = {
         'fuente': 'http://zaracaytv.com/',
         'pais': 'ec'
     },
+    'abc': {
+        'nombre': 'ABC',
+        'iframe_url': 'https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html',
+        'fuente': 'https://www.abc.com.py/tv/',
+        'pais': 'ec'
+    },
      'canalunoecuador': {
         'nombre': 'Canalunoecuador',
         'iframe_url': 'https://www.eltelegrafo.com.ec/medios/stream.php',
