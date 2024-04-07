@@ -54,13 +54,13 @@ const listaCanalesViejo = {
     },     
     '24-horas-2': {
         'nombre': '24 Horas 2',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8',
-        'fuente': 'https://www.24horas.cl/envivo/',
+        'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=false&player=585a9076c4b653ae71315e55&custom.ui=%2F317342475%2F24horas&custom.24h_demo=&custom.24h_tipo=EnVivo&custom.24h_seccion=senal-en-vivo&custom.24h_articulo=57d1a22064f5d85712b20dab&custom.24h_tags=',
+        'fuente': 'https://www.24horas.cl/envivo?service=mobile',
         'pais': 'cl'
     },
     '24-horas-3': {
         'nombre': '24 Horas 3',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8',
+        'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=false&player=585a9076c4b653ae71315e55&custom.ui=%2F317342475%2F24horas&custom.24h_demo=&custom.24h_tipo=EnVivo&custom.24h_seccion=senal-en-vivo&custom.24h_articulo=57d1a22064f5d85712b20dab&custom.24h_tags=',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
