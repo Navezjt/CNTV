@@ -1491,6 +1491,12 @@ const listaCanalesViejo = {
         'fuente': 'https://www.youtube.com/@ADN40MX',
         'pais': 'mx'
     },        
+    'Canal2-ADN-40': {
+        'nombre': 'Canal2 ADN 40',
+        'iframe_url': 'https://mdstrm.com/live-stream/60b578b060947317de7b57ac?jsapi=true&show_controls_on_ad=true&autoplay=true&player=607868647ef7d607f13d0adb&show_title=false&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F29782907%2FADN-40%2FEnvivoConstantPage%26description_url%3D%5Bplaceholder%5D%26url%3D%26env%3Dvp%26impl%3Ds%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D1%26correlator%3D%22',
+        'fuente': 'https://live.adn40.mx/',
+        'pais': 'mx'
+    },        
     'Telemar-Campeche': {
         'nombre': 'Telemar Campeche',
         'iframe_url': 'https://www.dailymotion.com/embed/video/x80bl3l?autoplay=1',
