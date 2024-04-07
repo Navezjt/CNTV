@@ -236,12 +236,6 @@ const listaCanalesViejo = {
         'fuente': 'https://www.chilevision.cl/senal-online',
         'pais': 'cl'
     },
-    'chv-3': {
-        'nombre': 'CHV 3',
-        'm3u8_url': 'https://marine2.miplay.cl/chilevision/index.m3u8',
-        'fuente': 'https://www.chilevision.cl/senal-online',
-        'pais': 'cl'
-    },
     'chv-4': {
         'nombre': 'CHV 4',
         'iframe_url': 'https://www.viendotele.cl/assets-tele/chv.html',
@@ -250,7 +244,7 @@ const listaCanalesViejo = {
     },
     'la-red': {
         'nombre': 'La Red',
-        'm3u8_url': 'https://d16pc5095tzygd.cloudfront.net/LaRed/d048098ce842377c101928b648065843.sdp/playlist.m3u8',
+        'm3u8_url': 'https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8',
         //https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
         'fuente': 'https://www.lared.cl/senal-online',
         'pais': 'cl'
@@ -269,7 +263,7 @@ const listaCanalesViejo = {
     },
     'bbtv-2': {
         'nombre': '📻 Biobio TV 2',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8',
+        'iframe_url': 'https://rudo.video/live/bbtv?autostart=1&volume=0&streamingLabel=home&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMDk4Mzg1L2Jpb2Jpb3R2L2FkX3ZpZGVvJnRmY2Q9MCZucGE9MCZzej02NDB4NDgwJmN1c3RfcGFyYW1zPXRpcG8lM0Rob21lLWJidHYlMjZjYXRlZ29yeS1wcmltYXJ5JTNEcG9ydGFkYS1iYnR2JmdkZnBfcmVxPTEmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnZwbXV0ZT0wJnZwYT1jbGljayZ2cG9zPXByZXJvbGwiLCJwb3N0IjowLCJtaWQiOnsidGFnIjowfSwib3ZlciI6eyJ0YWciOjB9fQ==',
         'fuente': 'https://www.biobiochile.cl/biobiotv/',
         'pais': 'cl'
     },
@@ -284,17 +278,18 @@ const listaCanalesViejo = {
         'yt_id': 'UCczkrFICr0xEgDsk51zZojA',
         'pais': 'cl'
     },
-    'adn-3': {
-        'nombre': '📻 ADN 3',
-        'm3u8_url': 'https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8',
+     'adn-3': {
+        'nombre': 'Radio ADN',
+        'iframe_url': 'https://rudo.video/live/adntv?volume=0&mute=1',
         'fuente': 'http://tv.adnradio.cl/',
-        'pais': 'cl'
+        'pais': 'cl',
+        'alt_icon': '<i class="bi bi-boombox"></i>'
     },
     'adn-4': {
-        'nombre': '📻 ADN 4',
-        'm3u8_url': 'https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8',
-        'fuente': 'http://tv.adnradio.cl/',
-        'pais': 'cl'
+        'nombre': 'Radio ADN 2',
+        'yt_id': 'UCczkrFICr0xEgDsk51zZojA',
+        'pais': 'cl',
+        'alt_icon': '<i class="bi bi-boombox"></i>'
     },
     'adn-5': {
         'nombre': '📻 ADN 5',
