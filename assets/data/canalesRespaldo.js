@@ -2098,6 +2098,176 @@ const listaCanalesViejo = {
         'fuente': 'https://www.antvklik.com/',
         'pais': 'id'
     },
+// MALAYSIA
+    'tv1': {
+        'nombre': 'Tv1',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/1',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/tv1',
+        'pais': 'my'
+    },
+    'tv2': {
+        'nombre': 'Tv2',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/2',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/tv2',
+        'pais': 'my'
+    },
+    'tv2-live': {
+        'nombre': 'Tv2 live',
+        'iframe_url': 'https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv2/',
+        'fuente': 'https://www.livetvmalaysia.online/2023/12/tv2-live.html',
+        'pais': 'my'
+    },
+    'tv3': {
+        'nombre': 'Tv3',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/06/tvv3.html',
+        'fuente': 'https://www.livetvmalaysia.online/2019/04/tv3.html',
+        'pais': 'my'
+    },
+    'Okey': {
+        'nombre': 'Okey',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/3',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/okey',
+        'pais': 'my'
+    },
+    'okey1': {
+        'nombre': 'Okey1',
+        'iframe_url': 'https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv-okey/',
+        'fuente': 'https://www.livetvmalaysia.online/2018/05/okey.html',
+        'pais': 'my'
+    },
+    'beritartm': {
+        'nombre': 'Beritartm',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/5',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/beritartm',
+        'pais': 'my'
+    },
+    'tv6': {
+        'nombre': 'Tv6',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/6',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/tv6',
+        'pais': 'my'
+    },
+    'Parliament-Live': {
+        'nombre': 'Parliament Live',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/7',
+        'fuente': 'https://www.pmo.gov.my/parliament-live-dewan-rakyat/',
+        'pais': 'my'
+    },
+    'boraktengahlapar': {
+        'nombre': 'boraktengahlapar',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/13669',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/boraktengahlapar',
+        'pais': 'my'
+    },
+    'Madani-Urdu-Live': {
+        'nombre': 'Madani Urdu Live',
+        'iframe_url': 'https://www.youtube.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow',
+        'fuente': 'https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm',
+        'pais': 'my'
+    },
+    'Bernama-TV-🇲🇾': {
+        'nombre': 'Bernama TV 🇲🇾',
+        'iframe_url': 'https://www.youtube.com/embed/-yN2chxbai4?enablejsapi=1&rel=0&showinfo=0&controls=1&html5=1&autoplay=1&mute=1&playsinline=1',
+        'fuente': 'https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw',
+        'pais': 'my'
+    },
+    'Astro-AWANI': {
+        'nombre': 'Astro AWANI',
+        'iframe_url': 'https://geo.dailymotion.com/player/x7r7w.html?video=x8dbnq6&customConfig[keyvalues]=client_id%3Dnull&actionInfo=false&dmPubtool=new-cdn-ce-v2',
+        'fuente': 'https://www.astroawani.com/video-terkini',
+        'pais': 'my'
+    },
+    'tv9': {
+        'nombre': 'Tv9',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/06/tvv9.html',
+        'fuente': 'https://www.livetvmalaysia.online/2019/04/tv9.html',
+        'pais': 'my'
+    },
+    'sukan': {
+        'nombre': 'sukan',
+        'iframe_url': 'https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/sukan-rtm/',
+        'fuente': 'https://www.livetvmalaysia.online/2022/06/sukan.html',
+        'pais': 'my'
+    },
+    'berita1': {
+        'nombre': 'berita1',
+        'iframe_url': 'https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/berita-rtm/',
+        'fuente': 'https://www.livetvmalaysia.online/2022/09/berita.html',
+        'pais': 'my'
+    },
+    'ikim': {
+        'nombre': 'Ikim',
+        'iframe_url': 'https://tvizer.blogspot.com/2023/08/tv-ikim.html',
+        'fuente': 'https://www.livetvmalaysia.online/2017/12/tv-ikim.html',
+        'pais': 'my'
+    },
+    'bernama-tv1': {
+        'nombre': 'Bernama Tv1',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/07/bernama.html',
+        'fuente': 'https://www.livetvmalaysia.online/2017/12/bernama-tv.html',
+        'pais': 'my'
+    },
+    'selangor': {
+        'nombre': 'Selangor',
+        'iframe_url': 'https://paddlesportsportal.com/tvs.php',
+        'fuente': 'https://www.livetvmalaysia.online/2017/12/tv-selangor.html',
+        'pais': 'my'
+    },
+    'awani-tv1': {
+        'nombre': 'Awani Tv1',
+        'iframe_url': 'https://tvizer.blogspot.com/2023/08/astro-awani.html',
+        'fuente': 'https://www.livetvmalaysia.online/2018/12/awani.html',
+        'pais': 'my'
+    },
+    'didik-ntv7': {
+        'nombre': 'Didik ntv7',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/07/didik.html',
+        'fuente': 'https://www.livetvmalaysia.online/2019/04/ntv7.html',
+        'pais': 'my'
+    },
+    'alhijrah': {
+        'nombre': 'Alhijrah',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/07/alhijrah.html',
+        'fuente': 'https://www.livetvmalaysia.online/2017/12/tv-alhijrah.html',
+        'pais': 'my'
+    },
+    'motogp': {
+        'nombre': 'Motogp',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2024/03/gp1.html',
+        'fuente': 'https://www.livetvmalaysia.online/2018/12/motogp.html',
+        'pais': 'my'
+    },
+    'bola': {
+        'nombre': 'Bola',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2024/03/foot.html',
+        'fuente': 'https://www.livetvmalaysia.online/2018/03/bola.html',
+        'pais': 'my'
+    },
+// PHILIPPINES
+    'dzrh': {
+        'nombre': 'Dzrh',
+        'iframe_url': 'https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3',
+        'fuente': 'https://www.dzrh.com.ph/',
+        'pais': 'ph'
+    },
+    'ABS-CBNEntertainment': {
+        'nombre': 'ABS CBNEntertainment',
+        'iframe_url': 'https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV',
+        'fuente': 'https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment',
+        'pais': 'ph'
+    },
+    'Kapamilya': {
+        'nombre': 'Kapamilya',
+        'iframe_url': 'https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER',
+        'fuente': 'https://www.youtube.com/@abscbnentertainment',
+        'pais': 'ph'
+    },
+    'untv': {
+        'nombre': 'Untv',
+        'iframe_url': 'https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO',
+        'fuente': 'https://www.youtube.com/@UNTVNewsandRescue',
+        'pais': 'ph'
+    },
 // CANADÁ
     'global-news': {
         'nombre': 'Global News',
