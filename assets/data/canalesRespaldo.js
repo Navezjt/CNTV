@@ -2771,11 +2771,6 @@ const listaCanalesViejo = {
         'fuente': 'https://www.thvli.vn/live/thvl1-hd',
         'pais': 'cn'
     },
-    'hispantv-Español': {
-        'nombre': 'Hispantv Español',
-        'm3u8_url': 'https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8',
-        'pais': 'cn'
-    },
     'cgtn-Español-8': {
         'nombre': 'CGTN Español',
         'yt_id': 'UCd94YCD7yp6d-YZSRYWyeFA',
@@ -2820,6 +2815,163 @@ const listaCanalesViejo = {
         'nombre': 'MBCNEWS',
         'yt_id': 'UCF4Wxdo3inmxP-Y59wXDsFw',
         'pais': 'kr'
+    },
+//IRAN
+    'hispantv-Español': {
+        'nombre': 'Hispantv Español',
+        'm3u8_url': 'https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8',
+        'fuente': 'https://www.hispantv.com/',
+        'pais': 'ir'
+    },
+    'hispan-tv-Español': {
+        'nombre': 'Hispan tv Español',
+        'fuente': 'https://odysee.com/$/embed/@hispantv:d/live:400?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX',
+        'fuente': 'https://www.hispantv.com/',
+        'pais': 'ir'
+    },
+    'press-1': {
+        'nombre': 'press 1',
+        'm3u8_url': 'https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8',
+        'fuente': 'https://www.presstv.ir/',
+        'pais': 'ir'
+    },
+    'presstv-2': {
+        'nombre': 'presstv 2',
+        'fuente': 'https://odysee.com/$/embed/@PressTV:2/Live:206?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX',
+        'fuente': 'https://www.presstv.ir/',
+        'pais': 'ir'
+    },
+    'presstv-3': {
+        'nombre': 'presstv 3',
+        'fuente': 'https://rumble.com/embed/v4ldkxb/?pub=14mhhj',
+        'fuente': 'https://www.presstv.ir/',
+        'pais': 'ir'
+    },
+    'iranintl': {
+        'nombre': 'iranintl',
+        'fuente': 'https://ott.iranintl.com/tv?lang=en#amp=1',
+        'fuente': 'https://www.iranintl.com/en',
+        'pais': 'ir'
+    },
+    'Shabakeh': {
+        'nombre': 'Shabakeh',
+        'fuente': 'http://www.parsatv.com/embed.php?name=Shabakeh-3&auto=false',
+        'fuente': 'https://www.iranintl.com/en',
+        'pais': 'ir'
+    },
+    'Shabakeh 1': {
+        'nombre': 'Shabakeh 1',
+        'm3u8_url': 'https://sportsleading.online/live/stream_1.m3u8',
+        'fuente': 'https://www.parsatv.com/name=Shabakeh-3',
+        'pais': 'ir'
+    },
+    'iFilm': {
+        'nombre': 'iFilm',
+        'fuente': 'https://www.parsatv.com/embed.php?name=iFilm-Persian&auto=false',
+        'fuente': 'http://www.imvbox.tv/es/ifilm/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-sahand': {
+        'nombre': 'irib sahand',
+        'fuente': 'https://telewebion.com/embed/live/sahand',
+        'fuente': 'http://www.imvbox.tv/es/iribsahand/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-baran': {
+        'nombre': 'irib baran',
+        'fuente': 'https://www.parsatv.com/embed.php?name=baran&auto=false',
+        'fuente': 'http://www.imvbox.tv/es/iribbaran/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-khorasan-ravazi': {
+        'nombre': 'irib khorasan ravazi',
+        'fuente': 'https://telewebion.com/embed/live/khorasanrazavi',
+        'fuente': 'http://www.imvbox.tv/es/iribkhorasanravazi/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-kordestan': {
+        'nombre': 'irib kordestan',
+        'fuente': 'https://ott.iranintl.com/tv?lang=en#amp=1',
+        'fuente': 'http://www.imvbox.tv/es/iribkordestan/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribazarbayjan': {
+        'nombre': 'iribazarbayjan',
+        'fuente': 'https://telewebion.com/embed/live/azarbayjangharbi',
+        'fuente': 'http://www.imvbox.tv/es/iribazarbayjan/live-channel/play',
+        'pais': 'ir'
+    },
+    'khorasan-jonoobi': {
+        'nombre': 'khorasan jonoobi',
+        'fuente': 'https://telewebion.com/embed/live/khavaran',
+        'fuente': 'http://www.imvbox.tv/es/khorasan-jonoobi/live-channel/play',
+        'pais': 'ir'
+    },
+    'khorasan-shomali': {
+        'nombre': 'khorasan shomali',
+        'm3u8_url': 'https://ncdn.telewebion.com/atrak/live/playlist.m3u8',
+        'fuente': 'http://www.imvbox.tv/es/khorasan-shomali/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribtv2': {
+        'nombre': 'iribtv2',
+        'fuente': 'https://telewebion.com/embed/live/tv2',
+        'fuente': 'http://www.imvbox.tv/es/iribtv2/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-tv2': {
+        'nombre': 'irivb tv2',
+        'fuente': 'https://sepehrtv.ir/frame/t/tv2',
+        'fuente': 'https://tv2.ir/live',
+        'pais': 'ir'
+    },
+    'iribtv1': {
+        'nombre': 'iribtv1',
+        'fuente': 'https://telewebion.com/embed/live/tv1',
+        'fuente': 'http://www.imvbox.tv/es/iribtv1/live-channel/play',
+        'pais': 'ir'
+    },
+    'irinn': {
+        'nombre': 'irinn',
+        'm3u8_url': 'https://ncdn.telewebion.com/irinn/live/playlist.m3u8',
+        'fuente': 'http://www.imvbox.tv/es/irinn/live-channel/play',
+        'pais': 'ir'
+    },
+    'varzeshtv': {
+        'nombre': 'varzeshtv',
+        'fuente': 'https://sepehrtv.ir/frame/t/varzesh',
+        'fuente': 'https://varzeshtv.ir/live#!',
+        'pais': 'ir'
+    },
+    'iribnasim': {
+        'nombre': 'iribnasim',
+        'fuente': 'https://telewebion.com/embed/live/nasim',
+        'fuente': 'http://www.imvbox.tv/es/iribnasim/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribtv5': {
+        'nombre': 'iribtv5',
+        'fuente': 'https://telewebion.com/embed/live/tehran',
+        'fuente': 'http://www.imvbox.tv/es/iribtv5/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribtamasha': {
+        'nombre': 'iribtamasha',
+        'fuente': 'https://telewebion.com/embed/live/hdtest',
+        'fuente': 'http://www.imvbox.tv/es/iribtamasha/live-channel/play',
+        'pais': 'ir'
+    },
+    'iranintl': {
+        'nombre': 'iranintl',
+        'fuente': 'http://www.parsatv.com/embed.php?name=Namayesh&auto=false',
+        'fuente': 'http://www.imvbox.tv/es/iribnamayesh/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribtv4': {
+        'nombre': 'iribtv4',
+        'fuente': 'https://telewebion.com/embed/live/tv4',
+        'fuente': 'http://www.imvbox.tv/es/iribtv4/live-channel/play',
+        'pais': 'ir'
     },
 // TURQUIA
     'trt-world': {
