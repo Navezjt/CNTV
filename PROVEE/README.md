@@ -1,4 +1,4 @@
 - https://github.com/Alplox/teles
 - https://emojiterra.com/es/television/
 - https://github.com/Navezjt/json-CNTV
-- nueva version 17
+- nueva version 17 
