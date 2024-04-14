@@ -2773,7 +2773,7 @@ const listaCanalesViejo = {
     },
     'hispantv-Español': {
         'nombre': 'Hispantv Español',
-        'm3u8_url': 'https://live3.presstv.ir/hispantv/index.m3u8',
+        'm3u8_url': 'https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8',
         'pais': 'cn'
     },
     'cgtn-Español-8': {
