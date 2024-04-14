@@ -6,13 +6,13 @@
     },     
     '24-horas-2': {
         'nombre': '24 Horas 2',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8',
-        'fuente': 'https://www.24horas.cl/envivo/',
+        'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=false&player=585a9076c4b653ae71315e55&custom.ui=%2F317342475%2F24horas&custom.24h_demo=&custom.24h_tipo=EnVivo&custom.24h_seccion=senal-en-vivo&custom.24h_articulo=57d1a22064f5d85712b20dab&custom.24h_tags=',
+        'fuente': 'https://www.24horas.cl/envivo?service=mobile',
         'pais': 'cl'
     },
     '24-horas-3': {
         'nombre': '24 Horas 3',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8',
+        'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=false&player=585a9076c4b653ae71315e55&custom.ui=%2F317342475%2F24horas&custom.24h_demo=&custom.24h_tipo=EnVivo&custom.24h_seccion=senal-en-vivo&custom.24h_articulo=57d1a22064f5d85712b20dab&custom.24h_tags=',
         'fuente': 'https://www.24horas.cl/envivo/',
         'pais': 'cl'
     },
@@ -188,12 +188,6 @@
         'fuente': 'https://www.chilevision.cl/senal-online',
         'pais': 'cl'
     },
-    'chv-3': {
-        'nombre': 'CHV 3',
-        'm3u8_url': 'https://marine2.miplay.cl/chilevision/index.m3u8',
-        'fuente': 'https://www.chilevision.cl/senal-online',
-        'pais': 'cl'
-    },
     'chv-4': {
         'nombre': 'CHV 4',
         'iframe_url': 'https://www.viendotele.cl/assets-tele/chv.html',
@@ -202,7 +196,7 @@
     },
     'la-red': {
         'nombre': 'La Red',
-        'm3u8_url': 'https://d16pc5095tzygd.cloudfront.net/LaRed/d048098ce842377c101928b648065843.sdp/playlist.m3u8',
+        'm3u8_url': 'https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8',
         //https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
         'fuente': 'https://www.lared.cl/senal-online',
         'pais': 'cl'
@@ -221,7 +215,7 @@
     },
     'bbtv-2': {
         'nombre': '📻 Biobio TV 2',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8',
+        'iframe_url': 'https://rudo.video/live/bbtv?autostart=1&volume=0&streamingLabel=home&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMDk4Mzg1L2Jpb2Jpb3R2L2FkX3ZpZGVvJnRmY2Q9MCZucGE9MCZzej02NDB4NDgwJmN1c3RfcGFyYW1zPXRpcG8lM0Rob21lLWJidHYlMjZjYXRlZ29yeS1wcmltYXJ5JTNEcG9ydGFkYS1iYnR2JmdkZnBfcmVxPTEmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnZwbXV0ZT0wJnZwYT1jbGljayZ2cG9zPXByZXJvbGwiLCJwb3N0IjowLCJtaWQiOnsidGFnIjowfSwib3ZlciI6eyJ0YWciOjB9fQ==',
         'fuente': 'https://www.biobiochile.cl/biobiotv/',
         'pais': 'cl'
     },
@@ -236,17 +230,18 @@
         'yt_id': 'UCczkrFICr0xEgDsk51zZojA',
         'pais': 'cl'
     },
-    'adn-3': {
-        'nombre': '📻 ADN 3',
-        'm3u8_url': 'https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8',
+     'adn-3': {
+        'nombre': 'Radio ADN',
+        'iframe_url': 'https://rudo.video/live/adntv?volume=0&mute=1',
         'fuente': 'http://tv.adnradio.cl/',
-        'pais': 'cl'
+        'pais': 'cl',
+        'alt_icon': '<i class="bi bi-boombox"></i>'
     },
     'adn-4': {
-        'nombre': '📻 ADN 4',
-        'm3u8_url': 'https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8',
-        'fuente': 'http://tv.adnradio.cl/',
-        'pais': 'cl'
+        'nombre': 'Radio ADN 2',
+        'yt_id': 'UCczkrFICr0xEgDsk51zZojA',
+        'pais': 'cl',
+        'alt_icon': '<i class="bi bi-boombox"></i>'
     },
     'adn-5': {
         'nombre': '📻 ADN 5',
@@ -994,10 +989,22 @@
         'fuente': 'https://ntvperu.pe/senal-en-vivo/',
         'pais': 'pe'
     },
+    'BNBdigital-tv': {
+        'nombre': 'BNB Digital TV',
+        'm3u8_url': 'https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8',
+        'fuente': 'https://www.bnbdigitaltv.com/',
+        'pais': 'pe'
+    },
     'panamericana-tv': {
         'nombre': 'Panamericana TV',
         'iframe_url': 'https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0',
         'fuente': 'https://panamericana.pe/tvenvivo',
+        'pais': 'pe'
+    },
+    'Chincha-Tv': {
+        'nombre': 'Chincha Tv',
+        'iframe_url': 'https://ok.ru/videoembed/5439500131845?nochat=1&autoplay=1',
+        'fuente': 'https://www.chincha.tv/p/live.html',
         'pais': 'pe'
     },
     'onda-digital-tv': {
@@ -1431,6 +1438,12 @@
         'fuente': 'https://www.youtube.com/@ADN40MX',
         'pais': 'mx'
     },        
+    'Canal2-ADN-40': {
+        'nombre': 'Canal2 ADN 40',
+        'iframe_url': 'https://mdstrm.com/live-stream/60b578b060947317de7b57ac?jsapi=true&show_controls_on_ad=true&autoplay=true&player=607868647ef7d607f13d0adb&show_title=false&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F29782907%2FADN-40%2FEnvivoConstantPage%26description_url%3D%5Bplaceholder%5D%26url%3D%26env%3Dvp%26impl%3Ds%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D1%26correlator%3D%22',
+        'fuente': 'https://live.adn40.mx/',
+        'pais': 'mx'
+    },        
     'Telemar-Campeche': {
         'nombre': 'Telemar Campeche',
         'iframe_url': 'https://www.dailymotion.com/embed/video/x80bl3l?autoplay=1',
@@ -1606,6 +1619,12 @@
         'nombre': 'Zaracaytv',
         'iframe_url': 'https://makrodigital.com/makrostreaming/zaracaytv/',
         'fuente': 'http://zaracaytv.com/',
+        'pais': 'ec'
+    },
+    'abc': {
+        'nombre': 'ABC',
+        'iframe_url': 'https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html',
+        'fuente': 'https://www.abc.com.py/tv/',
         'pais': 'ec'
     },
      'canalunoecuador': {
@@ -2030,6 +2049,176 @@
         'iframe_url': 'https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io',
         'fuente': 'https://www.antvklik.com/',
         'pais': 'id'
+    },
+// MALAYSIA
+    'tv1': {
+        'nombre': 'Tv1',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/1',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/tv1',
+        'pais': 'my'
+    },
+    'tv2': {
+        'nombre': 'Tv2',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/2',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/tv2',
+        'pais': 'my'
+    },
+    'tv2-live': {
+        'nombre': 'Tv2 live',
+        'iframe_url': 'https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv2/',
+        'fuente': 'https://www.livetvmalaysia.online/2023/12/tv2-live.html',
+        'pais': 'my'
+    },
+    'tv3': {
+        'nombre': 'Tv3',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/06/tvv3.html',
+        'fuente': 'https://www.livetvmalaysia.online/2019/04/tv3.html',
+        'pais': 'my'
+    },
+    'Okey': {
+        'nombre': 'Okey',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/3',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/okey',
+        'pais': 'my'
+    },
+    'okey1': {
+        'nombre': 'Okey1',
+        'iframe_url': 'https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv-okey/',
+        'fuente': 'https://www.livetvmalaysia.online/2018/05/okey.html',
+        'pais': 'my'
+    },
+    'beritartm': {
+        'nombre': 'Beritartm',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/5',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/beritartm',
+        'pais': 'my'
+    },
+    'tv6': {
+        'nombre': 'Tv6',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/6',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/tv6',
+        'pais': 'my'
+    },
+    'Parliament-Live': {
+        'nombre': 'Parliament Live',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/7',
+        'fuente': 'https://www.pmo.gov.my/parliament-live-dewan-rakyat/',
+        'pais': 'my'
+    },
+    'boraktengahlapar': {
+        'nombre': 'boraktengahlapar',
+        'iframe_url': 'https://rtm-player.glueapi.io/latest/h/13669',
+        'fuente': 'https://rtmklik.rtm.gov.my/live/boraktengahlapar',
+        'pais': 'my'
+    },
+    'Madani-Urdu-Live': {
+        'nombre': 'Madani Urdu Live',
+        'iframe_url': 'https://www.youtube.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow',
+        'fuente': 'https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm',
+        'pais': 'my'
+    },
+    'Bernama-TV-🇲🇾': {
+        'nombre': 'Bernama TV 🇲🇾',
+        'iframe_url': 'https://www.youtube.com/embed/-yN2chxbai4?enablejsapi=1&rel=0&showinfo=0&controls=1&html5=1&autoplay=1&mute=1&playsinline=1',
+        'fuente': 'https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw',
+        'pais': 'my'
+    },
+    'Astro-AWANI': {
+        'nombre': 'Astro AWANI',
+        'iframe_url': 'https://geo.dailymotion.com/player/x7r7w.html?video=x8dbnq6&customConfig[keyvalues]=client_id%3Dnull&actionInfo=false&dmPubtool=new-cdn-ce-v2',
+        'fuente': 'https://www.astroawani.com/video-terkini',
+        'pais': 'my'
+    },
+    'tv9': {
+        'nombre': 'Tv9',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/06/tvv9.html',
+        'fuente': 'https://www.livetvmalaysia.online/2019/04/tv9.html',
+        'pais': 'my'
+    },
+    'sukan': {
+        'nombre': 'sukan',
+        'iframe_url': 'https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/sukan-rtm/',
+        'fuente': 'https://www.livetvmalaysia.online/2022/06/sukan.html',
+        'pais': 'my'
+    },
+    'berita1': {
+        'nombre': 'berita1',
+        'iframe_url': 'https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/berita-rtm/',
+        'fuente': 'https://www.livetvmalaysia.online/2022/09/berita.html',
+        'pais': 'my'
+    },
+    'ikim': {
+        'nombre': 'Ikim',
+        'iframe_url': 'https://tvizer.blogspot.com/2023/08/tv-ikim.html',
+        'fuente': 'https://www.livetvmalaysia.online/2017/12/tv-ikim.html',
+        'pais': 'my'
+    },
+    'bernama-tv1': {
+        'nombre': 'Bernama Tv1',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/07/bernama.html',
+        'fuente': 'https://www.livetvmalaysia.online/2017/12/bernama-tv.html',
+        'pais': 'my'
+    },
+    'selangor': {
+        'nombre': 'Selangor',
+        'iframe_url': 'https://paddlesportsportal.com/tvs.php',
+        'fuente': 'https://www.livetvmalaysia.online/2017/12/tv-selangor.html',
+        'pais': 'my'
+    },
+    'awani-tv1': {
+        'nombre': 'Awani Tv1',
+        'iframe_url': 'https://tvizer.blogspot.com/2023/08/astro-awani.html',
+        'fuente': 'https://www.livetvmalaysia.online/2018/12/awani.html',
+        'pais': 'my'
+    },
+    'didik-ntv7': {
+        'nombre': 'Didik ntv7',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/07/didik.html',
+        'fuente': 'https://www.livetvmalaysia.online/2019/04/ntv7.html',
+        'pais': 'my'
+    },
+    'alhijrah': {
+        'nombre': 'Alhijrah',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2023/07/alhijrah.html',
+        'fuente': 'https://www.livetvmalaysia.online/2017/12/tv-alhijrah.html',
+        'pais': 'my'
+    },
+    'motogp': {
+        'nombre': 'Motogp',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2024/03/gp1.html',
+        'fuente': 'https://www.livetvmalaysia.online/2018/12/motogp.html',
+        'pais': 'my'
+    },
+    'bola': {
+        'nombre': 'Bola',
+        'iframe_url': 'https://desireevanessen.blogspot.com/2024/03/foot.html',
+        'fuente': 'https://www.livetvmalaysia.online/2018/03/bola.html',
+        'pais': 'my'
+    },
+// PHILIPPINES
+    'dzrh': {
+        'nombre': 'Dzrh',
+        'iframe_url': 'https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3',
+        'fuente': 'https://www.dzrh.com.ph/',
+        'pais': 'ph'
+    },
+    'ABS-CBNEntertainment': {
+        'nombre': 'ABS CBNEntertainment',
+        'iframe_url': 'https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV',
+        'fuente': 'https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment',
+        'pais': 'ph'
+    },
+    'Kapamilya': {
+        'nombre': 'Kapamilya',
+        'iframe_url': 'https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER',
+        'fuente': 'https://www.youtube.com/@abscbnentertainment',
+        'pais': 'ph'
+    },
+    'untv': {
+        'nombre': 'Untv',
+        'iframe_url': 'https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO',
+        'fuente': 'https://www.youtube.com/@UNTVNewsandRescue',
+        'pais': 'ph'
     },
 // CANADÁ
     'global-news': {
@@ -2534,11 +2723,6 @@
         'fuente': 'https://www.thvli.vn/live/thvl1-hd',
         'pais': 'cn'
     },
-    'hispantv-Español': {
-        'nombre': 'Hispantv Español',
-        'm3u8_url': 'https://live3.presstv.ir/hispantv/index.m3u8',
-        'pais': 'cn'
-    },
     'cgtn-Español-8': {
         'nombre': 'CGTN Español',
         'yt_id': 'UCd94YCD7yp6d-YZSRYWyeFA',
@@ -2584,6 +2768,163 @@
         'yt_id': 'UCF4Wxdo3inmxP-Y59wXDsFw',
         'pais': 'kr'
     },
+//IRAN
+    'hispantv-Español': {
+        'nombre': 'Hispantv Español',
+        'm3u8_url': 'https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8',
+        'fuente': 'https://www.hispantv.com/',
+        'pais': 'ir'
+    },
+    'hispan-tv-Español': {
+        'nombre': 'Hispan tv Español',
+        'fuente': 'https://odysee.com/$/embed/@hispantv:d/live:400?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX',
+        'fuente': 'https://www.hispantv.com/',
+        'pais': 'ir'
+    },
+    'press-1': {
+        'nombre': 'press 1',
+        'm3u8_url': 'https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8',
+        'fuente': 'https://www.presstv.ir/',
+        'pais': 'ir'
+    },
+    'presstv-2': {
+        'nombre': 'presstv 2',
+        'fuente': 'https://odysee.com/$/embed/@PressTV:2/Live:206?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX',
+        'fuente': 'https://www.presstv.ir/',
+        'pais': 'ir'
+    },
+    'presstv-3': {
+        'nombre': 'presstv 3',
+        'fuente': 'https://rumble.com/embed/v4ldkxb/?pub=14mhhj',
+        'fuente': 'https://www.presstv.ir/',
+        'pais': 'ir'
+    },
+    'iranintl': {
+        'nombre': 'iranintl',
+        'fuente': 'https://ott.iranintl.com/tv?lang=en#amp=1',
+        'fuente': 'https://www.iranintl.com/en',
+        'pais': 'ir'
+    },
+    'Shabakeh': {
+        'nombre': 'Shabakeh',
+        'fuente': 'http://www.parsatv.com/embed.php?name=Shabakeh-3&auto=false',
+        'fuente': 'https://www.iranintl.com/en',
+        'pais': 'ir'
+    },
+    'Shabakeh 1': {
+        'nombre': 'Shabakeh 1',
+        'm3u8_url': 'https://sportsleading.online/live/stream_1.m3u8',
+        'fuente': 'https://www.parsatv.com/name=Shabakeh-3',
+        'pais': 'ir'
+    },
+    'iFilm': {
+        'nombre': 'iFilm',
+        'fuente': 'https://www.parsatv.com/embed.php?name=iFilm-Persian&auto=false',
+        'fuente': 'http://www.imvbox.tv/es/ifilm/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-sahand': {
+        'nombre': 'irib sahand',
+        'fuente': 'https://telewebion.com/embed/live/sahand',
+        'fuente': 'http://www.imvbox.tv/es/iribsahand/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-baran': {
+        'nombre': 'irib baran',
+        'fuente': 'https://www.parsatv.com/embed.php?name=baran&auto=false',
+        'fuente': 'http://www.imvbox.tv/es/iribbaran/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-khorasan-ravazi': {
+        'nombre': 'irib khorasan ravazi',
+        'fuente': 'https://telewebion.com/embed/live/khorasanrazavi',
+        'fuente': 'http://www.imvbox.tv/es/iribkhorasanravazi/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-kordestan': {
+        'nombre': 'irib kordestan',
+        'fuente': 'https://ott.iranintl.com/tv?lang=en#amp=1',
+        'fuente': 'http://www.imvbox.tv/es/iribkordestan/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribazarbayjan': {
+        'nombre': 'iribazarbayjan',
+        'fuente': 'https://telewebion.com/embed/live/azarbayjangharbi',
+        'fuente': 'http://www.imvbox.tv/es/iribazarbayjan/live-channel/play',
+        'pais': 'ir'
+    },
+    'khorasan-jonoobi': {
+        'nombre': 'khorasan jonoobi',
+        'fuente': 'https://telewebion.com/embed/live/khavaran',
+        'fuente': 'http://www.imvbox.tv/es/khorasan-jonoobi/live-channel/play',
+        'pais': 'ir'
+    },
+    'khorasan-shomali': {
+        'nombre': 'khorasan shomali',
+        'm3u8_url': 'https://ncdn.telewebion.com/atrak/live/playlist.m3u8',
+        'fuente': 'http://www.imvbox.tv/es/khorasan-shomali/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribtv2': {
+        'nombre': 'iribtv2',
+        'fuente': 'https://telewebion.com/embed/live/tv2',
+        'fuente': 'http://www.imvbox.tv/es/iribtv2/live-channel/play',
+        'pais': 'ir'
+    },
+    'irib-tv2': {
+        'nombre': 'irivb tv2',
+        'fuente': 'https://sepehrtv.ir/frame/t/tv2',
+        'fuente': 'https://tv2.ir/live',
+        'pais': 'ir'
+    },
+    'iribtv1': {
+        'nombre': 'iribtv1',
+        'fuente': 'https://telewebion.com/embed/live/tv1',
+        'fuente': 'http://www.imvbox.tv/es/iribtv1/live-channel/play',
+        'pais': 'ir'
+    },
+    'irinn': {
+        'nombre': 'irinn',
+        'm3u8_url': 'https://ncdn.telewebion.com/irinn/live/playlist.m3u8',
+        'fuente': 'http://www.imvbox.tv/es/irinn/live-channel/play',
+        'pais': 'ir'
+    },
+    'varzeshtv': {
+        'nombre': 'varzeshtv',
+        'fuente': 'https://sepehrtv.ir/frame/t/varzesh',
+        'fuente': 'https://varzeshtv.ir/live#!',
+        'pais': 'ir'
+    },
+    'iribnasim': {
+        'nombre': 'iribnasim',
+        'fuente': 'https://telewebion.com/embed/live/nasim',
+        'fuente': 'http://www.imvbox.tv/es/iribnasim/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribtv5': {
+        'nombre': 'iribtv5',
+        'fuente': 'https://telewebion.com/embed/live/tehran',
+        'fuente': 'http://www.imvbox.tv/es/iribtv5/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribtamasha': {
+        'nombre': 'iribtamasha',
+        'fuente': 'https://telewebion.com/embed/live/hdtest',
+        'fuente': 'http://www.imvbox.tv/es/iribtamasha/live-channel/play',
+        'pais': 'ir'
+    },
+    'iranintl': {
+        'nombre': 'iranintl',
+        'fuente': 'http://www.parsatv.com/embed.php?name=Namayesh&auto=false',
+        'fuente': 'http://www.imvbox.tv/es/iribnamayesh/live-channel/play',
+        'pais': 'ir'
+    },
+    'iribtv4': {
+        'nombre': 'iribtv4',
+        'fuente': 'https://telewebion.com/embed/live/tv4',
+        'fuente': 'http://www.imvbox.tv/es/iribtv4/live-channel/play',
+        'pais': 'ir'
+    },
 // TURQUIA
     'trt-world': {
         'nombre': 'TRT World',
@@ -2605,6 +2946,12 @@
     },
     'CNNTURK': {
         'nombre': 'CNNTURK',
+        'm3u8_url': 'https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8',
+        'fuente': 'https://www.cnnturk.com/canli-yayin',
+        'pais': 'tr'
+    },
+    'CNNTURK2': {
+        'nombre': 'CNNTURK2',
         'm3u8_url': 'https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8',
         'fuente': 'https://www.cnnturk.com/canli-yayin',
         'pais': 'tr'
