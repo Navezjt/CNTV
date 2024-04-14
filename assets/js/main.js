@@ -381,7 +381,7 @@ let listaCanales
 async function fetchCargarCanales() {
   try {
     console.log('Probando carga archivo principal con canales');
-    const response = await fetch('https://raw.githubusercontent.com/Alplox/json-teles/main/canales.json');
+    const response = await fetch('https://raw.githubusercontent.com/Navezjt/json-CNTV/main/canales.json');
     listaCanales = await response.json();
   } catch (error) {
     console.error('Error al cargar el archivo principal canales:', error);
