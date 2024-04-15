@@ -381,7 +381,7 @@ let listaCanales
 async function fetchCargarCanales() {
   try {
     console.log('Probando carga archivo principal con canales');
-    const response = await fetch('https://raw.githubusercontent.com/Navezjt/CNTV/main/assets/data/canalesRespaldo.json?');
+    const response = await fetch('https://raw.githubusercontent.com/Navezjt/CNTV/main/assets/data/canalesRespaldo.json');
     listaCanales = await response.json();
   } catch (error) {
     console.error('Error al cargar el archivo principal canales:', error);
