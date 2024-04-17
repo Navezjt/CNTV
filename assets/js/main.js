@@ -388,7 +388,7 @@ async function fetchCargarCanales() {
     try {
       // Intenta cargar desde otro enlace como respaldo
       console.log('Probando carga archivo respaldo con canales');
-      const responseFallback = await fetch('https://raw.githubusercontent.com/Navezjt/CNTV/92d8b002d10933c6d54631acffaf6d53034f04e8/assets/data/canales.json');
+      const responseFallback = await fetch('https://raw.githubusercontent.com/Alplox/teles/92d8b002d10933c6d54631acffaf6d53034f04e8/assets/data/canales.json');
       listaCanales = await responseFallback.json();
     } catch (errorFallback) {
       // Si también falla, muestra el error
