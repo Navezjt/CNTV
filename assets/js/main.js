@@ -1,7 +1,7 @@
 /* 
   main v0.17
   by Alplox 
-  https://github.com/Alplox/teles
+  https://github.com/Navezjt/CNTV
 */
 
 // MARK: import
