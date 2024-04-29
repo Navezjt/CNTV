@@ -1,9 +1,9 @@
 // ----- btn compartir sitio (usa navigator.share en telefonos) 
 // https://developer.mozilla.org/en-US/docs/Web/API/Navigator/canShare
 const datosCompartir = {
-  title: 'teles',
+  title: 'CNTV',
   text: 'PWA Código Abierto para ver/comparar preseleccionadas transmisiones de noticias provenientes de Chile (y el mundo).',
-  url: 'https://alplox.github.io/teles/',
+  url: 'https:/Navezjt.github.io/CNTV/',
 };
 
 const btnCompartir = document.querySelector('button.btn-compartir');
