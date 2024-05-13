@@ -25,8 +25,8 @@ const listaCanalesViejo = {
 //Votaciones
     /* 'tips': {
         'nombre': '🗳️ Tips Votaciones',
-        'iframe_url': 'https://alplox.github.io/teles/assets/js/archivo.html',
-        'fuente': 'https://alplox.github.io/teles/',
+        'iframe_url': 'https://navezjt.github.io/CNTV//assets/js/archivo.html',
+        'fuente': 'https://navezjt.github.io/CNTV/',
         'pais': 'cl'
     },
     'decidechile': {
