@@ -13,11 +13,11 @@ Enlace: https://alplox.github.io/teles/
 - [Descargo de responsabilidad](#descargo-de-responsabilidad)
 - [Licencia](#licencia)
 
-[![](https://raw.githubusercontent.com/Alplox/teles/master/assets/img/previews/shots_teles_v0-17_temas.png)](https://alplox.github.io/teles/)
-[![](https://raw.githubusercontent.com/Alplox/teles/master/assets/img/previews/shots_teles_v0-17_personalizar.png)](https://alplox.github.io/teles/)
-[![](https://raw.githubusercontent.com/Alplox/teles/master/assets/img/previews/shots_teles_v0-17_offcanvas_canales.png)](https://alplox.github.io/teles/)
-[![](https://raw.githubusercontent.com/Alplox/teles/master/assets/img/previews/shots_teles_v0-17_dark_canales.png)](https://alplox.github.io/teles/)
-[![](https://raw.githubusercontent.com/Alplox/teles/master/assets/img/previews/shots_teles_v0-17.png)](https://alplox.github.io/teles/)
+[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17_temas.png)](https://alplox.github.io/teles/)
+[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17_personalizar.png)](https://alplox.github.io/teles/)
+[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17_offcanvas_canales.png)](https://alplox.github.io/teles/)
+[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17_dark_canales.png)](https://alplox.github.io/teles/)
+[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17.png)](https://alplox.github.io/teles/)
 
 # Canales disponibles junto a su origen: 
 [↑ Volver arriba ↑](#tabla-de-contenido)
