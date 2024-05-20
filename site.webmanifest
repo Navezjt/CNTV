@@ -1,6 +1,6 @@
 {
-    "name": "teles - Transmisiones de noticias de Chile y el mundo",
-    "short_name": "teles",
+    "name": "CNTV - Transmisiones de noticias de Chile y el mundo",
+    "short_name": "CNTV",
     "description": "PWA Código Abierto para ver/comparar preseleccionadas transmisiones de noticias provenientes de Chile (y el mundo).",
     "lang": "es",
     "categories": [
@@ -16,8 +16,8 @@
     "display": "standalone",
     "orientation": "any",
 
-    "start_url": "/teles/",
-    "id": "/teles/",
+    "start_url": "/CNTV/",
+    "id": "/CNTV/",
     
     "icons": [
         {
