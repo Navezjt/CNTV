@@ -22,11 +22,12 @@ workbox.routing.registerRoute(
       }),
     ],
   })
+  
 );
 
 workbox.routing.registerRoute(
   ({event}) => event.request.destination === 'script',
-  new workbox.strategies.NetworkFirst({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: JS_CACHE,
     plugins: [
       new workbox.expiration.ExpirationPlugin({
@@ -38,7 +39,7 @@ workbox.routing.registerRoute(
 
 workbox.routing.registerRoute(
   ({event}) => event.request.destination === 'style',
-  new workbox.strategies.NetworkFirst({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: STYLE_CACHE,
     plugins: [
       new workbox.expiration.ExpirationPlugin({
@@ -50,7 +51,7 @@ workbox.routing.registerRoute(
 
 workbox.routing.registerRoute(
   ({event}) => event.request.destination === 'image',
-  new workbox.strategies.NetworkFirst({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: IMAGE_CACHE,
     plugins: [
       new workbox.expiration.ExpirationPlugin({
@@ -62,7 +63,7 @@ workbox.routing.registerRoute(
 
 workbox.routing.registerRoute(
   ({event}) => event.request.destination === 'font',
-  new workbox.strategies.NetworkFirst({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: FONT_CACHE,
     plugins: [
       new workbox.expiration.ExpirationPlugin({

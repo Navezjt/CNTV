@@ -1,29 +1,24 @@
-# ¿Qué es teles?
+## PWA Código Abierto para ver/comparar preseleccionadas transmisiones de noticias provenientes de Chile (y el mundo)
+# Enlace: https://alplox.github.io/teles/
 
-teles es una PWA (sitio web que se puede instalar como aplicación) de Código Abierto para ver/comparar preseleccionadas transmisiones de noticias provenientes de Chile (y el mundo).
+Obviamente puede ser adaptado para otro tipo de contenido, eso ya es cosa suya.
 
-# Enlace teles
-Enlace: https://alplox.github.io/teles/
+Toda contribución es bienvenida 😊
+
+[[Repositorio original (RIP)]](https://github.com/Alplox/tele)
 
 # Tabla de contenido
-- [Canales disponibles junto a su origen 📺](#canales-disponibles-junto-a-su-origen)
-- [Variaciones creadas por terceros](#variaciones-creadas-por-terceros)
-- [Prensa alternativa 📰 📻](#prensa-alternativa)
-- [Enlaces complementarios](#enlaces-complementarios)
-- [Descargo de responsabilidad](#descargo-de-responsabilidad)
-- [Licencia](#licencia)
+- [Canales disponibles junto a su origen 📺](#canales-disponibles-junto-a-su-origen-)
+- [Variaciones Creadas por Terceros🖥️](#variaciones-creadas-por-terceros-)
+- [Medios de Prensa Alternativos 📰 📻](#medios-de-prensa-alternativos-)
+- [Enlaces Complementarios 🔗🦠](#enlaces-complementarios-)
+- [Descargo de responsabilidad 📝](#descargo-de-responsabilidad-)
+- [Licencia](#licencia-)
 
-[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17_temas.png)](https://alplox.github.io/teles/)
-[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17_personalizar.png)](https://alplox.github.io/teles/)
-[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17_offcanvas_canales.png)](https://alplox.github.io/teles/)
-[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17_dark_canales.png)](https://alplox.github.io/teles/)
-[![](https://raw.githubusercontent.com/Navezjt/CNTV/master/assets/img/previews/shots_teles_v0-17.png)](https://alplox.github.io/teles/)
+[![](https://raw.githubusercontent.com/Alplox/teles/master/assets/img/previews/v0.07.jpg)](https://alplox.github.io/teles/)
+[![](https://raw.githubusercontent.com/Alplox/teles/master/assets/img/previews/v0.07-opciones.gif)](https://alplox.github.io/teles/)
 
-# Canales disponibles junto a su origen: 
-[↑ Volver arriba ↑](#tabla-de-contenido)
-
-https://github.com/Alplox/json-teles?tab=readme-ov-file#canales-disponibles-junto-a-su-origen
-
+# Canales disponibles junto a su origen: [↑](#tabla-de-contenido)
 (clic encima de cada título para expandir categorías)
 <details>
 <summary>Canales Chile 🇨🇱</summary>
@@ -36,24 +31,19 @@ https://github.com/Alplox/json-teles?tab=readme-ov-file#canales-disponibles-junt
 - [TVN 2](https://www.tvn.cl/)
 - [Meganoticias](https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q)
 - [Meganoticias 2](https://www.twitch.tv/meganoticiascl)
-- [Meganoticias 3](https://www.meganoticias.cl/senal-en-vivo/meganoticias/) - [x](https://github.com/HERBERTM3/iptv/blob/f55200534fdab9a503f04b0482ce7307c2767469/hd.m3u)
-- [Meganoticias 4](https://www.meganoticias.cl/senal-en-vivo/meganoticias/) - [x](https://github.com/HERBERTM3/iptv/blob/f55200534fdab9a503f04b0482ce7307c2767469/hd.m3u)
-- [Mega](https://www.mega.cl/) - [x](https://www.m3u.cl/iptv-chile.php)
+- [Mega 2](https://www.mega.cl/) - [x](https://www.m3u.cl/iptv-chile.php)
 - [T13](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg)
 - [T13 2](https://www.twitch.tv/t13envivo)
 - [T13 3](https://www.t13.cl/)
 - [T13 4](https://www.t13.cl/)
-- [Canal 13](https://www.13.cl/en-vivo)
-- [Canal 13 2](https://www.13.cl/en-vivo) - [x](https://github.com/HERBERTM3/iptv/blob/f55200534fdab9a503f04b0482ce7307c2767469/hd.m3u)
-- [Canal 13 3](https://www.13.cl/en-vivo) - [x](https://github.com/HERBERTM3/iptv/blob/f55200534fdab9a503f04b0482ce7307c2767469/hd.m3u)
+- [Canal 13](https://www.13.cl/en-vivo) - [x](https://github.com/AINMcl/MonitorTV/)
 - [CNN Chile](https://www.youtube.com/channel/UCpOAcjJNAp0Y0fhznRrXIJQ)
 - [CHV Noticias](https://www.youtube.com/channel/UCRsUoZYC1ULUspipMRnMhwg)
 - [CHV Noticias 2](https://www.chvnoticias.cl/) - [x](https://pluto.tv/es/live-tv/chilevision-noticias)
 - [CHV Noticias 3](https://www.chvnoticias.cl/senal-online/)
 - [CHV](https://www.youtube.com/channel/UC8EdTmyUaFIfZvVttJ9lgIA)
-- [CHV 2](https://www.chilevision.cl/senal-online) - [x](https://m3u.cl/lista-iptv-chile.php)
+- [CHV 2](https://www.chilevision.cl/senal-online) - [x](https://github.com/AINMcl/MonitorTV/blob/05188eeaea9622e986b338f63a46fb189898184f/IPTV/AINM.m3u)
 - [La Red](https://www.lared.cl/senal-online) - [x](https://www.m3u.cl/iptv-chile.php)
-- [La Red 2](https://www.lared.cl/senal-online) - [x](https://github.com/HERBERTM3/iptv/blob/f55200534fdab9a503f04b0482ce7307c2767469/hd.m3u)
 - [Stgo TV](https://www.santiagotelevision.cl/)
 - [TV+](https://www.chilevision.cl/senal-online) - [x](https://m3u.cl/lista-iptv-chile.php)
 - [TV+ 2](https://www.chilevision.cl/senal-online)
@@ -123,9 +113,6 @@ https://github.com/Alplox/json-teles?tab=readme-ov-file#canales-disponibles-junt
 	- [Romántica TV](https://www.romantica.cl/romantica-tv/)
 	- [Radio Genial 100.5 FM](https://radiogenial.cl/)
 	- [Radio La Clave](https://radiolaclave.cl/)
-	- [Radio El Conquistador FM](https://www.elconquistadorfm.net/) - [x](https://github.com/Alplox/teles/pull/3)
-	- [Radio El Conquistador FM 2](https://www.elconquistadorfm.net/) - [x](https://github.com/Alplox/teles/pull/3)
-	- [Radio El Conquistador FM 3](https://www.twitch.tv/elconquistadortv)
 	- [Radio Folclor de Chile](https://www.youtube.com/channel/UC0Hl8kJe8Xwv8g63Q4qefQg)
 	- [El Sembrador](https://tv.radioelsembrador.cl/) 
 	- [Radio Ñuble](https://radionuble.cl/v1/)
@@ -358,8 +345,10 @@ https://github.com/Alplox/json-teles?tab=readme-ov-file#canales-disponibles-junt
 </details>
 
 
-# Variaciones Creadas por Terceros: 
-[↑ Volver arriba ↑](#tabla-de-contenido)
+    *si algún canal del listado no se encuentra disponible en la página significa que su estado es offline.*
+
+
+# Variaciones Creadas por Terceros: [↑](#tabla-de-contenido) 
 
 | Enlaces Variaciones                                    | Por:                                                     | Fuente                                                                                                                 |
 |--------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
@@ -392,9 +381,6 @@ https://github.com/Alplox/json-teles?tab=readme-ov-file#canales-disponibles-junt
 | https://ar.teleringa.com/                          | ???                                                                   | ❌                                                                                          |
 | https://cablegratis.online/tv-chile-en-vivo/       | ???                                                                   | ❌                                                                                          |
 | https://vidgrid.tk.gg/                             | [MattieTK](https://twitter.com/MattieTK)                              | [Fuente](https://twitter.com/MattieTK/status/1496815557198315521?cxt=HHwWgoCs0bP04MUpAAAA) |
-| https://alienxproject.github.io/X/                 | [alienxproject](https://github.com/alienxproject)                     | [Fuente](https://github.com/alienxproject/X) |
-| https://navezjt.github.io/JCN-TV/                  | [Navezjt](https://github.com/Navezjt)                                 | [Fuente](https://github.com/Navezjt/JCN-TV) |
-
 
 
 
@@ -402,9 +388,8 @@ https://github.com/Alplox/json-teles?tab=readme-ov-file#canales-disponibles-junt
 
 ___
 
-# Prensa Alternativa:
-
-[↑ Volver arriba ↑](#tabla-de-contenido)
+# Medios de Prensa Alternativos: [↑](#tabla-de-contenido)
+📰 📻 
 
 *No porque un sitio sea "alternativo" lo convierte en verídico, recuerde aplicar el mismo nivel de criterio que con los medios televisivos o cualquier medio de prensa venga el caso 
 
@@ -451,9 +436,7 @@ ___
 
 ___
 
-# Enlaces Complementarios: 
-[↑ Volver arriba ↑](#tabla-de-contenido)
-
+# Enlaces Complementarios: [↑](#tabla-de-contenido)
 Sitios que poseen información útil en cuanto a diversos temas que no sabía dónde añadir para compartirlos:
 
 | Sitio                                                                                                                                                                                                                                  | Mirror                                     | RRSS                                                                                                                                                                                                                                                                      |
@@ -464,7 +447,6 @@ Sitios que poseen información útil en cuanto a diversos temas que no sabía d�
 | [Saludablemente                                        (gob.cl)](https://www.gob.cl/saludablemente/)                                                                                                                                   |                                            |                                                                                                                                                                                                                                                                           |
 | [Líneas gratuitas de apoyo psicológico en Chile](https://reddit.com/r/chile/comments/hsl6p6/l%C3%ADneas_gratuitas_de_apoyo_psicol%C3%B3gico_en_chile/)                                                                                 | [mirror](https://kvak.io/?n=trf2pc71y2f3)  |                                                                                                                                                                                                                                                                           |
 | [Hablemos                                        de Todo (INJUV)](https://hablemosdetodo.injuv.gob.cl/)                                                                                                                                |                                            |                                                                                                                                                                                                                                                                           |
-| [*4141 Línea Prevención del Suicidio                                         (portalsaluddigital.minsal.cl)](https://portalsaluddigital.minsal.cl/4141-linea-prevencion-del-suicidio/)                                                 |                                            |                                                                                                                                                                                                                                                                           |
 | [Guía para cuidarse los ojos en                                        manifestaciones](https://www.reddit.com/r/chile/comments/du4hn0/gu%C3%ADa_para_cuidarse_los_ojos_en_estas/)                                                     | [mirror](https://kvak.io/?n=d1gd1i1j1l120) |                                                                                                                                                                                                                                                                           |
 | [Uso de Tecnologías y Privacidad en Internet](https://old.reddit.com/r/chile/comments/dt4s2u/uso_de_tecnolog%C3%ADas_y_privacidad_en_internet/)                                                                                        | [mirror](https://kvak.io/?n=s0gd1i1g2i1l5) |                                                                                                                                                                                                                                                                           |
 | [Autoprotección Digital Contra La Vigilancia](https://ssd.eff.org/es/module/asistir-una-protesta)                                                                                                                                      |                                            |                                                                                                                                                                                                                                                                           |
@@ -500,15 +482,11 @@ Sitios que poseen información útil en cuanto a diversos temas que no sabía d�
 | [firms.modaps.eosdis.nasa.gov](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-71.24,-33.13,10.50z)                                                                                                                                |                                            |                                                                                                                                                                                                                                                                           |
 | [google.com/maps](https://www.google.com/maps/@-33.0993464,-71.4870313,12z/data=!3m1!4b1!4m2!21m1!1s%2Fg%2F11y2ty3bn9!5m1!1e8?hl=es-419&entry=ttu)                                                                                     |                                            |                                                                                                                                                                                                                                                                           |
 | [star.nesdis.noaa.gov](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ssa)                                                                                                                                            |                                            |                                                                                                                                                                                                                                                                           |
-
                                                                                   
 
 ___
 
-# Descargo de responsabilidad 
-
-[↑ Volver arriba ↑](#tabla-de-contenido)
-
+# Descargo de responsabilidad [↑](#tabla-de-contenido)
 - "teles" es un proyecto de código abierto gratuito que permite gestionar canales de televisión de libre acceso por Internet.
 - “teles” no decodifica transmisiones. Los enlaces que figuran en este proyecto son procesados desde diferentes sitios públicos con libre distribución/acceso.
 - "teles" no posee ningún tipo de monetización, en consecuencia, no se lucra de ninguna forma o medio.
@@ -522,9 +500,7 @@ ___
 
 ___
 
-# Licencia
-
-[↑ Volver arriba ↑](#tabla-de-contenido)
+# Licencia [↑](#tabla-de-contenido)
 
 [MIT License ⚖️](https://github.com/Alplox/teles/blob/master/LICENSE)
 ```
@@ -551,14 +527,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-# Contribuciones
-
-[↑ Volver arriba ↑](#tabla-de-contenido)
-
-Toda contribución es bienvenida 😊
-
-[![Contributors](https://contrib.rocks/image?repo=Alplox/teles)](https://github.com/Alplox/teles/graphs/contributors)
 
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/teles)](https://badges.strrl.dev)
-
-[[Repositorio original (RIP)]](https://github.com/Alplox/tele)
