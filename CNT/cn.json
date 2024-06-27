@@ -1,0 +1,3297 @@
+{
+    "24-horas": {
+        "nombre": "24 horas",
+        "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
+        "pais": "cl"
+    },
+    "24-horas-2": {
+        "nombre": "24 horas 2",
+        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "24-horas-3": {
+        "nombre": "24 horas 3",
+        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "24-horas-4": {
+        "nombre": "24 horas 4",
+        "iframe_url": "https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/24horas_tvn",
+        "pais": "cl"
+    },
+    "tvn": {
+        "nombre": "TVN",
+        "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
+        "pais": "cl"
+    },
+    "tvn-2": {
+        "nombre": "TVN 2",
+        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "meganoticias": {
+        "nombre": "Meganoticias",
+        "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
+        "pais": "cl"
+    },
+    "meganoticias-2": {
+        "nombre": "Meganoticias 2",
+        "iframe_url": "https://player.twitch.tv/?channel=meganoticiascl&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/meganoticiascl",
+        "pais": "cl"
+    },
+    "meganoticias-3": {
+        "nombre": "Meganoticias 3",
+        "iframe_url": "https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0",
+        "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+        "pais": "cl"
+    },
+    "meganoticias-4": {
+        "nombre": "Meganoticias 4",
+        "iframe_url": "https://rudo.video/live/mega",
+        "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+        "pais": "cl"
+    },
+    "mega": {
+        "nombre": "Mega",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+        "fuente": "https://www.mega.cl/",
+        "pais": "cl"
+    },
+    "t13": {
+        "nombre": "T13",
+        "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+        "pais": "cl"
+    },
+    "t13-2": {
+        "nombre": "T13 2",
+        "iframe_url": "https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/t13envivo",
+        "pais": "cl"
+    },
+    "t13-3": {
+        "nombre": "T13 3",
+        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+        "fuente": "https://www.t13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "t13-4": {
+        "nombre": "T13 4",
+        "iframe_url": "https://rudo.video/live/t13",
+        "fuente": "https://www.t13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "canal-13": {
+        "nombre": "Canal 13",
+        "iframe_url": "https://rudo.video/live/c13",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "canal-13-2": {
+        "nombre": "Canal 13 2",
+        "m3u8_url": "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "canal-13-3": {
+        "nombre": "Canal 13 3",
+        "m3u8_url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/529d29eb-8117-44d3-9e21-cdfd68c3c097:MRN2/master.m3u8",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "cnn-cl": {
+        "nombre": "CNN Chile",
+        "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+        "pais": "cl"
+    },
+    "cnn-cl-3": {
+        "nombre": "CNN Chile 3",
+        "m3u8_url": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+        "fuente": "https://www.cnnchile.com/",
+        "pais": "cl"
+    },
+    "chv-noticias": {
+        "nombre": "CHV Noticias",
+        "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
+        "pais": "cl"
+    },
+    "chv-noticias-2": {
+        "nombre": "CHV Noticias 2",
+        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
+        "fuente": "https://www.chvnoticias.cl/senal-online/",
+        "pais": "cl"
+    },
+    "chv-noticias-3": {
+        "nombre": "CHV Noticias 3",
+        "iframe_url": "https://rudo.video/live/chvn",
+        "fuente": "https://www.chvnoticias.cl/senal-online/",
+        "pais": "cl"
+    },
+    "chv": {
+        "nombre": "CHV",
+        "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
+        "pais": "cl"
+    },
+    "la-red": {
+        "nombre": "La Red",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+        "fuente": "https://www.lared.cl/senal-online",
+        "pais": "cl"
+    },
+    "la-red-2": {
+        "nombre": "La Red 2",
+        "iframe_url": "https://rudo.video/live/lared",
+        "fuente": "https://www.lared.cl/senal-online",
+        "pais": "cl"
+    },
+    "cooperativa": {
+        "nombre": "Radio Cooperativa",
+        "iframe_url": "https://rudo.video/live/coopetv?volume=0&mute=1",
+        "fuente": "http://programas.cooperativa.cl/showalairelibre/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "bbtv": {
+        "nombre": "Radio Biobio TV",
+        "iframe_url": "https://rudo.video/live/bbtv?volume=0&mute=1",
+        "fuente": "https://www.biobiochile.cl/biobiotv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "adn": {
+        "nombre": "Radio ADN",
+        "iframe_url": "https://rudo.video/live/adntv?volume=0&mute=1",
+        "fuente": "http://tv.adnradio.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "adn-2": {
+        "nombre": "Radio ADN 2",
+        "yt_id": "UCczkrFICr0xEgDsk51zZojA",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "duna": {
+        "nombre": "Radio Duna",
+        "iframe_url": "https://rudo.video/live/dunatv?volume=0&mute=1",
+        "fuente": "https://www.duna.cl/tv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "infinita": {
+        "nombre": "Radio Infinita",
+        "iframe_url": "https://mdstrm.com/live-stream/63a066e54ed536087960b550?autoplay=true&player=63af7b6cc5048f0846557764",
+        "fuente": "http://www.infinita.cl/home/",
+        "pais": "cl"
+    },
+    "universo": {
+        "nombre": "Radio Universo",
+        "iframe_url": "https://redirector.dps.live/universo/aac/icecast.audio",
+        "fuente": "https://www.universo.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-ae": {
+        "nombre": "Radio AE Radio DuocUC",
+        "iframe_url": "https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2?sound=0",
+        "fuente": "https://www.aeradio.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "carolina-tv": {
+        "nombre": "Radio Carolina TV",
+        "iframe_url": "https://mdstrm.com/live-stream/63a06468117f42713374addd?autoplay=true&player=63af7b6cc5048f0846557764",
+        "fuente": "https://www.carolina.cl/tv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "romantica-tv": {
+        "nombre": "Radio Romántica TV",
+        "iframe_url": "https://mdstrm.com/live-stream/63a0674c1137d408b45d4821?autoplay=true&player=63af7b6cc5048f0846557764",
+        "fuente": "https://www.romantica.cl/romantica-tv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-genial": {
+        "nombre": "Radio Genial 100.5 FM",
+        "m3u8_url": "https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8",
+        "fuente": "https://radiogenial.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-la-clave": {
+        "nombre": "Radio La Clave",
+        "iframe_url": "https://rudo.video/live/laclavetv?volume=0&mute=1",
+        "fuente": "https://radiolaclave.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-el-conquistador": {
+        "nombre": "Radio El Conquistador FM",
+        "m3u8_url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8",
+        "fuente": "https://www.elconquistadorfm.net/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-el-conquistador-2": {
+        "nombre": "Radio El Conquistador FM 2",
+        "iframe_url": "https://rudo.video/live/elconquistadortv",
+        "fuente": "https://www.elconquistadorfm.net/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-el-conquistador-3": {
+        "nombre": "Radio El Conquistador FM 3",
+        "iframe_url": "https://player.twitch.tv/?channel=elconquistadortv&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/elconquistadortv",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-folclor-chile": {
+        "nombre": "Radio Folclor de Chile",
+        "yt_id": "UC0Hl8kJe8Xwv8g63Q4qefQg",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "sembrador": {
+        "nombre": "Radio El Sembrador",
+        "m3u8_url": "https://tv.streaming-chile.com:1936/elsembrador/elsembrador/playlist.m3u8",
+        "fuente": "https://tv.radioelsembrador.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-nuble": {
+        "nombre": "Radio Ñuble",
+        "m3u8_url": "https://live.tvcontrolcp.com:1936/rnuble/rnuble/playlist.m3u8",
+        "fuente": "https://radionuble.cl/v1/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "alternativa-fm": {
+        "nombre": "Radio Alternativa FM",
+        "m3u8_url": "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8",
+        "fuente": "https://www.alternativafm.cl/p/alternativa-tv.html",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "stgo-tv": {
+        "nombre": "Stgo TV",
+        "m3u8_url": "https://stv4.janus.cl/playlist/stream.m3u8",
+        "fuente": "https://www.santiagotelevision.cl/",
+        "pais": "cl"
+    },
+    "tv-mas": {
+        "nombre": "TV+",
+        "m3u8_url": "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8",
+        "fuente": "https://www.tvmas.tv/",
+        "pais": "cl"
+    },
+    "tv-mas-2": {
+        "nombre": "TV+ 2",
+        "iframe_url": "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?autoplay=true&volume=0",
+        "fuente": "https://www.tvmas.tv/",
+        "pais": "cl"
+    },
+    "voz-sobran": {
+        "nombre": "La Voz De Los Que Sobran",
+        "iframe_url": "https://rudo.video/live/lvdlqs",
+        "fuente": "https://lavozdelosquesobran.cl/",
+        "pais": "cl"
+    },
+    "puranoticia": {
+        "nombre": "Puranoticia TV",
+        "m3u8_url": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
+        "fuente": "https://puranoticia.pnt.cl/",
+        "pais": "cl"
+    },
+    "holvoet-tv": {
+        "nombre": "Holvoet TV",
+        "iframe_url": "https://rudo.video/live/holvoettv",
+        "fuente": "https://holvoet.cl/en-vivo/",
+        "pais": "cl"
+    },
+    "holvoet-tv-2": {
+        "nombre": "Holvoet TV 2",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+        "fuente": "https://holvoet.cl/en-vivo/",
+        "pais": "cl"
+    },
+    "antofagasta-tv": {
+        "nombre": "Antofagasta TV",
+        "m3u8_url": "https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8",
+        "fuente": "https://www.antofagasta.tv/",
+        "pais": "cl"
+    },
+    "antofagasta-tv-2": {
+        "nombre": "Antofagasta TV 2",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8",
+        "fuente": "https://www.antofagasta.tv/",
+        "pais": "cl"
+    },
+    "antofagasta-tv-3": {
+        "nombre": "Antofagasta TV 3",
+        "m3u8_url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+        "fuente": "https://www.antofagasta.tv/",
+        "pais": "cl"
+    },
+    "atacama-tv": {
+        "nombre": "Atacama TV",
+        "m3u8_url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+        "fuente": "http://atacamatelevision.com/",
+        "pais": "cl"
+    },
+    "atacama-tv-2": {
+        "nombre": "Atacama TV 2",
+        "m3u8_url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8",
+        "fuente": "http://atacamatelevision.com/",
+        "pais": "cl"
+    },
+    "canal-9": {
+        "nombre": "Canal 9",
+        "iframe_url": "https://rudo.video/live/c9?volume=0&mute=1",
+        "fuente": "https://www.canal9.cl/en-vivo/",
+        "pais": "cl"
+    },
+    "canal-9-2": {
+        "nombre": "Canal 9 2",
+        "m3u8_url": "https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8",
+        "fuente": "https://www.canal9.cl/en-vivo/",
+        "pais": "cl"
+    },
+    "tvu": {
+        "nombre": "TVU",
+        "iframe_url": "https://rudo.video/live/tvu?volume=0&mute=1",
+        "fuente": "https://www.tvu.cl/",
+        "pais": "cl"
+    },
+    "tvu-2": {
+        "nombre": "TVU 2",
+        "m3u8_url": "https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8",
+        "fuente": "https://www.tvu.cl/",
+        "pais": "cl"
+    },
+    "canal-21": {
+        "nombre": "Canal 21",
+        "m3u8_url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+        "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
+        "pais": "cl"
+    },
+    "canal-21-2": {
+        "nombre": "Canal 21 2",
+        "m3u8_url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+        "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
+        "pais": "cl"
+    },
+    "nublevision": {
+        "nombre": "Ñublevision",
+        "m3u8_url": "https://v1.tustreaming.cl/nubletv/index.m3u8",
+        "fuente": "https://nublevision.cl/",
+        "pais": "cl"
+    },
+    "nuble-RTV": {
+        "nombre": "Ñuble RVT",
+        "m3u8_url": "https://paneltv.online:1936/8050/8050/playlist.m3u8",
+        "fuente": "https://canalrtv.cl/",
+        "pais": "cl"
+    },
+    "pinguino-tv": {
+        "nombre": "Pingüino TV",
+        "iframe_url": "https://elpinguino.com/reproductor/",
+        "fuente": "https://elpinguino.com/reproductor/",
+        "pais": "cl"
+    },
+    "pinguino-tv-2": {
+        "nombre": "Pingüino TV 2",
+        "m3u8_url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
+        "fuente": "https://elpinguino.com/reproductor/",
+        "pais": "cl"
+    },
+    "itv-patagonia": {
+        "nombre": "ITV Patagonia",
+        "iframe_url": "https://rudo.video/live/itv?volume=0&mute=1",
+        "fuente": "https://www.itvpatagonia.com/",
+        "pais": "cl"
+    },
+    "itv-patagonia-2": {
+        "nombre": "ITV Patagonia 2",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8",
+        "fuente": "https://www.itvpatagonia.com/",
+        "pais": "cl"
+    },
+    "ucv": {
+        "nombre": "UCV TV",
+        "iframe_url": "https://rudo.video/live/ucvtv2?volume=0&mute=1",
+        "fuente": "https://pucvmultimedios.cl/senal-online-tv.php",
+        "pais": "cl"
+    },
+    "uatv": {
+        "nombre": "UATV",
+        "iframe_url": "https://rudo.video/live/uatv?volume=0&mute=1",
+        "fuente": "https://uatv.cl/uatv-en-vivo/",
+        "pais": "cl"
+    },
+    "vtv": {
+        "nombre": "VTV",
+        "iframe_url": "https://rudo.video/live/vtv?volume=0&mute=1",
+        "fuente": "http://canalvtv.cl/vtv/",
+        "pais": "cl"
+    },
+    "canal-33": {
+        "nombre": "Canal 33",
+        "m3u8_url": "https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8",
+        "fuente": "http://www.canal33.cl/online.php",
+        "pais": "cl"
+    },
+    "contivision": {
+        "nombre": "Contivision",
+        "iframe_url": "https://rudo.video/live/cm?volume=0&mute=1",
+        "fuente": "http://w.contivision.cl/cvn/envivo.php",
+        "pais": "cl"
+    },
+    "osorno-tv": {
+        "nombre": "Osorno TV",
+        "m3u8_url": "https://panel.tvstream.cl:1936/8036/8036/playlist.m3u8",
+        "fuente": "https://www.osornotv.cl/envivo.html",
+        "pais": "cl"
+    },
+    "tv-salud": {
+        "nombre": "TV Salud",
+        "iframe_url": "https://panel.miplay.cl:8081/tvsalud/embed.html",
+        "fuente": "https://tvsalud.cl/",
+        "pais": "cl"
+    },
+    "tn": {
+        "nombre": "Todonoticias",
+        "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+        "pais": "ar"
+    },
+    "c5n": {
+        "nombre": "C5N",
+        "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
+        "pais": "ar"
+    },
+    "net-tv": {
+        "nombre": "Net TV",
+        "iframe_url": "https://rudo.video/live/nettv?volume=0&mute=1",
+        "fuente": "https://www.canalnet.tv/page/senal-en-vivo",
+        "pais": "ar"
+    },
+    "tv-publica-arg": {
+        "nombre": "Televisión Pública",
+        "yt_id": "UCs231K71Bnu5295_x0MB5Pg",
+        "pais": "ar"
+    },
+    "cronica-tv": {
+        "nombre": "Crónica TV",
+        "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
+        "pais": "ar"
+    },
+    "la-nacion": {
+        "nombre": "LA NACION",
+        "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
+        "pais": "ar"
+    },
+    "canal-26": {
+        "nombre": "Canal 26",
+        "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
+        "pais": "ar"
+    },
+    "america-tv": {
+        "nombre": "América TV",
+        "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
+        "pais": "ar"
+    },
+    "america-tv-1": {
+        "nombre": "América TV 1",
+        "iframe_url": "https://flow3.nebunexa.co/cvattgb.html?get=QW1lcmljYVRW&lang=1",
+        "fuente": "https://television-libre.online/en-vivo/america-tv/",
+        "pais": "ar"
+    },
+    "tv-publica-1": {
+        "nombre": "Televisión Pública 1",
+        "m3u8_url": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8",
+        "fuente": "",
+        "pais": "ar"
+    },
+    "tv-publica-2": {
+        "nombre": "Televisión Pública 2",
+        "iframe_url": "https://television-libre.online/html/fl2/?get=Q2FuYWw3",
+        "fuente": "https://television-libre.online/en-vivo/tv-publica/",
+        "pais": "ar"
+    },
+    "cronica-tv": {
+        "nombre": "Crónica TV",
+        "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
+        "pais": "ar"
+    },
+    "el-siete-tv": {
+        "nombre": "El Siete TV",
+        "yt_id": "UC64ZNqX0FQHabP8iIkmnR3A",
+        "pais": "ar"
+    },
+    "el-siete-tv-1": {
+        "nombre": "El Siete TV 1",
+        "iframe_url": "https://www.youtube.com/embed/Vh8xmLBJtR8",
+        "fuente": "https://vercanalesonline.com/en-vivo/el-siete-mendoza/",
+        "pais": "ar"
+    },
+    "el-siete-tv-2": {
+        "nombre": "El Siete TV 2",
+        "iframe_url": "https://www.youtube.com/watch?v=Vh8xmLBJtR8",
+        "fuente": "https://www.elsietetv.com.ar/",
+        "pais": "ar"
+    },
+    "a24": {
+        "nombre": "A24",
+        "iframe_url": "UCR9120YBAqMfntqgRTKmkjQ",
+        "pais": "ar"
+    },
+    "a24-1": {
+        "nombre": "A24-1",
+        "iframe_url": "https://flow.fullbed.rest/cvatt.html?get=QW1lcmljYTI0",
+        "fuente": "https://vercanalesonline.com/en-vivo/america24/",
+        "pais": "ar"
+    },
+    "a24-2": {
+        "nombre": "A24-2",
+        "iframe_url": "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false",
+        "fuente": "https://www.a24.com/vivo",
+        "pais": "ar"
+    },
+    "ip-digital0": {
+        "nombre": "Información Periodistica0",
+        "iframe_url": "https://cdn.iframe.ly/api/iframe?amp=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlrIa3ImYrhU&key=284d6b492934666274563e3e1a67cadd",
+        "fuente": "https://ip.digital/vivo",
+        "pais": "ar"
+    },
+    "ip-digital": {
+        "nombre": "Información Periodistica",
+        "iframe_url": "https://player.twitch.tv/?channel=ip_noticias&parent=ipnoticias.ar",
+        "fuente": "https://ip.digital/vivo",
+        "pais": "ar"
+    },
+    "ip-digital-2": {
+        "nombre": "IP Noticias",
+        "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
+        "pais": "ar"
+    },
+    "extra-tv": {
+        "nombre": "EXTRA TV",
+        "yt_id": "UCe22LRtJ6sAx3nn2b0SzuRQ",
+        "pais": "ar"
+    },
+    "canal22-tv": {
+        "nombre": "Canal22 TV",
+        "iframe_url": "https://videocloud.instream.audio:2000/VideoPlayer/canal22?autoplay=1",
+        "fuente": "https://www.canal22web.com/",
+        "pais": "ar"
+    },
+    "elnueve-tv": {
+        "nombre": "ElNueve TV",
+        "iframe_url": "https://player.twitch.tv/js/embed/v1.js",
+        "fuente": "https://www.canal22web.com/",
+        "pais": "ar"
+    },
+    "Cadena3-tv": {
+        "nombre": "Cadena3 TV",
+        "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
+        "pais": "ar"
+    },
+    "El-Destape": {
+        "nombre": "El Destape",
+        "iframe_url": "https://www.youtube.com/embed/3Kr2MivBrlk?autoplay=1&mute=1",
+        "fuente": "https://www.eldestapeweb.com/",
+        "pais": "ar"
+    },
+    "Radiomitre-TV": {
+        "nombre": "Radiomitre TV",
+        "yt_id": "UCYvINPByAdCcpA0sWrF3I_w",
+        "pais": "ar"
+    },
+    "el-tiempo": {
+        "nombre": "EL TIEMPO",
+        "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
+        "pais": "co"
+    },
+    "noti-caracol": {
+        "nombre": "Noticias Caracol",
+        "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+        "pais": "co"
+    },
+    "red-mas-noticias": {
+        "nombre": "RED MÁS Noticias",
+        "yt_id": "UCpcvsK0UAI3MIHsjjj3CgMg",
+        "pais": "co"
+    },
+    "tv-peru": {
+        "nombre": "TVPerú Noticias",
+        "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
+        "pais": "pe"
+    },
+    "tv-peru": {
+        "nombre": "TV Perú",
+        "iframe_url": "https://iblups.com/e_tvperuHD",
+        "fuente": "https://www.tvperu.gob.pe/play",
+        "pais": "pe"
+    },
+    "tv-peru1": {
+        "nombre": "TVPerú 1",
+        "iframe_url": "https://iblups.com/e_tvperu73",
+        "fuente": "https://ntvperu.pe/senal-en-vivo/",
+        "pais": "pe"
+    },
+    "tv-peru": {
+        "nombre": "TVPerú 2",
+        "iframe_url": "https://iblups.com/e_tvperu72",
+        "fuente": "https://ntvperu.pe/senal-en-vivo/",
+        "pais": "pe"
+    },
+    "Nacional-TV": {
+        "nombre": "Nacional TV",
+        "m3u8_url": "https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8",
+        "fuente": "https://ntvperu.pe/senal-en-vivo/",
+        "pais": "pe"
+    },
+    "BNBdigital-tv": {
+        "nombre": "BNBdigital Tv",
+        "m3u8_url": "https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8",
+        "fuente": "https://www.bnbdigitaltv.com/",
+        "pais": "pe"
+    },
+    "Chincha-Tv": {
+        "nombre": "Chincha Tv",
+        "iframe_url": "https://ok.ru/videoembed/5439500131845?nochat=1&autoplay=1",
+        "fuente": "https://www.chincha.tv/p/live.html",
+        "pais": "pe"
+    },
+    "panamericana-tv": {
+        "nombre": "Panamericana TV",
+        "iframe_url": "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0",
+        "fuente": "https://panamericana.pe/tvenvivo",
+        "pais": "pe"
+    },
+    "onda-digital-tv": {
+        "nombre": "Onda Digital TV",
+        "m3u8_url": "https://v4.tustreaming.cl:443/odtvgo/index.m3u8",
+        "fuente": "https://ondadigitaltv.com",
+        "pais": "pe"
+    },
+    "onda-digital-tv-2": {
+        "nombre": "Onda Digital TV 2",
+        "m3u8_url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
+        "fuente": "https://ondadigitaltv.com",
+        "pais": "pe"
+    },
+    "UCI": {
+        "nombre": "UCI",
+        "m3u8_url": "https://mediastreamm.com:3449/live/mlecaroslive.m3u8",
+        "fuente": "https://uci.pe/envivo",
+        "pais": "pe"
+    },
+    "Nativa-TV0": {
+        "nombre": "Nativa TV0",
+        "m3u8_url": "https://ntv.pe/salida/nativa.m3u8",
+        "fuente": "https://ntv.pe/",
+        "pais": "pe"
+    },
+    "Nativa-TV": {
+        "nombre": "Nativa TV",
+        "iframe_url": "https://ntv.pe/vivo.html",
+        "fuente": "https://ntv.pe/",
+        "pais": "pe"
+    },
+    "nativa": {
+        "nombre": "Nativa",
+        "yt_id": "UCdl1ygFwPa6lUdNYPLjoAGg",
+        "pais": "pe"
+    },
+    "cable-vision-peru": {
+        "nombre": "Cable Visión Perú",
+        "m3u8_url": "https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8",
+        "fuente": "https://www.cablevisionperu.pe/?page_id=1938",
+        "pais": "pe"
+    },
+    "ATV": {
+        "nombre": "ATV",
+        "m3u8_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atv",
+        "pais": "pe"
+    },
+    "ATV-Más": {
+        "nombre": "ATV Más",
+        "m3u8_url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atvmas",
+        "pais": "pe"
+    },
+    "ATV-Sur": {
+        "nombre": "ATV Sur",
+        "m3u8_url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atvmas",
+        "pais": "pe"
+    },
+    "la-republica": {
+        "nombre": "La República",
+        "yt_id": "UC-B7Xv56uNRDkj0vC3QW8Cg",
+        "pais": "pe"
+    },
+    "willax": {
+        "nombre": "Willax",
+        "iframe_url": "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0",
+        "fuente": "https://willax.tv/en-vivo/",
+        "pais": "pe"
+    },
+    "latina-noticias": {
+        "nombre": "Latina Noticias",
+        "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
+        "pais": "pe"
+    },
+    "latina-noticias-TV": {
+        "nombre": "Latina Noticias TV",
+        "iframe_url": "https://rudo.video/live/latina'",
+        "fuente": "https://www.latina.pe/tvenvivo",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "ovacion-tv": {
+        "nombre": "Radio Ovación TV",
+        "m3u8_url": "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8",
+        "fuente": "https://ovacion.pe/radio",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "san-borja": {
+        "nombre": "Radio San Borja Tv",
+        "m3u8_url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
+        "fuente": "https://radiosanborjatv.com/",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-onda-digital": {
+        "nombre": "Radio Onda Digital",
+        "m3u8_url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
+        "fuente": "https://www.ondadigital.pe/",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-tropical": {
+        "nombre": "Radio Tropical",
+        "m3u8_url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+        "fuente": "https://radiotropical.pe/",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-uno": {
+        "nombre": "Radio Uno",
+        "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "Radio-California": {
+        "nombre": "Radio-California",
+        "iframe_url": "https://vdo.grupolimalive.com/live-stream-video-widget/californiatv",
+        "fuente": "https://www.radiocalifornia.pe/",
+        "pais": "pe"
+    },
+    "Doble AA": {
+        "nombre": "Doble AA",
+        "iframe_url": "https://videoserver.tmcreativos.com:2020/VideoPlayer/yvmgbdpqmp",
+        "fuente": "https://dobleaamedios.com/tv",
+        "pais": "pe"
+    },
+    "MAS-CUMBIA": {
+        "nombre": "MAS CUMBIA",
+        "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline",
+        "fuente": "https://bestcableperu.com.pe/tv99.html",
+        "pais": "pe"
+    },
+    "hatun-tv": {
+        "nombre": "HATUN TV",
+        "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv",
+        "fuente": "https://bestcableperu.com.pe/tv99.html",
+        "pais": "pe"
+    },
+    "pbo-radio": {
+        "nombre": "PBO",
+        "yt_id": "UCgR0st4ZLABi-LQcWNu3wnQ",
+        "pais": "pe"
+    },
+    "santa-rosa": {
+        "nombre": "Radio Santa Rosa",
+        "yt_id": "UCIGV0oiNkdK2-tnf10DNp2A",
+        "pais": "pe"
+    },
+    "NT-TV": {
+        "nombre": "NT TV",
+        "iframe_url": "https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvVE5USEQvZGFzaF9may9pbmRleC5tcGQ=&k1=Y2MxZGJlNDM1NjRhYzUxYTYwNjQyMTgyOGI5OWQzYWQ=&k2=Mjg3OTc1YTY1ZWIzZjMzN2ExYmRmOWE4ZWVhYmY2MTM=&aut=true&lang=0",
+        "fuente": "https://tvhd.pe/tnt-hd-en-vivo/",
+        "pais": "pe"
+    },
+    "señal-peru": {
+        "nombre": "SEÑAL PERU",
+        "iframe_url": "https:\/\/livestream.perucast.com\/low\/stream.m3u8",
+        "fuente": "https://xn--sealperutv-u9a.pe/",
+        "pais": "pe"
+    },
+    "sol-tv": {
+        "nombre": "SOL TV",
+        "iframe_url": "https://playerv.logicahost.com.br/video/soltv/1/true/false/ZG1sa1pXOHdNeTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9///",
+        "fuente": "https://soltvperu.com/en-vivo/",
+        "pais": "pe"
+    },
+    "CNC": {
+        "nombre": "CNC",
+        "iframe_url": "https://innovatestream.com/tv/v2/player.php?live=cnctv",
+        "fuente": "https://www.cnccajamarca.com/",
+        "pais": "pe"
+    },
+    "Oriental": {
+        "nombre": "Oriental",
+        "iframe_url": "https://embed.babaktv.com/2023/09/cine-sony-link01.html?m=0",
+        "fuente": "https://otv.pe/",
+        "pais": "pe"
+    },
+    "TVO": {
+        "nombre": "TVO",
+        "iframe_url": "https://conceptoweb-studio.com/radio/video/tvo/",
+        "fuente": "https://tvocanal23.com/tvo-en-vivo/",
+        "pais": "pe"
+    },
+    "Comedy-Movies": {
+        "nombre": "Comedy Movies",
+        "iframe_url": "https://embed.babaktv.com/2023/07/rakuten-tv-comedy-movies-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-comedy-movies-spain/",
+        "pais": "pe"
+    },
+    "Top-Free": {
+        "nombre": "Top Free",
+        "iframe_url": "https://embed.babaktv.com/2023/06/rakuten-tv-top-free-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-top-free-spain/",
+        "pais": "pe"
+    },
+    "Shows": {
+        "nombre": "Shows",
+        "iframe_url": "https://embed.babaktv.com/2023/09/rakuten-family-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-shows-spain/",
+        "pais": "pe"
+    },
+    "Family": {
+        "nombre": "Family",
+        "iframe_url": "https://embed.babaktv.com/2023/09/rakuten-family-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-family-spain/",
+        "pais": "pe"
+    },
+    "Action-Movies": {
+        "nombre": "Action Movies",
+        "iframe_url": "https://embed.babaktv.com/2023/07/rakuten-tv-action-movies-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-action-movies-spain/",
+        "pais": "pe"
+    },
+    "CNT2": {
+        "nombre": "CNT2",
+        "iframe_url": "https://babaktv.com/embed/hbo-2-spanish-link01/",
+        "fuente": "https://babaktv.com/hbo-2-spanish/",
+        "pais": "pe"
+    },
+    "CNT3": {
+        "nombre": "CNT3",
+        "iframe_url": "https://embed.babaktv.com/2023/09/cine-sony-link01.html?m=0",
+        "fuente": "https://babaktv.com/cine-sony/",
+        "pais": "pe"
+    },
+    "xtrema": {
+        "nombre": "Xtrema",
+        "iframe_url": "https://embed.babaktv.com/2023/09/xtrema-cine-hindi-link01.html?m=0",
+        "fuente": "https://babaktv.com/xtrema-cine-hindi/",
+        "pais": "pe"
+    },
+    "mytime": {
+        "nombre": "Mytime",
+        "iframe_url": "https://babaktv.com/embed/mytime-movie-mexico-link01/",
+        "fuente": "https://babaktv.com/mytime-movie-mexico/",
+        "pais": "pe"
+    },
+    "canalb": {
+        "nombre": "canalb",
+        "iframe_url": "https://www.youtube.com/embed/nOukZI_clUU?hd=1&autoplay=1",
+        "fuente": "https://canalb.pe/live",
+        "pais": "pe"
+    },
+    "AO": {
+        "nombre": "AO",
+        "m3u8_url": "https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8",
+        "fuente": "http://eotv.live/#aovivo",
+        "pais": "do"
+    },
+    "ORIENTALTV": {
+        "nombre": "ORIENTALTV",
+        "m3u8_url": "https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR",
+        "fuente": "https://canalesdominicanos.live/tele-oriental-digital/",
+        "pais": "do"
+    },
+    "ONDATV": {
+        "nombre": "ONDATV",
+        "iframe_url": "https://dominicanplayers.com/video-player/280/0/0",
+        "fuente": "https://cableondaoriental.com/onda-tv/",
+        "pais": "do"
+    },
+    "RadioAntenaOriental": {
+        "nombre": "RadioAntenaOriental",
+        "m3u8_url": "https://srv.panelcast.net/tvantenaoriental2021/tvantenaoriental2021/playlist.m3u8",
+        "fuente": "https://radioantenaoriental.com/tv-online/https://cableondaoriental.com/onda-tv/",
+        "pais": "do"
+    },
+    "VOTV": {
+        "nombre": "VOTV",
+        "m3u8_url": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+        "fuente": "https://votv.cat/votv-en-directe/",
+        "pais": "do"
+    },
+    "HISPANTV": {
+        "nombre": "HISPANTV",
+        "m3u8_url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
+        "fuente": "https://www.hispantv.com/directo",
+        "pais": "ir"
+    },
+    "hispan-tv-Español": {
+        "nombre": "hispan tv Español",
+        "iframe_url": "https://odysee.com/$/embed/@hispantv:d/live:400?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX",
+        "fuente": "https://www.hispantv.com/",
+        "pais": "ir"
+    },
+    "press-1": {
+        "nombre": "press 1",
+        "m3u8_url": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8",
+        "fuente": "https://www.presstv.ir/",
+        "pais": "ir"
+    },
+    "press-2": {
+        "nombre": "press 2",
+        "iframe_url": "https://odysee.com/$/embed/@PressTV:2/Live:206?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX",
+        "fuente": "https://www.presstv.ir/",
+        "pais": "ir"
+    },
+    "press-3": {
+        "nombre": "press 3",
+        "iframe_url": "https://rumble.com/embed/v4ldkxb/?pub=14mhhj",
+        "fuente": "https://www.presstv.ir/",
+        "pais": "ir"
+    },
+    "iranintl": {
+        "nombre": "iranintl",
+        "iframe_url": "https://ott.iranintl.com/tv?lang=en#amp=1",
+        "fuente": "https://www.iranintl.com/en",
+        "pais": "ir"
+    },
+    "Shabakeh": {
+        "nombre": "Shabakeh",
+        "iframe_url": "http://www.parsatv.com/embed.php?name=Shabakeh-3&auto=false",
+        "fuente": "https://www.iranintl.com/en",
+        "pais": "ir"
+    },
+    "Shabakeh-3": {
+        "nombre": "Shabakeh 3",
+        "m3u8_url": "https://liveproxy.splus.ir/hls/tv3/tv3_1080/index.m3u8",
+        "fuente": "https://www.parsatv.com/name=Shabakeh-3",
+        "pais": "ir"
+    },
+    "iFilm": {
+        "nombre": "iFilm",
+        "iframe_url": "https://www.parsatv.com/embed.php?name=iFilm-Persian&auto=false",
+        "fuente": "http://www.imvbox.tv/es/ifilm/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-sahand": {
+        "nombre": "irib sahand",
+        "iframe_url": "https://telewebion.com/embed/live/sahand",
+        "fuente": "http://www.imvbox.tv/es/iribsahand/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-baran": {
+        "nombre": "irib baran",
+        "iframe_url": "https://www.parsatv.com/embed.php?name=baran&auto=false",
+        "fuente": "http://www.imvbox.tv/es/iribbaran/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-khorasan-ravazi": {
+        "nombre": "irib khorasan ravazi",
+        "iframe_url": "https://telewebion.com/embed/live/khorasanrazavi",
+        "fuente": "http://www.imvbox.tv/es/iribkhorasanravazi/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-kordestan": {
+        "nombre": "irib kordestan",
+        "iframe_url": "https://ott.iranintl.com/tv?lang=en#amp=1",
+        "fuente": "http://www.imvbox.tv/es/iribkordestan/live-channel/play",
+        "pais": "ir"
+    },
+    "iribazarbayjan": {
+        "nombre": "iribazarbayjan",
+        "iframe_url": "https://telewebion.com/embed/live/azarbayjangharbi",
+        "fuente": "http://www.imvbox.tv/es/iribazarbayjan/live-channel/play",
+        "pais": "ir"
+    },
+    "khorasan-jonoobi": {
+        "nombre": "khorasan-jonoobi",
+        "iframe_url": "https://telewebion.com/embed/live/khavaran",
+        "fuente": "http://www.imvbox.tv/es/khorasan-jonoobi/live-channel/play",
+        "pais": "ir"
+    },
+    "khorasan-shomali": {
+        "nombre": "khorasan-shomali",
+        "m3u8_url": "https://ncdn.telewebion.com/atrak/live/playlist.m3u8",
+        "fuente": "http://www.imvbox.tv/es/khorasan-shomali/live-channel/play",
+        "pais": "ir"
+    },
+    "iribtv2": {
+        "nombre": "iribtv2",
+        "iframe_url": "https://telewebion.com/embed/live/tv2",
+        "fuente": "http://www.imvbox.tv/es/iribtv2/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-tv2": {
+        "nombre": "irib tv2",
+        "iframe_url": "https://sepehrtv.ir/frame/t/tv2",
+        "fuente": "https://tv2.ir/live",
+        "pais": "ir"
+    },
+    "iribtv1": {
+        "nombre": "iribtv1",
+        "iframe_url": "https://telewebion.com/embed/live/tv1",
+        "fuente": "http://www.imvbox.tv/es/iribtv1/live-channel/play",
+        "pais": "ir"
+    },
+    "irinn": {
+        "nombre": "irinn",
+        "m3u8_url": "https://ncdn.telewebion.com/irinn/live/playlist.m3u8",
+        "fuente": "http://www.imvbox.tv/es/irinn/live-channel/play",
+        "pais": "ir"
+    },
+    "varzeshtv": {
+        "nombre": "varzeshtv",
+        "iframe_url": "https://sepehrtv.ir/frame/t/varzesh",
+        "fuente": "https://varzeshtv.ir/live#!",
+        "pais": "ir"
+    },
+    "iribnasim": {
+        "nombre": "iribnasim",
+        "iframe_url": "https://telewebion.com/embed/live/nasim",
+        "fuente": "http://www.imvbox.tv/es/iribnasim/live-channel/play",
+        "pais": "ir"
+    },
+    "iribtv5": {
+        "nombre": "iribtv5",
+        "iframe_url": "https://telewebion.com/embed/live/tehran",
+        "fuente": "http://www.imvbox.tv/es/iribtv5/live-channel/play",
+        "pais": "ir"
+    },
+    "iribtamasha": {
+        "nombre": "iribtamasha",
+        "iframe_url": "https://telewebion.com/embed/live/hdtest",
+        "fuente": "http://www.imvbox.tv/es/iribtamasha/live-channel/play",
+        "pais": "ir"
+    },
+    "iranintl": {
+        "nombre": "iranintl",
+        "iframe_url": "http://www.parsatv.com/embed.php?name=Namayesh&auto=false",
+        "fuente": "http://www.imvbox.tv/es/iribnamayesh/live-channel/play",
+        "pais": "ir"
+    },
+    "iribtv4": {
+        "nombre": "iribtv4",
+        "iframe_url": "https://telewebion.com/embed/live/tv4",
+        "fuente": "http://www.imvbox.tv/es/iribtv4/live-channel/play",
+        "pais": "ir"
+    },
+    "THTV": {
+        "nombre": "THTV",
+        "m3u8_url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thtv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HÀ-NỘI-1": {
+        "nombre": "HÀ NỘI 1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hanoi1.php",
+        "fuente": "https://hanoionline.vn/",
+        "pais": "vn"
+    },
+    "HÀ-NỘI": {
+        "nombre": "HÀ NỘI",
+        "m3u8_url": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8",
+        "fuente": "https://hanoionline.vn/",
+        "pais": "vn"
+    },
+    "ATV1": {
+        "nombre": "ATV1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/atv1.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-atv1-an-giang-tv-1-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "BTV": {
+        "nombre": "BTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/bltv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-bltv-bac-lieu-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "BTV-1": {
+        "nombre": "BTV 1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/binhthuan.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-btv-binh-thuan-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "BPTV2": {
+        "nombre": "BPTV2",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/bptv2.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-bptv2-binh-phuoc-tv-2-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "CRTV": {
+        "nombre": "CRTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/caobang.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-crtv-cao-bang-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "DRTV": {
+        "nombre": "DRTV",
+        "m3u8_url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-drt-dak-lak-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "PTD": {
+        "nombre": "PTD",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/ptd.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-ptd-dak-nong-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "LTV": {
+        "nombre": "LTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/lamdong.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-ltv-lam-dong-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "DRT1": {
+        "nombre": "DRT1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dn1.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-drt1-da-nang-tv-1-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "DRT2": {
+        "nombre": "DRT2",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dn2.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-drt2-da-nang-tv-2-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "DN1": {
+        "nombre": "DN1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dongnai1.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-dn1-dong-nai-tv-1-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "DN2": {
+        "nombre": "DN2",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dongnai2.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-dn2-dong-nai-tv-2-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "DN3": {
+        "nombre": "DN3",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dongnai3.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-dn3-dong-nai-tv-3-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "DTV": {
+        "nombre": "DTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/dtv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-dtv-dien-bien-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "THGL": {
+        "nombre": "THGL",
+        "m3u8_url": "https://tv.gialaitv.vn:8134/hls/gialaitv/gialaitv.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thgl-gia-lai-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HA-NAM-THHN": {
+        "nombre": "HA NAM THHN",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hanam.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thhn-ha-nam-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HGTV": {
+        "nombre": "HGTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hagiang.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-hgtv-ha-giang-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HTTV": {
+        "nombre": "HTTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/httv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-httv-ha-tinh-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "THDTV1": {
+        "nombre": "THDTV1",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/thdt.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thdt1-dong-thap-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "THDTV2": {
+        "nombre": "THDTV2",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/thdt2.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-thdt2-mientay-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HDTV": {
+        "nombre": "HDTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hdtv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-hdtv-hai-duong-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "STV": {
+        "nombre": "STV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/sonla.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-stv-sonla-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HGTV": {
+        "nombre": "HGTV",
+        "iframe_url": "http://xemtruyenhinh.xyz/kenh/hgtv.php",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-hgtv-hau-giang-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "KTV1": {
+        "nombre": "KTV1",
+        "m3u8_url": "https://tv.ktv.org.vn/hls/ktv1.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-ktv-khanh-hoa-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HBTVhoa": {
+        "nombre": "HBTVhoa",
+        "m3u8_url": "https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-krt-kontum-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "TRT1": {
+        "nombre": "TRT1",
+        "m3u8_url": "https://live.trt.com.vn/TRT-Online/chunklist.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-trt-thua-thien-hue-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "HYTV": {
+        "nombre": "HYTV",
+        "m3u8_url": "https://1253218859.e.cdneverest.net/aTZsLPt6DacIdU6mMkCF-Q/1711598005/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8",
+        "fuente": "https://hungyentv.vn/truc-tuyen",
+        "pais": "vn"
+    },
+    "KGTV": {
+        "nombre": "KGTV",
+        "m3u8_url": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8",
+        "fuente": "http://xemtruyenhinh.xyz/kenh-kgtv-kiengiang-tv-truc-tuyen-dia-phuong.html",
+        "pais": "vn"
+    },
+    "CANAL-12": {
+        "nombre": "CANAL 12",
+        "m3u8_url": "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.canal12.com.sv/envivo/?source=Internal&ref=Signals+Menu",
+        "pais": "sv"
+    },
+    "globovision": {
+        "nombre": "Globovisión En Vivo",
+        "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
+        "pais": "ve"
+    },
+    "cantina-tv": {
+        "nombre": "CANTINA TV",
+        "m3u8_url": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
+        "fuente": "http://www.cantinatv.com/",
+        "pais": "ve"
+    },
+    "teleSUR-tv": {
+        "nombre": "TeleSUR Tv",
+        "yt_id": "UCbHFKMtqLYkIBRiPHJwxu_w",
+        "pais": "ve"
+    },
+    "elo": {
+        "nombre": "ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv1live&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fm1_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M1&contentid=mtv1live&embedded=0&sourceUrl=https%3A%2F%2Fhirado.hu%2Felo%2Fm1%2F",
+        "fuente": "https://hirado.hu/elo/m1/",
+        "pais": "hu"
+    },
+    "m2-elo": {
+        "nombre": "M2 ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv2live&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fm2_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M2&contentid=mtv2live&embedded=0&sourceUrl=https%3A%2F%2Fmediaklikk.hu%2Fm2-elo%2F",
+        "fuente": "https://mediaklikk.hu/m2-elo/",
+        "pais": "hu"
+    },
+    "elo-m4-sport": {
+        "nombre": "ELO M4 SPORT",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv4live&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fm4_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M4%20Sport&contentid=mtv4live&embedded=0&sourceUrl=https%3A%2F%2Fm4sport.hu%2Felo%2Fmtv4live%2F",
+        "fuente": "https://m4sport.hu/elo/mtv4live/",
+        "pais": "hu"
+    },
+    "elo-m4plus-sport": {
+        "nombre": "ELO M4plus SPORT",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv4plus&noflash=yes&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M4%20Sport%20%2B&contentid=mtv4plus&embedded=0&sourceUrl=https%3A%2F%2Fm4sport.hu%2Felo%2Fmtv4plus%2F",
+        "fuente": "https://m4sport.hu/elo/mtv4plus/",
+        "pais": "hu"
+    },
+    "m5-elo": {
+        "nombre": "M5 ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv5live&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fm5_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M5&contentid=mtv5live&embedded=0&sourceUrl=https%3A%2F%2Fmediaklikk.hu%2Fm5-elo%2F",
+        "fuente": "https://mediaklikk.hu/m5-elo/",
+        "pais": "hu"
+    },
+    "duna-elo": {
+        "nombre": "DUNA ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=dunalive&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fduna_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=Duna&contentid=dunalive&embedded=0&sourceUrl=https%3A%2F%2Fmediaklikk.hu%2Fduna-elo%2F",
+        "fuente": "https://mediaklikk.hu/duna-elo/",
+        "pais": "hu"
+    },
+    "duna-world-elo": {
+        "nombre": "DUNA WORLD ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=dunaworldlive&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fdunaworld_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=Duna%20World&contentid=dunaworldlive&embedded=0&sourceUrl=https%3A%2F%2Fmediaklikk.hu%2Fduna-world-elo%2F",
+        "fuente": "https://mediaklikk.hu/duna-world-elo/",
+        "pais": "hu"
+    },
+    "hch-vivo": {
+        "nombre": "HCH En Vivo",
+        "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
+        "pais": "hn"
+    },
+    "rtve": {
+        "nombre": "RTVE Noticias",
+        "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
+        "pais": "es"
+    },
+    "rtve-radioficia": {
+        "nombre": "RTVE RADIOFICIAL",
+        "iframe_url": "https://www.rtve.es/play/videos/directo/ojo-critico-rne-arco-madrid-2024/",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
+    "rtve-LA1-oficial": {
+        "nombre": "RTVE LA1 OFICIAL",
+        "iframe_url": "https://www.rtve.es/play/videos/directo/la-1/",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
+    "RTVE-LA2-OFICIAL": {
+        "nombre": "RTVE LA2 OFICIAL",
+        "iframe_url": "https://www.rtve.es/play/videos/directo/la-2/",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
+    "RTVELA2-OFICIAL": {
+        "nombre": "RTVE LA2 OFICIAL",
+        "m3u8_url": "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8",
+        "fuente": "https://photocall.xyz/",
+        "pais": "es"
+    },
+    "rtve-oficial": {
+        "nombre": "RTVE OFICIA",
+        "iframe_url": "https://www.rtve.es/play/videos/directo/24h/",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
+    "GALICIA": {
+        "nombre": "GALICIA",
+        "m3u8_url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+        "fuente": "https://www.crtvg.es/portada",
+        "pais": "es"
+    },
+    "Canalsur": {
+        "nombre": "Canalsur",
+        "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&rel=0&modestbranding&enablejsapi=1&origin=https%3A%2F%2Fwww.canalsur.es",
+        "fuente": "https://www.canalsur.es/tv_directo-1193.html",
+        "pais": "es"
+    },
+    "señalespaña": {
+        "nombre": "señalespaña",
+        "iframe_url": "https://playerssl.radioonlinehd.com/tv91/xhunestv/",
+        "fuente": "https://senalespana.unes.edu.mx/",
+        "pais": "es"
+    },
+    "3CAT": {
+        "nombre": "3CAT",
+        "m3u8_url": "https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8",
+        "fuente": "https://www.ccma.cat/3cat/directes/324/",
+        "pais": "es"
+    },
+    "TV3-CAT": {
+        "nombre": "TV3-CAT",
+        "m3u8_url": "https://directes3-tv-int.ccma.cat/live-content/tvi-hls/master.m3u8",
+        "fuente": "https://www.ccma.cat/3cat/directes/tv3/",
+        "pais": "es"
+    },
+    "cnn-br": {
+        "nombre": "CNN Br",
+        "iframe_url": "https://www.youtube.com/embed/JYxTYQ1II5I?embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.cnnbrasil.com.br&widgetid=1",
+        "fuente": "https://www.cnnbrasil.com.br/ao-vivo/",
+        "pais": "br"
+    },
+    "CNN BRASIL": {
+        "nombre": "CNN BRASIL",
+        "yt_id": "UCvdwhh_fDyWccR42-rReZLw",
+        "pais": "br"
+    },
+    "workpointtv": {
+        "nombre": "workpointtv",
+        "iframe_url": "https://geo.dailymotion.com/player/x8wpe.html?video=k28IxkHn9OkzvvqoVob",
+        "fuente": "https://www.workpointtv.com/live-stream-page/",
+        "pais": "th"
+    },
+    "ANTV": {
+        "nombre": "ANTV",
+        "iframe_url": "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/782",
+        "pais": "id"
+    },
+    "TVONE": {
+        "nombre": "TVONE",
+        "iframe_url": "https://www.vidio.com/live/783/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/783",
+        "pais": "id"
+    },
+    "Tawaf": {
+        "nombre": "Tawaf",
+        "iframe_url": "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/12607",
+        "pais": "id"
+    },
+    "TRAX": {
+        "nombre": "TRAX",
+        "iframe_url": "https://www.vidio.com/live/7055/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/7055",
+        "pais": "id"
+    },
+    "DAAI": {
+        "nombre": "DAAI",
+        "iframe_url": "https://www.vidio.com/live/6482/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/6482",
+        "pais": "id"
+    },
+    "Kompas": {
+        "nombre": "Kompas",
+        "iframe_url": "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/6441",
+        "pais": "id"
+    },
+    "BTV": {
+        "nombre": "BTV",
+        "iframe_url": "https://www.vidio.com/live/6165/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/6165",
+        "pais": "id"
+    },
+    "Metro": {
+        "nombre": "Metro",
+        "iframe_url": "https://www.vidio.com/live/777/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/777",
+        "pais": "id"
+    },
+    "TVRI": {
+        "nombre": "TVRI",
+        "iframe_url": "https://www.vidio.com/live/6441/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/6441",
+        "pais": "id"
+    },
+    "Trans7": {
+        "nombre": "Trans7",
+        "iframe_url": "https://www.vidio.com/live/734/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/206",
+        "pais": "id"
+    },
+    "TRANS": {
+        "nombre": "TRANS",
+        "iframe_url": "https://www.vidio.com/live/733/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/733",
+        "pais": "id"
+    },
+    "Ardan-Radio": {
+        "nombre": "Ardan Radio",
+        "iframe_url": "https://www.vidio.com/live/7184/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/7184",
+        "pais": "id"
+    },
+    "TVN": {
+        "nombre": "TVN",
+        "iframe_url": "https://www.vidio.com/live/6362/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/6362",
+        "pais": "id"
+    },
+    "Zee-Bioskop": {
+        "nombre": "Zee Bioskop",
+        "iframe_url": "https://www.vidio.com/live/6399/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/6399",
+        "pais": "id"
+    },
+    "RANS": {
+        "nombre": "RANS",
+        "iframe_url": "https://www.vidio.com/live/8241/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/8241",
+        "pais": "id"
+    },
+    "AJWA": {
+        "nombre": "AJWA",
+        "iframe_url": "https://www.vidio.com/live/7464/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/7464",
+        "pais": "id"
+    },
+    "RTV": {
+        "nombre": "RTV",
+        "iframe_url": "https://www.vidio.com/live/1561/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/5415",
+        "pais": "id"
+    },
+    "NETV": {
+        "nombre": "NETV",
+        "iframe_url": "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/5415",
+        "pais": "id"
+    },
+    "JAKTV": {
+        "nombre": "JAKTV",
+        "iframe_url": "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/5415",
+        "pais": "id"
+    },
+    "Moji": {
+        "nombre": "Moji",
+        "iframe_url": "https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/206",
+        "pais": "id"
+    },
+    "SCTV": {
+        "nombre": "SCTV",
+        "iframe_url": "https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/204-sctv?schedule_id=3249308",
+        "pais": "id"
+    },
+    "Indosiar": {
+        "nombre": "Indosiar",
+        "iframe_url": "https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/205-indosiar",
+        "pais": "id"
+    },
+    "CNN-Chile00": {
+        "nombre": "CNN Chile00",
+        "iframe_url": "https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false",
+        "fuente": "https://www.vidio.com/live/733-trans-tv?schedule_id=3245518",
+        "pais": "id"
+    },
+    "CNN-C": {
+        "nombre": "CNN C",
+        "iframe_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+        "fuente": "https://www.cnnchile.com/",
+        "pais": "id"
+    },
+    "ANTV-1": {
+        "nombre": "ANTV 1",
+        "iframe_url": "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io",
+        "fuente": "https://www.antvklik.com/",
+        "pais": "id"
+    },
+    "TV1": {
+        "nombre": "TV1",
+        "iframe_url": "https://rtm-player.glueapi.io/latest/h/1",
+        "fuente": "https://rtmklik.rtm.gov.my/live/tv1",
+        "pais": "my"
+    },
+    "TV2": {
+        "nombre": "TV2",
+        "iframe_url": "https://rtm-player.glueapi.io/latest/h/2",
+        "fuente": "https://rtmklik.rtm.gov.my/live/tv2",
+        "pais": "my"
+    },
+    "Tv2-live": {
+        "nombre": "Tv2 live",
+        "iframe_url": "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv2/",
+        "fuente": "https://www.livetvmalaysia.online/2023/12/tv2-live.html",
+        "pais": "my"
+    },
+    "TV3": {
+        "nombre": "TV3",
+        "iframe_url": "https://desireevanessen.blogspot.com/2023/06/tvv3.html",
+        "fuente": "https://www.livetvmalaysia.online/2019/04/tv3.html",
+        "pais": "my"
+    },
+    "Okey": {
+        "nombre": "Okey",
+        "iframe_url": "https://rtm-player.glueapi.io/latest/h/3",
+        "fuente": "https://rtmklik.rtm.gov.my/live/okey",
+        "pais": "my"
+    },
+    "Okey1": {
+        "nombre": "Okey1",
+        "iframe_url": "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv-okey/",
+        "fuente": "https://www.livetvmalaysia.online/2018/05/okey.html",
+        "pais": "my"
+    },
+    "Beritartm": {
+        "nombre": "Beritartm",
+        "iframe_url": "https://rtm-player.glueapi.io/latest/h/5",
+        "fuente": "https://rtmklik.rtm.gov.my/live/beritartm",
+        "pais": "my"
+    },
+    "TV6": {
+        "nombre": "TV6",
+        "iframe_url": "https://rtm-player.glueapi.io/latest/h/6",
+        "fuente": "https://rtmklik.rtm.gov.my/live/tv6",
+        "pais": "my"
+    },
+    "Parliament-Live": {
+        "nombre": "Parliament Live",
+        "iframe_url": "https://rtm-player.glueapi.io/latest/h/7",
+        "fuente": "https://www.pmo.gov.my/parliament-live-dewan-rakyat/",
+        "pais": "my"
+    },
+    "boraktengahlapar": {
+        "nombre": "Boraktengahlapar",
+        "iframe_url": "https://rtm-player.glueapi.io/latest/h/13669",
+        "fuente": "https://rtmklik.rtm.gov.my/live/boraktengahlapar",
+        "pais": "my"
+    },
+    "Madani-Urdu-Live": {
+        "nombre": "Madani Urdu Live",
+        "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow",
+        "fuente": "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm",
+        "pais": "my"
+    },
+    "Bernama-TV-🇲🇾": {
+        "nombre": "Bernama TV 🇲🇾",
+        "iframe_url": "https://www.youtube.com/embed/-yN2chxbai4?enablejsapi=1&rel=0&showinfo=0&controls=1&html5=1&autoplay=1&mute=1&playsinline=1",
+        "fuente": "https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw",
+        "pais": "my"
+    },
+    "Astro-AWANI": {
+        "nombre": "Astro-AWANI",
+        "iframe_url": "https://geo.dailymotion.com/player/x7r7w.html?video=x8dbnq6&customConfig[keyvalues]=client_id%3Dnull&actionInfo=false&dmPubtool=new-cdn-ce-v2",
+        "fuente": "https://www.astroawani.com/video-terkini",
+        "pais": "my"
+    },
+    "TV9": {
+        "nombre": "TV9",
+        "iframe_url": "https://desireevanessen.blogspot.com/2023/06/tvv9.html",
+        "fuente": "https://www.livetvmalaysia.online/2019/04/tv9.html",
+        "pais": "my"
+    },
+    "Sukan": {
+        "nombre": "Sukan",
+        "iframe_url": "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/sukan-rtm/",
+        "fuente": "https://www.livetvmalaysia.online/2022/06/sukan.html",
+        "pais": "my"
+    },
+    "berita1": {
+        "nombre": "Berita1",
+        "iframe_url": "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/berita-rtm/",
+        "fuente": "https://www.livetvmalaysia.online/2022/09/berita.html",
+        "pais": "my"
+    },
+    "Ikim": {
+        "nombre": "Ikim",
+        "iframe_url": "https://tvizer.blogspot.com/2023/08/tv-ikim.html",
+        "fuente": "https://www.livetvmalaysia.online/2017/12/tv-ikim.html",
+        "pais": "my"
+    },
+    "Bernama-Tv1": {
+        "nombre": "Bernama Tv1",
+        "iframe_url": "https://desireevanessen.blogspot.com/2023/07/bernama.html",
+        "fuente": "https://www.livetvmalaysia.online/2017/12/bernama-tv.html",
+        "pais": "my"
+    },
+    "Selangor": {
+        "nombre": "Selangor",
+        "iframe_url": "https://paddlesportsportal.com/tvs.php",
+        "fuente": "https://www.livetvmalaysia.online/2017/12/tv-selangor.html",
+        "pais": "my"
+    },
+    "Awani-Tv1": {
+        "nombre": "Awani Tv1",
+        "iframe_url": "https://tvizer.blogspot.com/2023/08/astro-awani.html",
+        "fuente": "https://www.livetvmalaysia.online/2018/12/awani.html",
+        "pais": "my"
+    },
+    "Alhijrah": {
+        "nombre": "Alhijrah",
+        "iframe_url": "https://desireevanessen.blogspot.com/2023/07/didik.html",
+        "fuente": "https://www.livetvmalaysia.online/2019/04/ntv7.html",
+        "pais": "my"
+    },
+    "Motogp": {
+        "nombre": "Motogp",
+        "iframe_url": "https://desireevanessen.blogspot.com/2024/03/gp1.html",
+        "fuente": "https://www.livetvmalaysia.online/2018/12/motogp.html",
+        "pais": "my"
+    },
+    "Bola": {
+        "nombre": "Bola",
+        "iframe_url": "https://desireevanessen.blogspot.com/2024/03/foot.html",
+        "fuente": "https://www.livetvmalaysia.online/2018/03/bola.html",
+        "pais": "my"
+    },
+    "Dzrh": {
+        "nombre": "Dzrh",
+        "iframe_url": "https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3",
+        "fuente": "https://www.dzrh.com.ph/",
+        "pais": "ph"
+    },
+    "ABS-CBNEntertainment": {
+        "nombre": "ABS CBNEntertainment",
+        "iframe_url": "https://www.youtube.com/embed/RjTVJjuwHYI?si=_1Ix8iWvJehgoO0e",
+        "fuente": "https://ent.abs-cbn.com/",
+        "pais": "ph"
+    },
+    "Kapamilya": {
+        "nombre": "Kapamilya",
+        "iframe_url": "https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER",
+        "fuente": "https://www.youtube.com/@abscbnentertainment",
+        "pais": "ph"
+    },
+    "UNTV": {
+        "nombre": "UNTV",
+        "iframe_url": "https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO",
+        "fuente": "https://www.youtube.com/@UNTVNewsandRescue",
+        "pais": "ph"
+    },
+    "global-news": {
+        "nombre": "Global News",
+        "m3u8_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+        "fuente": "https://globalnews.ca/live/national/",
+        "pais": "ca"
+    },
+    "abc7-swfl": {
+        "nombre": "ABC7 SWFL",
+        "yt_id": "UCq9e_hCv2jvgck8WowW1NXg",
+        "pais": "us"
+    },
+    "abc-news": {
+        "nombre": "ABC News",
+        "m3u8_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+        "fuente": "https://abcnews.go.com/Live",
+        "pais": "us"
+    },
+    "agenda-free-tv": {
+        "nombre": "Agenda-Free TV",
+        "yt_id": "UCshCsg1YVKli8yBai-wa78w",
+        "pais": "us"
+    },
+    "agenda-free-tv-tw": {
+        "nombre": "Agenda-Free TV 2",
+        "iframe_url": "https://player.twitch.tv/?channel=agendafreetv&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/agendafreetv",
+        "pais": "us"
+    },
+    "bloomberg-us": {
+        "nombre": "Bloomberg US",
+        "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "fuente": "https://www.bloomberg.com/",
+        "pais": "us"
+    },
+    "bloomberg-europe": {
+        "nombre": "Bloomberg Europe",
+        "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+        "fuente": "https://www.bloomberg.com/europe",
+        "pais": "us"
+    },
+    "bloomberg-quicktake": {
+        "nombre": "Bloomberg QuickTake",
+        "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/qt.m3u8",
+        "fuente": "https://www.bloomberg.com/",
+        "pais": "us"
+    },
+    "cheddar": {
+        "nombre": "Cheddar",
+        "m3u8_url": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8",
+        "fuente": "https://cheddar.com/live",
+        "pais": "us"
+    },
+    "cbsn": {
+        "nombre": "CBSN",
+        "m3u8_url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8",
+        "fuente": "https://www.cbsnews.com/live/",
+        "pais": "us"
+    },
+    "fox-news-now": {
+        "nombre": "Fox News Now",
+        "m3u8_url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+        "fuente": "https://video.foxnews.com/v/6174103160001",
+        "pais": "us"
+    },
+    "newsmax": {
+        "nombre": "Newsmax",
+        "yt_id": "UCx6h-dWzJ5NpAlja1YsApdg",
+        "pais": "us"
+    },
+    "nbc-news": {
+        "nombre": "NBC News",
+        "yt_id": "UCeY0bbntWzzVIaj2z3QigXg",
+        "pais": "us"
+    },
+    "telemundo": {
+        "nombre": "Noticias Telemundo",
+        "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
+        "pais": "us"
+    },
+    "EWTN": {
+        "nombre": "EWTN",
+        "m3u8_url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+        "fuente": "https://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "MUSIC": {
+        "nombre": "30A Music USA",
+        "m3u8_url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "V2Beat": {
+        "nombre": "V2Beat TV",
+        "m3u8_url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "ONTVPortugal": {
+        "nombre": "ON TV Portugal",
+        "m3u8_url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "m2oItalia": {
+        "nombre": "m2o Italia",
+        "m3u8_url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "NRG91Grecia": {
+        "nombre": "NRG91 Grecia",
+        "m3u8_url": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "SpektraEspaña": {
+        "nombre": "Spektra TV España",
+        "m3u8_url": "https://cloudvideo.servers10.com:8081/8136/index.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "euronews-esp": {
+        "nombre": "euronews (Español)",
+        "yt_id": "UCyoGb3SMlTlB8CLGVH4c8Rw",
+        "pais": "fr"
+    },
+    "euronews-eng": {
+        "nombre": "euronews (English)",
+        "yt_id": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+        "pais": "fr"
+    },
+    "euronews-rus": {
+        "nombre": "euronews Русский",
+        "yt_id": "UCFzJjgVicCtFxJ5B0P_ei8A",
+        "pais": "fr"
+    },
+    "euronews-hun": {
+        "nombre": "euronews (magyarul)",
+        "yt_id": "UC4Ct8gIf9f0n4mdyGsFiZRA",
+        "pais": "fr"
+    },
+    "france-24-esp": {
+        "nombre": "FRANCE 24 Español",
+        "yt_id": "UCUdOoVWuWmgo1wByzcsyKDQ",
+        "pais": "fr"
+    },
+    "france-24-eng": {
+        "nombre": "FRANCE 24 English",
+        "yt_id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+        "pais": "fr"
+    },
+    "france-info": {
+        "nombre": "franceinfo",
+        "yt_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
+        "pais": "fr"
+    },
+    "dw-news-Español": {
+        "nombre": "DW News Español",
+        "m3u8_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "fuente": "https://www.dw.com/es/actualidad/s-30684",
+        "pais": "de"
+    },
+    "dw-news-Ingles": {
+        "nombre": "DW News Ingles",
+        "m3u8_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "fuente": "https://www.dw.com/en/top-stories/s-9097",
+        "pais": "de"
+    },
+    "dw-news": {
+        "nombre": "DW News",
+        "yt_id": "UCknLrEdhRCp1aegoMqRaCZg",
+        "pais": "de"
+    },
+    "dw-arabic": {
+        "nombre": "DW عربية",
+        "yt_id": "UC30ditU5JI16o5NbFsHde_Q",
+        "pais": "de"
+    },
+    "welt": {
+        "nombre": "WELT",
+        "yt_id": "UCZMsvbAhhRblVGXmEXW8TSA",
+        "pais": "de"
+    },
+    "arn1": {
+        "nombre": "ARN1",
+        "m3u8_url": "https://mcdn.daserste.de/daserste/de/master.m3u8?rn=2",
+        "fuente": "https://www.ard.de/",
+        "pais": "de"
+    },
+    "tagesschau": {
+        "nombre": "Tagesschau",
+        "m3u8_url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8?rn=4",
+        "fuente": "https://www.tagesschau.de/multimedia/livestreams/livestream1",
+        "pais": "de"
+    },
+    "HR1": {
+        "nombre": "HR1",
+        "m3u8_url": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL2hyLmRlL0xpdmVzdHJlYW0tSFI",
+        "pais": "de"
+    },
+    "NDR1": {
+        "nombre": "NDR1",
+        "m3u8_url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL25kci5kZS9MaXZlc3RyZWFtLU5EUi1OaWVkZXJzYWNoc2Vu",
+        "pais": "de"
+    },
+    "SR1": {
+        "nombre": "SR1",
+        "m3u8_url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8?rn=0",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ",
+        "pais": "de"
+    },
+    "WDR1": {
+        "nombre": "WDR1",
+        "m3u8_url": "https://mcdn.wdr.de/wdr/wdrfs/weltweit/master.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNkYTY2NGRlLTE4YzItNDY1MC1hNGZmLTRmNjQxNDcyMDcyYg",
+        "pais": "de"
+    },
+    "alpha-Uni": {
+        "nombre": "alpha Uni",
+        "m3u8_url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQVJELUFscGhh",
+        "pais": "de"
+    },
+    "Tagesschau-Nachrichten": {
+        "nombre": "Tagesschau Nachrichten",
+        "m3u8_url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8?rn=1",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvbGl2ZXN0cmVhbQ",
+        "pais": "de"
+    },
+    "Nordsee-ist-Mordsee": {
+        "nombre": "Nordsee ist Mordsee",
+        "m3u8_url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL25kci5kZS9MaXZlc3RyZWFtLU5EUi1OaWVkZXJzYWNoc2Vu",
+        "pais": "de"
+    },
+    "regio-tv": {
+        "nombre": "Regio Tv",
+        "m3u8_url": "https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.regio-tv.de/livestream-programm/",
+        "pais": "de"
+    },
+    "l-tv": {
+        "nombre": "L Tv",
+        "m3u8_url": "https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8",
+        "fuente": "https://www.l-tv.de/livestream.html",
+        "pais": "de"
+    },
+    "baden": {
+        "nombre": "baden",
+        "m3u8_url": "https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8",
+        "fuente": "https://www.baden-tv.com/programm/baden-tv-wochenprogramm/",
+        "pais": "de"
+    },
+    "baden-sued": {
+        "nombre": "baden sued",
+        "m3u8_url": "https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.baden-tv-sued.com/livestream/",
+        "pais": "de"
+    },
+    "franken-plus": {
+        "nombre": "franken plus",
+        "m3u8_url": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8",
+        "fuente": "https://www.franken.plus/",
+        "pais": "de"
+    },
+    "tvaktuell": {
+        "nombre": "Tvaktuell",
+        "m3u8_url": "https://stream02.welocal.stream/stream/fhd-tvaktuell_385673/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.tvaktuell.com/programm/programm/",
+        "pais": "de"
+    },
+    "augsburg": {
+        "nombre": "Augsburg",
+        "m3u8_url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.augsburg.tv/",
+        "pais": "de"
+    },
+    "otv": {
+        "nombre": "otv",
+        "m3u8_url": "https://stream05.welocal.stream/stream/fhd-otv_496277/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.otv.de/",
+        "pais": "de"
+    },
+    "rfo": {
+        "nombre": "Rfo",
+        "m3u8_url": "https://stream01.welocal.stream/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.rfo.de/",
+        "pais": "de"
+    },
+    "niederbayerntv": {
+        "nombre": "niederbayerntv",
+        "m3u8_url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://deggendorf.niederbayerntv.de/programm/wochenprogramm-kabel-2022/",
+        "pais": "de"
+    },
+    "niederbayerntv": {
+        "nombre": "niederbayerntv",
+        "m3u8_url": "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.niederbayerntv.de/",
+        "pais": "de"
+    },
+    "mittelrhein": {
+        "nombre": "mittelrhein",
+        "m3u8_url": "https://live2.telvi.de/hls/tvm_mid.m3u8",
+        "fuente": "https://www.tv-mittelrhein.de/livestream.html",
+        "pais": "de"
+    },
+    "rheinmaintv": {
+        "nombre": "Rheinmaintv",
+        "iframe_url": "https://www.blitzvideoserver.de/player.html?serverip=213.239.228.140&serverapp=rheinmaintv-live&streamname=livestream",
+        "fuente": "https://www.rheinmaintv.de/",
+        "pais": "de"
+    },
+    "sachsen-fernsehen": {
+        "nombre": "sachsen-fernsehen",
+        "m3u8_url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+        "fuente": "https://www.sachsen-fernsehen.de/sachsen-eins/",
+        "pais": "de"
+    },
+    "rnf": {
+        "nombre": "Rnf",
+        "m3u8_url": "https://stream05.welocal.stream/stream/fhd-rnf_280717/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.rnf.de/",
+        "pais": "de"
+    },
+    "rtk4": {
+        "nombre": "RTK4",
+        "iframe_url": "https://video.gjirafa.com/embed/rtk4",
+        "fuente": "https://video.gjirafa.com/rtk4",
+        "pais": "al"
+    },
+    "a2news": {
+        "nombre": "a2news",
+        "iframe_url": "https://www.youtube.com/embed/9pC3OAY-tIU?autoplay=1&mute=1",
+        "fuente": "https://a2news.com/live",
+        "pais": "al"
+    },
+    "rtv21": {
+        "nombre": "RTV21",
+        "iframe_url": "https://video.gjirafa.com/embed/rtv-21-live",
+        "fuente": "https://video.gjirafa.com/rtv-21-live",
+        "pais": "al"
+    },
+    "ktv": {
+        "nombre": "KTV",
+        "iframe_url": "https://video.gjirafa.com/embed/ktv-live",
+        "fuente": "https://video.gjirafa.com/ktv-live",
+        "pais": "al"
+    },
+    "t7": {
+        "nombre": "T7",
+        "iframe_url": "https://video.gjirafa.com/embed/t7-live",
+        "fuente": "https://video.gjirafa.com/t7-live",
+        "pais": "al"
+    },
+    "syrivision": {
+        "nombre": "Syrivision",
+        "iframe_url": "https://video.gjirafa.com/embed/syrivision",
+        "fuente": "https://video.gjirafa.com/syrivision",
+        "pais": "al"
+    },
+    "atv-live-tv": {
+        "nombre": "Atv-Live-tv",
+        "iframe_url": "https://video.gjirafa.com/embed/atv-live-tv",
+        "fuente": "https://video.gjirafa.com/atv-live-tv",
+        "pais": "al"
+    },
+    "rtk3": {
+        "nombre": "RTK3",
+        "iframe_url": "https://video.gjirafa.com/embed/rtk3",
+        "fuente": "https://video.gjirafa.com/rtk3",
+        "pais": "al"
+    },
+    "euronews-albania": {
+        "nombre": "Euronews Albania",
+        "iframe_url": "https://video.gjirafa.com/embed/euronews-albania-live",
+        "fuente": "https://video.gjirafa.com/euronews-albania-live",
+        "pais": "al"
+    },
+    "a2-cnn": {
+        "nombre": "a2-cnn",
+        "iframe_url": "https://video.gjirafa.com/embed/a2-cnn-live",
+        "fuente": "https://video.gjirafa.com/a2-cnn-live",
+        "pais": "al"
+    },
+    "zico-tv": {
+        "nombre": "Zico tv",
+        "iframe_url": "https://video.gjirafa.com/embed/zico-tv-live",
+        "fuente": "https://video.gjirafa.com/zico-tv-live",
+        "pais": "al"
+    },
+    "pro1-tv-2": {
+        "nombre": "pro1-tv-2",
+        "iframe_url": "https://video.gjirafa.com/embed/pro1-tv-2",
+        "fuente": "https://video.gjirafa.com/pro1-tv-2",
+        "pais": "al"
+    },
+    "tv-prizreni": {
+        "nombre": "tv-prizreni",
+        "iframe_url": "https://video.gjirafa.com/embed/tv-prizreni-live",
+        "fuente": "https://video.gjirafa.com/tv-prizreni-live",
+        "pais": "al"
+    },
+    "arta-news": {
+        "nombre": "arta news",
+        "iframe_url": "https://video.gjirafa.com/embed/arta-news",
+        "fuente": "https://video.gjirafa.com/arta-news",
+        "pais": "al"
+    },
+    "rtv-besa-live-2": {
+        "nombre": "rtv besa 2",
+        "iframe_url": "https://video.gjirafa.com/embed/rtv-besa-live-2",
+        "fuente": "https://video.gjirafa.com/rtv-besa-live-2",
+        "pais": "al"
+    },
+    "tv-news": {
+        "nombre": "tv news",
+        "iframe_url": "https://video.gjirafa.com/embed/tv-news-live",
+        "fuente": "https://video.gjirafa.com/tv-news-live",
+        "pais": "al"
+    },
+    "zeri-2": {
+        "nombre": "zeri 2",
+        "iframe_url": "https://video.gjirafa.com/embed/zeri-2",
+        "fuente": "https://video.gjirafa.com/zeri-2",
+        "pais": "al"
+    },
+    "adn-hd-live": {
+        "nombre": "Adnhd live",
+        "iframe_url": "https://video.gjirafa.com/embed/adn-hd-live",
+        "fuente": "https://video.gjirafa.com/adn-hd-live",
+        "pais": "al"
+    },
+    "rtk-1-sat": {
+        "nombre": "Rtk1 sat",
+        "iframe_url": "https://video.gjirafa.com/embed/rtk-1-sat",
+        "fuente": "https://video.gjirafa.com/rtk-1-sat",
+        "pais": "al"
+    },
+    "topnews": {
+        "nombre": "Topnews",
+        "iframe_url": "https://player.twitch.tv/?channel=topmedia_topnews&parent=top-channel.tv",
+        "fuente": "https://top-channel.tv/topnewslive/",
+        "pais": "al"
+    },
+    "abcnews": {
+        "nombre": "Abcnews",
+        "iframe_url": "https://player.twitch.tv/?channel=abcnewsal&parent=abcnews.al",
+        "fuente": "https://abcnews.al/live/",
+        "pais": "al"
+    },
+    "oranews": {
+        "nombre": "Oranews",
+        "iframe_url": "https://www.oranews.tv/livetv2.php",
+        "fuente": "https://www.oranews.tv/",
+        "pais": "al"
+    },
+    "news24": {
+        "nombre": "news24",
+        "iframe_url": "https://www.balkanweb.com/tvplayer/news-24.html?v=5",
+        "fuente": "https://www.news24.al/",
+        "pais": "al"
+    },
+    "rtsh-1": {
+        "nombre": "Rtsh 1",
+        "m3u8_url": "https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8",
+        "fuente": "https://tv.rtsh.al/kanalet/rtsh-1",
+        "pais": "al"
+    },
+    "nova24tv": {
+        "nombre": "nova24tv",
+        "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UCjYCgkpX1eQCTne99oT63yA",
+        "fuente": "https://nova24tv.si/",
+        "pais": "si"
+    },
+    "nova24tv": {
+        "nombre": "nova24tv1",
+        "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UCOGseusAY1nMkEhpmmz6Mmg",
+        "fuente": "https://nova24tv.si/",
+        "pais": "si"
+    },
+    "rtvslo": {
+        "nombre": "Rtvslo",
+        "m3u8_url": "https://cdn-live.rtvslo.si/hls/live/2099493/slo1_ott/hdntl=exp=1715732298~acl=%2f*~data=hdntl~hmac=e6429ce8c9288c5989b310afdbdf73a34ac7db36416597b1f84708af6ce7e50b/slo1_360p-new.m3u8",
+        "fuente": "https://www.rtvslo.si/tv/vzivo/tvs1",
+        "pais": "si"
+    },
+    "Rtcg": {
+        "nombre": "Rtcg",
+        "iframe_url": "https://cdn4.rtcg.me/",
+        "fuente": "https://rtcg.me/cir/tv/gledaj-tvcg3.html",
+        "pais": "me"
+    },
+    "gledaj-tvcgmne": {
+        "nombre": "Gledaj tvcgmne",
+        "m3u8_url": "https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/playlist.m3u8",
+        "fuente": "https://rtcg.me/",
+        "pais": "me"
+    },
+    "TV-Herceg-Novi": {
+        "nombre": "Herceg Novi",
+        "iframe_url": "https://player.twitch.tv?channel=tvhercegnovi&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fmontenegro%2Fmontenegro-005.html",
+        "fuente": "https://www.squidtv.net/europe/montenegro/montenegro-005.html",
+        "pais": "me"
+    },
+    "tvteuta": {
+        "nombre": "TVteuta",
+        "iframe_url": "https://video.gjirafa.com/embed/tv-teuta-live?autoplay=true&am=true",
+        "fuente": "http://tvteuta.com/live-tv/",
+        "pais": "me"
+    },
+    "z1tv": {
+        "nombre": "Z1tv",
+        "iframe_url": "https://iframe.dacast.com/live/c9333166-8b5f-52e8-f7f9-d79aaa828b31/d05ab737-2fd3-8e33-27de-58d48f73eebb",
+        "fuente": "https://www.z1tv.hr/hr/livestream/",
+        "pais": "hr"
+    },
+    "ct24": {
+        "nombre": "CT24",
+        "iframe_url": "https://player.ceskatelevize.cz/?useNewPlaylist=true&videoID=CH_24&sidp=10101491767&autoStart=true&origin=ct24&product=ct-zpravodajstvi&parentUrl=https%3A%2F%2Fct24.ceskatelevize.cz%2F%23live&disableAds=true&borderRadius=false",
+        "fuente": "https://ct24.ceskatelevize.cz/",
+        "pais": "cz"
+    },
+    "pink": {
+        "nombre": "Pink",
+        "m3u8_url": "https://live.rednet.rs/providus/pink1.m3u8",
+        "fuente": "https://www.pink.rs/",
+        "pais": "rs"
+    },
+    "redportalpink": {
+        "nombre": "Redportal Pink",
+        "m3u8_url": "https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8",
+        "fuente": "https://redportal.pink.rs/",
+        "pais": "rs"
+    },
+    "tv21": {
+        "nombre": "TV21",
+        "iframe_url": "https://www.youtube.com/channel/UCOYLBkApnQ7KzOvaD7WyARg/live",
+        "fuente": "https://mk.tv21.tv/live-tv/",
+        "pais": "mk"
+    },
+    "alfaomega": {
+        "nombre": "Alfaomega",
+        "m3u8_url": "https://www.youtube.com/channel/UCOYLBkApnQ7KzOvaD7WyARg/live",
+        "fuente": "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8",
+        "pais": "ro"
+    },
+    "digi24": {
+        "nombre": "Digi24",
+        "m3u8_url": "https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/b4d46cb0-ecc9-4db5-955f-1667f35ee131:SCL/variant/328325f5494203c31438adcc52e30a46/bandwidth/1477770.m3u8",
+        "fuente": "https://www.digi24.ro/live/digi24",
+        "pais": "ro"
+    },
+    "taiwanplustv": {
+        "nombre": "taiwanplustv",
+        "m3u8_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8",
+        "fuente": "https://www.taiwanplus.com/taiwanplustv",
+        "pais": "tw"
+    },
+    "ftv": {
+        "nombre": "ftv",
+        "iframe_url": "https://embed.4gtv.tv/ftv/M-FTV.html?player_mute=on",
+        "fuente": "https://m.ftv.com.tw/",
+        "pais": "tw"
+    },
+    "CTI": {
+        "nombre": "CTI",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/WPfPjbOLNfE?modestbranding=1",
+        "fuente": "https://www.youtube.com/@CtiDeepThroat",
+        "pais": "tw"
+    },
+    "Da-Ai": {
+        "nombre": "Da Ai",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/MIqUplvSRWA?autoplay=0&feature=player_detailpage&modestbranding=1",
+        "fuente": "https://www.youtube.com/@DaAiVideo",
+        "pais": "tw"
+    },
+    "EBC-News": {
+        "nombre": "EBC News",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/LuQ4S-i5zoE?modestbranding=1",
+        "fuente": "https://www.youtube.com/@newsebc",
+        "pais": "tw"
+    },
+    "FTV": {
+        "nombre": "FTV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/ylYJSBUgaMA?autoplay=0&feature=player_detailpage&modestbranding=1",
+        "fuente": "https://www.youtube.com/@FTV_News",
+        "pais": "tw"
+    },
+    "goodtv": {
+        "nombre": "goodtv",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/?list=UUpHgvLfY23_S6jvT8BuZ3kQ",
+        "fuente": "https://www.youtube.com/@goodtv",
+        "pais": "tw"
+    },
+    "NTDAPTV": {
+        "nombre": "NTDAPTV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/WIhgU_mc05A?modestbranding=1",
+        "fuente": "https://www.youtube.com/@NTDAPTV",
+        "pais": "tw"
+    },
+    "NTDTV": {
+        "nombre": "NTDTV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/WIhgU_mc05A?modestbranding=1",
+        "fuente": "https://www.youtube.com/@NTDAPTV",
+        "pais": "tw"
+    },
+    "SET-News": {
+        "nombre": "SET News",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/FoBfXvlOR6I?ecver=1&modestbranding=1",
+        "fuente": "https://www.youtube.com/@setnews",
+        "pais": "tw"
+    },
+    "TVBSNEWS01": {
+        "nombre": "TVBSNEWS01",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc?modestbranding=1",
+        "fuente": "https://www.youtube.com/@TVBSNEWS01",
+        "pais": "tw"
+    },
+    "ttv": {
+        "nombre": "ttv",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/xL0ch83RAK8?rel=0&autoplay=1&mute=1",
+        "fuente": "https://www.ttv.com.tw/",
+        "pais": "tw"
+    },
+    "ftv1": {
+        "nombre": "ftv1",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTV.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv2": {
+        "nombre": "ftv2",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FMTV.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv3": {
+        "nombre": "ftv3",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTTV.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv4": {
+        "nombre": "ftv4",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTVNews.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv5": {
+        "nombre": "ftv5",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTVDrama.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv6": {
+        "nombre": "ftv6",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTVVariety.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv7": {
+        "nombre": "ftv7",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTVTravel.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "globalnewstw": {
+        "nombre": "globalnewstw",
+        "iframe_url": "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live",
+        "fuente": "https://www.youtube.com/@globalnewstw",
+        "pais": "tw"
+    },
+    "hakkatv": {
+        "nombre": "hakkatv",
+        "iframe_url": "https://embed.4gtv.tv/hakka/hakkatv.html",
+        "fuente": "https://www.hakkatv.org.tw/live",
+        "pais": "tw"
+    },
+    "ipcf2": {
+        "nombre": "ipcf2",
+        "iframe_url": "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute",
+        "fuente": "https://www.ipcf.org.tw/zh-TW/Vod/Home",
+        "pais": "tw"
+    },
+    "mnews": {
+        "nombre": "mnews",
+        "iframe_url": "https://www.youtube.com/embed/5n0y6b0Q25o?playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fwww.mnews.tw&widgetid=1",
+        "fuente": "https://www.mnews.tw/",
+        "pais": "tw"
+    },
+    "TVBSNEWS01": {
+        "nombre": "TVBSNEWS01",
+        "iframe_url": "https://www.youtube.com/embed/2mCSYvcfhtc?si=zvjzjW3aahPJuTMC&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@TVBSNEWS01",
+        "pais": "tw"
+    },
+    "tvbsnews02": {
+        "nombre": "tvbsnews02",
+        "iframe_url": "https://www.youtube.com/embed/m_dhMSvUCIc?si=KD32L581c5R3G8tn&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@tvbsnews02",
+        "pais": "tw"
+    },
+    "PNNPTS": {
+        "nombre": "PNNPTS",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCexpzYDEnfmAvPSfG4xbcjA&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@PNNPTS",
+        "pais": "tw"
+    },
+    "EBC-Financial-News": {
+        "nombre": "EBC Financial News",
+        "iframe_url": "https://www.youtube.com/embed/LbS-xQ67fos?rel=0&enablejsapi=1&autoplay=1&mute=1&origin=https%3A%2F%2Ffnc.ebc.net.tw",
+        "fuente": "https://fnc.ebc.net.tw/",
+        "pais": "tw"
+    },
+    "Express-Finance-Satellite-TV": {
+        "nombre": "Express Finance TV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCiqm4JC8lbGqgePjHd3Mahw&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw",
+        "pais": "tw"
+    },
+    "sindatv2": {
+        "nombre": "sindatv2",
+        "iframe_url": "https://www.youtube.com/embed/ciwFpYofb28?autoplay=1",
+        "fuente": "http://www.sindatv.com.tw/?driect=tvshowlive",
+        "pais": "tw"
+    },
+    "SDTV-1": {
+        "nombre": "SDTV 1",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCHycXkewR3NXQE59t3hhlaQ&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/c/SDTV55ch",
+        "pais": "tw"
+    },
+    "elufa-tv": {
+        "nombre": "elufa tv",
+        "iframe_url": "https://player.twitch.tv/?channel=chuo_tv&parent=alplox.github.io",
+        "fuente": "http://www.elufa-tv.net/live.html",
+        "pais": "kp"
+    },
+    "NBS": {
+        "nombre": "NBS",
+        "m3u8_url": "https://media.joycorp.co.kr:4443/live/live_360p/chunklist_w1808117143.m3u8",
+        "fuente": "https://www.inbs.co.kr/onair.do",
+        "pais": "kr"
+    },
+    "ShopchannelOfficial": {
+        "nombre": "ShopchannelOfficial",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UC_I5Dmudikt3EFo0xMoHO8Q&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@ShopchannelOfficial",
+        "pais": "jp"
+    },
+    "QVCJapan": {
+        "nombre": "QVCJapan",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCmC_c4yFCCrPFRijE3c4Esw&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/user/QVCJapan/streams",
+        "pais": "jp"
+    },
+    "KagoshimaNewsKTS": {
+        "nombre": "KagoshimaNewsKTS",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCqPDZgcJtyPFhJM4qx-PuKg&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@KagoshimaNewsKTS/streams",
+        "pais": "jp"
+    },
+    "KBCnewsCH": {
+        "nombre": "KBCnewsCH",
+        "iframe_url": "https://www.youtube.com/embed/j0qAjKS4vLg?enablejsapi=1&autoplay=1&mute=1",
+        "fuente": "https://kbc.co.jp/news/",
+        "pais": "jp"
+    },
+    "rkbnews": {
+        "nombre": "rkbnews",
+        "iframe_url": "https://www.youtube.com/embed/EHe_t9ZjDDA?mute=true&enablejsapi=1&origin=https%3A%2F%2Frkb.jp&widgetid=1",
+        "fuente": "https://rkb.jp/live/",
+        "pais": "jp"
+    },
+    "HOME広島ニュース": {
+        "nombre": "HOME広島ニュース",
+        "iframe_url": "https://www.youtube.com/embed/e2pgLUmaxGs?si=75Rr75s2ArcPxqDq&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@home-news",
+        "pais": "jp"
+    },
+    "mbsnews": {
+        "nombre": "mbsnews",
+        "iframe_url": "https://www.youtube.com/embed/3p_gCyndPP4?si=pbRdCQlNL6xhCM8t&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@mbsnews",
+        "pais": "jp"
+    },
+    "NagoyaTVnewsCH": {
+        "nombre": "NagoyaTVnewsCH",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/-C6FE2m7kX8?autoplay=1",
+        "fuente": "https://www.youtube.com/@NagoyaTVnewsCH",
+        "pais": "jp"
+    },
+    "SBSnews6": {
+        "nombre": "SBSnews6",
+        "iframe_url": "https://www.youtube.com/embed/SyNNfue8Hkk?si=QRedL_HQ3uC5N_Gm&autoplay=1",
+        "fuente": "https://www.youtube.com/@SBSnews6",
+        "pais": "jp"
+    },
+    "SATV-News-24": {
+        "nombre": "SATV News 24",
+        "iframe_url": "https://www.youtube.com/embed/SyvBMGh0AvY?si=sX3rYHIseyRoiDVK&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@satv_news",
+        "pais": "jp"
+    },
+    "nsttv1": {
+        "nombre": "nsttv1",
+        "iframe_url": "https://www.youtube.com/embed/InjWVxkg5tc?si=XxoQoDvv7klj4wD-&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@niigata-news/streams",
+        "pais": "jp"
+    },
+    "nsttv2": {
+        "nombre": "nsttv2",
+        "iframe_url": "https://www.youtube.com/embed/GQ2_qEpzeek?si=Y4cAua_kyR9qETeq&rel=0&autoplay=1",
+        "fuente": "https://news.nsttv.com/",
+        "pais": "jp"
+    },
+    "HBCニュース北海道放送": {
+        "nombre": "HBCニュース 北海道放送",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCCTpf5c_9HDo_OSu3aX8uFQ&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ/streams",
+        "pais": "jp"
+    },
+    "STVニュース北海道": {
+        "nombre": "STVニュース北海道",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCOZv-6MiXqJdLpmYtR431Ow&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/channel/UCOZv-6MiXqJdLpmYtR431Ow",
+        "pais": "jp"
+    },
+    "uhb-news": {
+        "nombre": "Hokkaido News UHB",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCpQs_warGhUzJhBdwLfF34g&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@uhb1980/streams",
+        "pais": "jp"
+    },
+    "htbnews": {
+        "nombre": "htbnews",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCSWOnDD1KIriGmyQ7SgNA4A&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@htbnews",
+        "pais": "jp"
+    },
+    "asahi": {
+        "nombre": "asahi",
+        "iframe_url": "https://www.youtube.com/embed/3WzD_yVFORE?si=q6PnfT60rSDiDVYU?enablejsapi=1",
+        "fuente": "https://www.youtube.com/@asahicom/streams",
+        "pais": "jp"
+    },
+    "Weathernews": {
+        "nombre": "Weathernews",
+        "iframe_url": "https://www.youtube.com/embed/XnKuRcalaN4?si=va7IJYxP41vfq1GG?enablejsapi=1",
+        "fuente": "https://www.youtube.com/@weathernews/streams",
+        "pais": "jp"
+    },
+    "ntv24": {
+        "nombre": "NTV News 24",
+        "m3u8_url": "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8",
+        "fuente": "https://news.ntv.co.jp/live",
+        "pais": "jp"
+    },
+    "tbs": {
+        "nombre": "tbs",
+        "iframe_url": "https://www.youtube.com/embed/ohI356mwBp8?enablejsapi=1",
+        "fuente": "https://newsdig.tbs.co.jp/list/live",
+        "pais": "jp"
+    },
+    "ANNnewsCH": {
+        "nombre": "ANNnewsCH",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/coYw-eVU0Ks",
+        "fuente": "https://news.tv-asahi.co.jp/",
+        "pais": "jp"
+    },
+    "nhkworld": {
+        "nombre": "nhkworld",
+        "iframe_url": "https://www3.nhk.or.jp/nhkworld/common/player/tv/live/embed/embed.html",
+        "fuente": "https://www3.nhk.or.jp/nhkworld/en/live/",
+        "pais": "jp"
+    },
+    "cgntv": {
+        "nombre": "cgntv",
+        "iframe_url": "http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8",
+        "fuente": "http://japan.cgntv.net/",
+        "pais": "jp"
+    },
+    "24-Канал-онлайн": {
+        "nombre": "24 Канал онлайн",
+        "yt_id": "UCja992VI_u2e52c9FHQXw5A",
+        "pais": "ua"
+    },
+    "UA-Перший": {
+        "nombre": "UA:Перший",
+        "yt_id": "UCPY6gj8G7dqwPxg9KwHrj5Q",
+        "pais": "ua"
+    },
+    "live-chino-3": {
+        "nombre": "三立iNEWS",
+        "yt_id": "UCoNYj9OFHZn3ACmmeRCPwbA",
+        "pais": "cn"
+    },
+    "live-chino-4": {
+        "nombre": "中視新聞 HD直播頻道",
+        "yt_id": "UCmH4q-YjeazayYCVHHkGAMA",
+        "pais": "cn"
+    },
+    "live-chino-5": {
+        "nombre": "華視新聞 CH52",
+        "yt_id": "UCDCJyLpbfgeVE9iZiEam-Kg",
+        "pais": "cn"
+    },
+    "cgtn": {
+        "nombre": "CGTN",
+        "m3u8_url": "https://live.cgtn.com/1000/prog_index.m3u8",
+        "fuente": "https://www.cgtn.com/",
+        "pais": "cn"
+    },
+    "nhk-world": {
+        "nombre": "NHK World",
+        "iframe_url": "https://www3.nhk.or.jp/nhkworld/common/player/tv/live/embed/embed.html",
+        "fuente": "https://www3.nhk.or.jp/nhkworld/en/live/",
+        "pais": "jp"
+    },
+    "qvc": {
+        "nombre": "QVC",
+        "m3u8_url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+        "fuente": "https://tvjapanlive.com/live-tv/",
+        "pais": "jp"
+    },
+    "ANN-NEWS": {
+        "nombre": "ANN NEWS",
+        "iframe_url": "https://www.youtube.com/embed/coYw-eVU0Ks?autoplay=1",
+        "fuente": "https://news.tv-asahi.co.jp/",
+        "pais": "jp"
+    },
+    "CGN": {
+        "nombre": "CGN",
+        "iframe_url": "https://livetv.work/fireplayer/video/9aa42b31882ec039965f3c4923ce901b",
+        "fuente": "https://vipotv.com/cgn-tv-japan/",
+        "pais": "jp"
+    },
+    "CGN-TV": {
+        "nombre": "CGN TV",
+        "m3u8_url": "https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index_2.m3u8",
+        "fuente": "http://www.cgntv.net/onair/home.cgn",
+        "pais": "jp"
+    },
+    "tokyo-mx-1": {
+        "nombre": "Tokyo mx-1",
+        "iframe_url": "https://livetv.work/fireplayer/video/856fc81623da2150ba2210ba1b51d241",
+        "fuente": "https://vipotv.com/tokyo-mx-1/",
+        "pais": "jp"
+    },
+    "TBS-NEWS": {
+        "nombre": "TBS NEWS",
+        "iframe_url": "https://www.youtube.com/embed/ohI356mwBp8?enablejsapi=1",
+        "fuente": "https://newsdig.tbs.co.jp/list/live",
+        "pais": "jp"
+    },
+    "weathernews": {
+        "nombre": "weathernews",
+        "yt_id": "UCNsidkYpIAQ4QaufptQBPHQ",
+        "pais": "jp"
+    },
+    "HTB": {
+        "nombre": "HTB",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCSWOnDD1KIriGmyQ7SgNA4A&rel=0&autoplay=1",
+        "fuente": "https://www.htb.co.jp/",
+        "pais": "jp"
+    },
+    "asahi": {
+        "nombre": "Asahi",
+        "yt_id": "UCMKvT0YVLufHMdGLH89J1oA",
+        "pais": "jp"
+    },
+    "STV": {
+        "nombre": "STV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCOZv-6MiXqJdLpmYtR431Ow&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@stv9721/streams",
+        "pais": "jp"
+    },
+    "HBC": {
+        "nombre": "HBC",
+        "yt_id": "UCCTpf5c_9HDo_OSu3aX8uFQ",
+        "pais": "jp"
+    },
+    "SATV": {
+        "nombre": "SATV",
+        "yt_id": "UCvF5vIejmf-H_XSluaBldfg",
+        "fuente": "",
+        "pais": "jp"
+    },
+    "sbsnews": {
+        "nombre": "SBSNEWS",
+        "yt_id": "UCOLVB0iYK8ahQ0mFn-lF-8g",
+        "pais": "jp"
+    },
+    "nagoyatv": {
+        "nombre": "Nagoyatv",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/-C6FE2m7kX8?autoplay=1",
+        "fuente": "https://www.nagoyatv.com/",
+        "pais": "jp"
+    },
+    "MBS": {
+        "nombre": "MBS",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCkKJhKO73xF1pK5h9R82ZGQ&rel=0&autoplay=1",
+        "fuente": "https://www.mbs.jp/",
+        "pais": "jp"
+    },
+    "ABC": {
+        "nombre": "ABC",
+        "yt_id": "UCPW-5qfYGNR8XYrvESrqJKA",
+        "pais": "jp"
+    },
+    "ABC-1": {
+        "nombre": "ABC 1",
+        "yt_id": "https://www.youtube.com/embed/sTAqx_1Yrww?si=OPSFH0T5I-EeNYVn",
+        "fuente": "https://www.youtube.com/@abc6ch/streams",
+        "pais": "jp"
+    },
+    "Hiroshima-News-24": {
+        "nombre": "Hiroshima News 24",
+        "iframe_url": "https://www.youtube.com/embed/e2pgLUmaxGs?si=JddRudvsBGBS-o19",
+        "fuente": "https://www.youtube.com/@home-news/streams",
+        "pais": "jp"
+    },
+    "RKB": {
+        "nombre": "RKB",
+        "iframe_url": "https://www.youtube.com/embed/EHe_t9ZjDDA?mute=true&enablejsapi=1&origin=https%3A%2F%2Frkb.jp&widgetid=1",
+        "fuente": "https://rkb.jp/live/",
+        "pais": "jp"
+    },
+    "KBCNEWS1": {
+        "nombre": "KBCNEWS1",
+        "iframe_url": "https://www.youtube.com/embed/j0qAjKS4vLg?enablejsapi=1&autoplay=1&mute=1",
+        "fuente": "https://kbc.co.jp/news/",
+        "pais": "jp"
+    },
+    "Kagoshima-News-24": {
+        "nombre": "Kagoshima News 24",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCqPDZgcJtyPFhJM4qx-PuKg&rel=0&autoplay=1",
+        "fuente": "https://www.kts-tv.co.jp/news/",
+        "pais": "jp"
+    },
+    "Pokémon-Kids-TV": {
+        "nombre": "Pokémon Kids TV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCgbfG5HoczHIkpzxLYH-8Ww&rel=0&autoplay=1",
+        "fuente": "https://www.pokemon.jp/special/Pokemon-KidsTV/",
+        "pais": "jp"
+    },
+    "shopch": {
+        "nombre": "SHOP",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UC_I5Dmudikt3EFo0xMoHO8Q&rel=0&autoplay=1",
+        "fuente": "https://www.shopch.jp/",
+        "pais": "jp"
+    },
+    "trt-world": {
+        "nombre": "TRT World",
+        "yt_id": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+        "pais": "tr"
+    },
+    "BFZ-TURK": {
+        "nombre": "BFZ TURK",
+        "iframe_url": "https://bfzturk.com/",
+        "fuente": "https://bfzturk.com/",
+        "pais": "tr"
+    },
+    "trt-Haber": {
+        "nombre": "trt Haber",
+        "m3u8_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+        "fuente": "https://www.trthaber.com/",
+        "pais": "tr"
+    },
+    "CNNTURK": {
+        "nombre": "CNNTURK",
+        "m3u8_url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+        "fuente": "https://www.cnnturk.com/canli-yayin",
+        "pais": "tr"
+    },
+    "CNNTURK2": {
+        "nombre": "CNNTURK2",
+        "m3u8_url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+        "fuente": "https://www.cnnturk.com/canli-yayin",
+        "pais": "tr"
+    },
+    "NTV": {
+        "nombre": "NTV",
+        "iframe_url": "https://canlitv.center/yayin/ntv-izle-3",
+        "fuente": "https://www.ntv.com.tr/",
+        "pais": "tr"
+    },
+    "NTV2": {
+        "nombre": "NTV2",
+        "iframe_url": "https://canlitv.center/yayin/ntv-yt",
+        "fuente": "https://www.ntv.com.tr/",
+        "pais": "tr"
+    },
+    "startv": {
+        "nombre": "startv",
+        "iframe_url": "https://canlitv.center/yayin/star-tv-izle",
+        "fuente": "https://www.startv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "startv2": {
+        "nombre": "star2",
+        "iframe_url": "https://canlitv.com/player1/index.php?id=99",
+        "fuente": "https://www.startv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "show-tv": {
+        "nombre": "show",
+        "iframe_url": "https://canlitv.center/yayin/show-tv-izle",
+        "fuente": "https://www.ntv.com.tr/",
+        "pais": "tr"
+    },
+    "Tv8": {
+        "nombre": "Tv8",
+        "iframe_url": "https://www.canlitv.day/embed/?id=10924",
+        "fuente": "https://www.tv8.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "360-tv": {
+        "nombre": "360",
+        "iframe_url": "https://www.canlitv.day/embed/?id=15",
+        "fuente": "https://www.tv360.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "360-tv2": {
+        "nombre": "360-tv2",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+        "fuente": "https://www.tv360.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "HaberTURK": {
+        "nombre": "HaberTURK",
+        "m3u8_url": "https://haberturk.ercdn.net/channel01/channel01.m3u8",
+        "fuente": "https://www.haberturk.com/",
+        "pais": "tr"
+    },
+    "ATV": {
+        "nombre": "ATV",
+        "m3u8_url": "https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8",
+        "fuente": "https://www.youtube.com/@atvturkiye",
+        "pais": "tr"
+    },
+    "KTR": {
+        "nombre": "KTR",
+        "iframe_url": "https://www.youtube.com/embed/2e0DZuMlU8k",
+        "fuente": "https://www.krttv.com.tr/",
+        "pais": "tr"
+    },
+    "NOW-TURK": {
+        "nombre": "NOW TURK",
+        "m3u8_url": "http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8",
+        "fuente": "https://www.nowtv.com.tr/",
+        "pais": "tr"
+    },
+    "Akittv": {
+        "nombre": "Akittv",
+        "m3u8_url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+        "fuente": "https://www.akittv.com.tr/canli-izle",
+        "pais": "tr"
+    },
+    "Szctv": {
+        "nombre": "Szctv",
+        "iframe_url": "https://www.youtube.com/embed/2i8lfP9oqvk?autoplay=1&enablejsapi=1&playsinline=1",
+        "fuente": "https://www.szctv.com.tr/",
+        "pais": "tr"
+    },
+    "halk-tv": {
+        "nombre": "Halk tv",
+        "iframe_url": "https://www.youtube.com/embed/-HJwrahoMsQ?autoplay=1",
+        "fuente": "https://halktv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "halk-2": {
+        "nombre": "Halk 2",
+        "m3u8_url": "https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
+        "fuente": "https://halktv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "kanal-7": {
+        "nombre": "kanal-7",
+        "m3u8_url": "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
+        "fuente": "https://www.kanal7.com/canli-izle",
+        "pais": "tr"
+    },
+    "Beyaz-tv": {
+        "nombre": "Beyaz-tv",
+        "m3u8_url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+        "fuente": "https://m.beyaztv.com.tr/canli-yayin/",
+        "pais": "tr"
+    },
+    "fox-tv": {
+        "nombre": "Fox",
+        "m3u8_url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=zCY1RzFZbz487lsfl_3XkQ&e=1715916378",
+        "fuente": "https://www.nowtv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "fox1": {
+        "nombre": "fox1",
+        "m3u8_url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=desktop_web&st=zCY1RzFZbz487lsfl_3XkQ&e=1715916378",
+        "fuente": "https://canlitv.com/fox-tv",
+        "pais": "tr"
+    },
+    "tv24": {
+        "nombre": "tv24",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+        "fuente": "https://www.sabah.com.tr/video/canli-yayin/a2tv",
+        "pais": "tr"
+    },
+    "TV8": {
+        "nombre": "TV8",
+        "m3u8_url": "http://stream.tvcdn.net/ulusal/tv8.m3u8",
+        "fuente": "https://www.tv8.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "a2": {
+        "nombre": "a2",
+        "m3u8_url": "http://stream.tvcdn.net/eglence/a2.m3u8",
+        "fuente": "https://canlitv.com/fox-tv",
+        "pais": "tr"
+    },
+    "Tele1": {
+        "nombre": "Tele1",
+        "iframe_url": "https://www.youtube.com/embed/XqzbMohV_yY",
+        "fuente": "https://tele1.com.tr/canli-yayin/",
+        "pais": "tr"
+    },
+    "TV8,5": {
+        "nombre": "TV8,5",
+        "m3u8_url": "http://stream.tvcdn.net/eglence/tv8-5.m3u8",
+        "fuente": "https://canlitv.com/fox-tv",
+        "pais": "tr"
+    },
+    "TV100": {
+        "nombre": "TV100",
+        "yt_id": "UCndsdUW_oPLqpQJY9J8oIRg",
+        "pais": "tr"
+    },
+        "Trt": {
+        "nombre": "Trt",
+        "iframe_url": "https://www.tabii.com/tr/watch/live/trt1?trackId=150002",
+        "fuente": "https://www.trt.net.tr/yayin-akisi",
+        "pais": "tr"
+    },
+    "Trt-2": {
+        "nombre": "Trt 2",
+        "m3u8_url": "http://stream.tvcdn.net/eglence/trt-2.m3u8",
+        "fuente": "https://www.trt.net.tr/yayin-akisi",
+        "pais": "tr"
+    },
+    "Teve2": {
+        "nombre": "Teve2",
+        "m3u8_url": "http://stream.tvcdn.net/eglence/teve2.m3u8",
+        "fuente": "https://www.teve2.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "al-jazeera-english": {
+        "nombre": "Al Jazeera English",
+        "yt_id": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+        "pais": "qa"
+    },
+    "al-jazeera-english-2": {
+        "nombre": "AlJazeera Channel English 2",
+        "m3u8_url": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+        "fuente": "https://www.aljazeera.com/live/",
+        "pais": "qa"
+    },
+    "al-jazeera-arabe": {
+        "nombre": "AlJazeera Channel قناة الجزيرة",
+        "yt_id": "UCfiwzLy-8yKzIbsmZTzxDgw",
+        "pais": "qa"
+    },
+    "cna": {
+        "nombre": "CNA",
+        "yt_id": "UC83jt4dlz1Gjl58fzQrrKZg",
+        "pais": "sg"
+    },
+    "abc-news-au": {
+        "nombre": "ABC News AU",
+        "m3u8_url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+        "fuente": "https://www.abc.net.au/news/",
+        "pais": "au"
+    },
+    "naciones-unidas": {
+        "nombre": "Naciones Unidas",
+        "yt_id": "UC5O114-PQNYkurlTg6hekZw"
+    },
+    "lofi-girl": {
+        "nombre": "Lofi Girl",
+        "yt_embed": "jfKfPfyJRdk",
+        "fuente": "https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow",
+        "alt_icon": "<i class='bi bi-music-note-beamed'></i>"
+    },
+    "chillhop": {
+        "nombre": "Chillhop",
+        "yt_embed": "1KlXpm1Cyik",
+        "fuente": "https://www.youtube.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg",
+        "alt_icon": "<i class='bi bi-music-note-beamed'></i>"
+    },
+    "steezyasfuck": {
+        "nombre": "Steezyasfuck",
+        "yt_embed": "lP26UCnoH9s",
+        "fuente": "https://www.youtube.com/channel/UCsIg9WMfxjZZvwROleiVsQg",
+        "alt_icon": "<i class='bi bi-music-note-beamed'></i>"
+    },
+    "doom-radio": {
+        "nombre": "Doom Radio",
+        "yt_id": "UCR2D48i5MCMYwVKbgYIAftQ",
+        "alt_icon": "<i class='bi bi-music-note-beamed'></i>"
+    },
+    "acidjazz": {
+        "nombre": "AcidJazz",
+        "yt_embed": "zgp-WTwmDJg",
+        "fuente": "https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA",
+        "alt_icon": "<i class='bi bi-music-note-beamed'></i>"
+    },
+    "darkwave": {
+        "nombre": "The 80s Guy",
+        "yt_id": "UC6ghlxmJNMd8BE_u1HR-bTg",
+        "alt_icon": "<i class='bi bi-music-note-beamed'></i>"
+    },
+    "chill-with-taiki": {
+        "nombre": "Chill with Taiki",
+        "yt_embed": "qH3fETPsqXU",
+        "fuente": "https://www.youtube.com/channel/UCKdURsjh1xT1vInYBy82n6g",
+        "alt_icon": "<i class='bi bi-music-note-beamed'></i>"
+    },
+    "college-music": {
+        "nombre": "College Music",
+        "yt_embed": "QwXHcgZUnFI",
+        "fuente": "https://www.youtube.com/channel/UCWzZ5TIGoZ6o-KtbGCyhnhg",
+        "alt_icon": "<i class='bi bi-music-note-beamed'></i>"
+    },
+    "galeria-cima": {
+        "nombre": "Galería CIMA",
+        "yt_id": "UC4GOcOKkEefz5NamN4WyMFg",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "parquemet-cumbre": {
+        "nombre": "Halcón Parquemet, Cumbre",
+        "iframe_url": "https://g1.ipcamlive.com/player/player.php?alias=5a7084c9e0136&autoplay=true",
+        "fuente": "https://halcon.parquemet.cl/index.html",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "parquemet-terraza": {
+        "nombre": "Halcón Parquemet, Terraza",
+        "iframe_url": "https://g1.ipcamlive.com/player/player.php?alias=5a7085fe914c0&autoplay=true",
+        "fuente": "https://halcon.parquemet.cl/index.html",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "muni-osorno": {
+        "nombre": "Municipalidad Osorno",
+        "yt_id": "UCD7sqegDNyZxmdnCj6xqH6g",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "obelisco": {
+        "nombre": "FourSeasons BuenosAires",
+        "yt_id": "UCCkRwmztPEvut3gpsgmCmzw",
+        "pais": "ar",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "puente-gral-belgrano": {
+        "nombre": "SISE Argentina",
+        "yt_id": "UC2RkL2eATR1V6H8g4eNfA5Q",
+        "pais": "ar",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "times-square": {
+        "nombre": "Times Square Live 4K",
+        "yt_embed": "UVftxDFol90",
+        "fuente": "https://www.youtube.com/channel/UC6qrG3W8SMK0jior2olka3g",
+        "pais": "us",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "puente-brooklyn": {
+        "nombre": "St. George Tower",
+        "yt_embed": "TMqfF1WRJc0",
+        "fuente": "https://www.youtube.com/channel/UCp1ojgNJ8mNWdMDsdcMRA2Q",
+        "pais": "us",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "bryant-park": {
+        "nombre": "Bryant Park NYC",
+        "yt_id": "UC6AlfoRUeH4B1an_R5YSSTw",
+        "pais": "us",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "george-washington-bridge": {
+        "nombre": "Fort Lee Today On Demand",
+        "yt_id": "UChQ5P-kHBZpH20EnXm9X0YQ",
+        "pais": "us",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "RailCam": {
+        "nombre": "Aoba traffics",
+        "yt_id": "UCynDLZ-YJnrMLSQvwYi-bUA",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "hawaii-livecam": {
+        "nombre": "Aqualink Hawaii",
+        "yt_id": "UCTLF36lXVM7uiR-VolWHv0Q",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "daily-seoul": {
+        "nombre": "Daily Seoul Live Camera - Hangang",
+        "yt_id": "UCQKQTgZJo3PlxA-9V1Z51XA",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "camaras-aleatorias": {
+        "nombre": "Boston and Maine Live",
+        "yt_embed": "cUk-Xvlfs1I",
+        "fuente": "https://www.youtube.com/channel/UC8gbWbcNNyb5-NIXvFklkOA",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "namibiacam": {
+        "nombre": "NamibiaCam",
+        "yt_id": "UC9X6gGKDv2yhMoofoeS7-Gg",
+        "alt_icon": "<i class='bi bi-camera'></i>"
+    },
+    "nasa": {
+        "nombre": "NASA Live",
+        "yt_embed": "21X5lGlDOfg",
+        "fuente": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+        "alt_icon": "<i class='bi bi-rocket'></i>"
+    },
+    "spacex": {
+        "nombre": "SpaceX",
+        "yt_id": "UCtI0Hodo5o5dUb67FeUjDeA",
+        "alt_icon": "<i class='bi bi-rocket'></i>"
+    },
+    "blue-origin": {
+        "nombre": "Blue Origin",
+        "yt_id": "UCVxTHEKKLxNjGcvVaZindlg",
+        "alt_icon": "<i class='bi bi-rocket'></i>"
+    },
+    "virgin-galactic": {
+        "nombre": "Virgin Galactic",
+        "yt_id": "UClcvOr7LV8tlJwJvkNMmnKg",
+        "alt_icon": "<i class='bi bi-rocket'></i>"
+    },
+    "bob-ross": {
+        "nombre": "Bob Ross (Todas las Temporadas)",
+        "yt_playlist": "PLaLOVNqqD-2HgiA-GZyzcfZN9n-YelhB5",
+        "fuente": "https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ"
+    },
+    "tv-educa-cl": {
+        "nombre": "TV Educa Chile",
+        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5e74e53f1ab4eb073b19ef34.m3u8",
+        "fuente": "https://www.tvn.cl/envivo/tveducachile/",
+        "pais": "cl"
+    },
+    "tv-senado": {
+        "nombre": "TV Senado",
+        "iframe_url": "https://janus-tv.senado.cl/embed.php",
+        "fuente": "https://tv.senado.cl/",
+        "pais": "cl"
+    },
+    "tv-senado-2": {
+        "nombre": "TV Senado 2",
+        "m3u8_url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+        "fuente": "https://tv.senado.cl/",
+        "pais": "cl"
+    },
+    "tv-senado-3": {
+        "nombre": "TV Senado 3",
+        "yt_id": "UC4GJ43VNn4AYfiYa0RBCHQg",
+        "pais": "cl"
+    },
+    "tribunal-consti": {
+        "nombre": "Tribunal Constitucional",
+        "yt_id": "UCZaI-1N1oaGb-U8K2VNztjg",
+        "pais": "cl"
+    },
+    "poder-judicial": {
+        "nombre": "Poder Judicial",
+        "yt_id": "UCo0C1-ocUG9a0Yb3iO0V-xg",
+        "pais": "cl"
+    },
+    "cam-dipu-1": {
+        "nombre": "Cámara Diputados",
+        "m3u8_url": "https://wowlive.grupoz.cl/camara/live/chunklist_w1358283897_DVR.m3u8",
+        "fuente": "http://www.cdtv.cl/",
+        "pais": "cl"
+    },
+    "cam-dipu": {
+        "nombre": "Cámara Diputados YT",
+        "yt_id": "UCYd5k2TyOyOmUJNx0SH17KA",
+        "pais": "cl"
+    },
+    "cam-dipu-01": {
+        "nombre": "Cámara Diputados YT 01",
+        "yt_id": "UCcULnWuDzgQG9yF0Dv3DIgg",
+        "pais": "cl"
+    },
+    "cam-dipu-03": {
+        "nombre": "Cámara Diputados YT 03",
+        "yt_id": "UCF6KgLfQqQzekn8U1DwVs9g",
+        "pais": "cl"
+    },
+    "cam-dipu-05": {
+        "nombre": "Cámara Diputados YT 05",
+        "yt_id": "UC0QKtI8NpeMObauDylsSUDA",
+        "pais": "cl"
+    },
+    "cam-dipu-06": {
+        "nombre": "Cámara Diputados YT 06",
+        "yt_id": "UCspWzpGflwb6A8PZqWw49CQ",
+        "pais": "cl"
+    },
+    "cam-dipu-07": {
+        "nombre": "Cámara Diputados YT 07",
+        "yt_id": "UCyVjDDBZGDywVGrpGBvGEsw",
+        "pais": "cl"
+    },
+    "cam-dipu-08": {
+        "nombre": "Cámara Diputados YT 08",
+        "yt_id": "UCCtDbZzh63vgU_BWHRGsbug",
+        "pais": "cl"
+    },
+    "cam-dipu-11": {
+        "nombre": "Cámara Diputados YT 11",
+        "yt_id": "UCYPKjGKq2yLbAnmth5rFZmQ",
+        "pais": "cl"
+    },
+    "cam-dipu-12": {
+        "nombre": "Cámara Diputados YT 12",
+        "yt_id": "UCVOWFY-sgbDglBsfOap9okg",
+        "pais": "cl"
+    },
+    "cam-dipu-13": {
+        "nombre": "Cámara Diputados YT 13",
+        "yt_id": "UC33MG3YdoQ16a8a3wODh6lw",
+        "pais": "cl"
+    }
+}
